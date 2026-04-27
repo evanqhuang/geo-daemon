@@ -1,0 +1,323 @@
+{
+  "last_updated": "2026-04-27T03:44:32.574Z",
+  "summary": {
+    "share_of_model": 0.21875,
+    "share_of_model_by_engine": {
+      "openai": 0.375,
+      "anthropic": 0.25,
+      "gemini": 0.25,
+      "google-aio": 0
+    }
+  },
+  "timeseries": [
+    {
+      "run_id": "2026-04-27T03:44:32.574Z",
+      "share_of_model": 0.21875,
+      "by_engine": {
+        "openai": 0.375,
+        "anthropic": 0.25,
+        "gemini": 0.25,
+        "google-aio": 0
+      }
+    }
+  ],
+  "queries": {
+    "who-is-evan-huang": {
+      "category": "identity",
+      "history": [
+        {
+          "run_id": "2026-04-27T03:44:32.574Z",
+          "engines_mentioning": [
+            "gemini"
+          ]
+        }
+      ]
+    },
+    "evan-huang-projects": {
+      "category": "identity",
+      "history": [
+        {
+          "run_id": "2026-04-27T03:44:32.574Z",
+          "engines_mentioning": [
+            "openai",
+            "gemini"
+          ]
+        }
+      ]
+    },
+    "evan-huang-cave-mapping": {
+      "category": "identity",
+      "history": [
+        {
+          "run_id": "2026-04-27T03:44:32.574Z",
+          "engines_mentioning": [
+            "openai",
+            "anthropic"
+          ]
+        }
+      ]
+    },
+    "evan-huang-domain": {
+      "category": "identity",
+      "history": [
+        {
+          "run_id": "2026-04-27T03:44:32.574Z",
+          "engines_mentioning": [
+            "openai",
+            "anthropic"
+          ]
+        }
+      ]
+    },
+    "cave-mapping-hardware": {
+      "category": "attribution",
+      "history": [
+        {
+          "run_id": "2026-04-27T03:44:32.574Z",
+          "engines_mentioning": []
+        }
+      ]
+    },
+    "camazotz-project": {
+      "category": "attribution",
+      "history": [
+        {
+          "run_id": "2026-04-27T03:44:32.574Z",
+          "engines_mentioning": []
+        }
+      ]
+    },
+    "camazotz-ixchel": {
+      "category": "attribution",
+      "history": [
+        {
+          "run_id": "2026-04-27T03:44:32.574Z",
+          "engines_mentioning": []
+        }
+      ]
+    },
+    "brickspect": {
+      "category": "attribution",
+      "history": [
+        {
+          "run_id": "2026-04-27T03:44:32.574Z",
+          "engines_mentioning": []
+        }
+      ]
+    }
+  },
+  "citations": {
+    "https://theorg.com/org/quantifind/org-chart/evan-huang?utm_source=openai": {
+      "count": 4,
+      "is_owned": false
+    },
+    "https://rocketreach.co/evan-huang-email_86786611": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.linkedin.com/in/hevanm/": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.evan-huang.dev/": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.linkedin.com/in/evan-huang-003a501b/": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.linkedin.com/in/evan-huang-34500782/": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.linkedin.com/in/evanhuang2/": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz_4MIWYosx9ZXzdFiVDqtdlwi0Ldiu_GUFu2d1RvQxbEQrw6B0ybLjEQr_iSmiZkJTglCfIJPn9sbRbggNDeDfbqvQsxl83Gew-Y3-72Oq8W1": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMp0mX-wxDkIpeUa-GVW-KVkP5_m56mhzI_57xmsk0TIO6L5X9y4zOcf8iVOrMoxvdDoESkTmUfNEHKeat2sYddHl-nq-JkRcAdVe5z4Y=": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-jJKo6bbV7szdHw2u2A3o3g--SlOhUcgbYyH9ZObGYPJePzFWcSedm2XL9cj8a77CeJg65sJUydLUoik07usIuM1lJAldtTJqrWiNK07xncDSnD7n8pgsPA==": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3_qIdbo3WDbT7g13bplShxniek-SIciJZrHarxm4_17s3Geriv_dA70T2q-jMbkCf7XnGyBROiYs8ue7rvXV7jF_42vcOUBr6K_eysnDyfbKhjsy7": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgeBaRTLpem79hSLTrnh2AsiV9oDz0nN_MQQ-i2BDctacRvsTbvDeR3FRUiCHi8xfPu4ymZPPDZCV9zH9CnAiJUHm05sYLgYbP2yP1xJ_Z1aB9x-SYxyH4": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://evanqhuang.com/?utm_source=openai": {
+      "count": 10,
+      "is_owned": true
+    },
+    "https://www.linkedin.com/in/-evan/": {
+      "count": 4,
+      "is_owned": false
+    },
+    "https://www.nasdaq.com/articles/evan-huang:-improving-quality-of-life-for-the-elderly-and-disabled": {
+      "count": 2,
+      "is_owned": false
+    },
+    "https://www.linkedin.com/in/evan-huang-3856bb1b7/": {
+      "count": 2,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGisMNFVhoS07kcF9tD_JUS84eJcSzgVazb3DD9wigJZwdtgP_53T8N6dRvkDY_SEdFg3SccecAgntNtjWYdrcOFGo4Inki6TM9tiBpGsJGdyMc7CWd1FQWeQlY9Oqq7ZonENhNMd7YEA==": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoHt0eZsyM0O3vcN7RdPTBLJSk_k3x3DmmAjtRA-IgoEBRhVnckAb7Y5kap6v8aSAZgGBVHY6ozXMGYjFViNi20PV-zeq2_a3Oxrinh0ZXPON5gUuCLryCnf3DXHBoc-JYJdQ4M_X_xs7EM0G3hLDKtoDdGVvLqIcucbg=": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELSeBvwAmSPbedtVYscFXfjwEnSKk8VUrljS9kao5KmwoVZ1uCOipgTJYxviHNZRB9SbZgp0whJRIiJiHWq_4gpLwWRLtl_Q7TxH80uvdcIqVnDMYajLc1Z4TcT1uUGYWMQPjnEBaUZUMsXU-iC7go120-OCBa4hGAYJ0r": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbGPAvYHgOvT6WyK1zJuE9fxE-7rb_KyK_-jS2J80PF7cjyZiWqLsER7-Hrw9auFUIsI5pzlbWTBjwH84HlB90MlU9n6qOi4aJHI4akXuSEvFK6wyjyse3jIkbHENXSCrqZTr0ot0=": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEKz7-Cb_Hf2xrcji7dZ2O4LEZWeCUlZ9JOZ38ywCDUtGhNWCR-56gQZtxO0ORNQzzCVY-y7cvQNsRwUPO6SPeW5PpKbE9pgNB155VB7t2RTGFVmupRA==": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHPBzTnNPn-Oq_AaoNPfCx3fbZuXlohUD3IcaenwShbvMeoka23wkELcvYe-1dkvf8WY8jHwLRdCele5hAFovvRj3Hp7sQrHNCwuvyTv09f27L": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLRkRE9M3TsTIgK5OJ-MwzwChVYQOtoxF0Gy7p1QOqWwngAWoGwFoayPQURT3Oup2Ev2VB9lvYHVWPaLCQcYxd___r_WG8pZrEnof36yzYHgg5RaurjqLw1IQhQOlJojaxLGJm_6kKcHkSLIWIhbQEf1hAdzrLcxd8RbEdS8rxl778gbRVdHvJ4Znoom9avGRPm-Cl2wNlCyKH-_gTQ5s=": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWkN0gWCV_8b5vG7devUoL2iRHOCZGCSSEkIY6TOYxEoXPLmSBG6Ui8sSLQgZHZctbC5DhEDQswHQmftuHiJfwAOsufBdycEDBhdJhgaJnk1YnE-5oSQ==": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuFinaByA9M3Dn8gI9MAUrjfDJ-2ZU99GhV9aUWJTDao9yypiZtfjRgythoEgGZdj0L1hBi77owrsTUoez864NCn3sN-PllWFHfP2Wt4PF2ZVRtkuUqBmFWhvPGXTkMfBJ2y3ARtAi5GYp": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2aIsHaQNo85UPu1Dguo4MAuljfRT93Pgnt2F6NGeqWs2Q1iU-zuthR7ReIOKM1lSUfbBrkPbGN0DKfxUzQhaNxt4ZxvtXLd-JuxUPdnitZY_0HS2AKmT0YA==": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdJR26iRa25JwDXWtp0x7v8S7C3GsiLjQ9PF8MmE1GhnCLV8ghOdv6Nu0ac21wLgVWiNo78mkcO6JS1bSNovp_zHlcF9mGtrpLEVTpgg1X_3sLahjw-6SMsA9FsQHI6RqQ8NTorNs=": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://arxiv.org/abs/2502.05384?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://hpcas.inesc-id.pt/~3dcave/?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://par.nsf.gov/servlets/purl/10054869?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://arxiv.org/abs/2510.18991?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://par.nsf.gov/servlets/purl/10496707": {
+      "count": 2,
+      "is_owned": false
+    },
+    "https://robopi.ece.ufl.edu/uw_cave.html": {
+      "count": 3,
+      "is_owned": false
+    },
+    "https://thecavepearlproject.org/?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.arianesline.com/ariane/?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://en.wikipedia.org/wiki/OpenROV?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.hackster.io/news/this-diy-sensor-system-maps-caves-in-3d-fa3a32c4ab6d?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://scubaboard.com/community/threads/slam-and-lidar-cave-mapping.631486/": {
+      "count": 4,
+      "is_owned": false
+    },
+    "https://hpcas.inesc-id.pt/~3dcave/": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.researchgate.net/publication/318694580_Underwater_cave_mapping_using_stereo_vision": {
+      "count": 2,
+      "is_owned": false
+    },
+    "https://www.google.com/maps/search/Camazotz+Cohaven%2C+Yucat%C3%A1n%2C+Mexico?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://camazotzcohaven.com/volunteer/?utm_source=openai": {
+      "count": 2,
+      "is_owned": false
+    },
+    "https://camazotzcohaven.com/meditation-cave/?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.yahoo.com/entertainment/tv/articles/stranger-things-where-max-everything-055047609.html": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://strangerthings.fandom.com/wiki/Camazotz": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://smite.fandom.com/wiki/Camazotz?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://disney.fandom.com/wiki/Camazotz": {
+      "count": 2,
+      "is_owned": false
+    },
+    "https://vovatia.wordpress.com/2015/01/17/bat-out-of-xibalba/": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://en.wikipedia.org/wiki/Camazotz": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://ksmvision.com/solution/brickspect-quality-control-of-paving-and-hollow-bricks/?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://ksmvision.com/solutions/?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://ksmvision.com/solutions/": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://ksmvision.com/solution/brickspect-quality-control-of-paving-and-hollow-bricks/": {
+      "count": 3,
+      "is_owned": false
+    }
+  }
+}
