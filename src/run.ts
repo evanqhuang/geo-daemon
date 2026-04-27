@@ -4,7 +4,6 @@ import { parseArgs } from "node:util";
 import { loadConfig } from "./config.ts";
 import { analyze } from "./parse.ts";
 import { buildIndex } from "./rollup.ts";
-import { PerplexityProvider } from "./providers/perplexity.ts";
 import { OpenAIProvider } from "./providers/openai.ts";
 import { AnthropicProvider } from "./providers/anthropic.ts";
 import { GeminiProvider } from "./providers/gemini.ts";
@@ -22,7 +21,6 @@ function envOrThrow(key: string): string {
 
 function buildProviders(filter: Set<string> | null): Provider[] {
   const all: Provider[] = [
-    new PerplexityProvider(envOrThrow("PERPLEXITY_API_KEY")),
     new OpenAIProvider(envOrThrow("OPENAI_API_KEY")),
     new AnthropicProvider(envOrThrow("ANTHROPIC_API_KEY")),
     new GeminiProvider(envOrThrow("GEMINI_API_KEY")),
