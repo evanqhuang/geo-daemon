@@ -5,14 +5,27 @@ import type { Provider } from "./types.ts";
 const MODEL = "claude-sonnet-4-5-20250929";
 const ENGINE = "anthropic";
 
+interface AnthropicCitation {
+  type: string;
+  url?: string;
+  title?: string;
+}
+
 interface AnthropicTextBlock {
   type: "text";
   text: string;
-  citations?: { type: string; url?: string; title?: string }[];
+  citations?: AnthropicCitation[];
+}
+
+interface AnthropicRawBlock {
+  type: string;
+  text?: string;
+  citations?: AnthropicCitation[];
+  [key: string]: unknown;
 }
 
 interface AnthropicRaw {
-  content: ({ type: string } & Record<string, unknown>)[];
+  content: AnthropicRawBlock[];
 }
 
 export function parseResponse(
@@ -20,7 +33,7 @@ export function parseResponse(
   latency_ms: number,
 ): ProviderResult {
   const textBlocks = raw.content.filter(
-    (b): b is AnthropicTextBlock => b.type === "text",
+    (b): b is AnthropicTextBlock & AnthropicRawBlock => b.type === "text",
   );
   const text = textBlocks.map((b) => b.text).join("\n");
   const citations: Citation[] = [];
@@ -54,7 +67,8 @@ export class AnthropicProvider implements Provider {
         model: MODEL,
         max_tokens: 1024,
         messages: [{ role: "user", content: prompt }],
-        tools: [{ type: "web_search_20250305", name: "web_search" }],
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        tools: [{ type: "web_search_20250305", name: "web_search" }] as any,
       });
       return parseResponse(
         message as unknown as AnthropicRaw,
