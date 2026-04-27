@@ -1,0 +1,10 @@
+{
+  "candidates": [{
+    "content": { "parts": [{ "text": "Evan Huang is a software engineer." }] },
+    "groundingMetadata": {
+      "groundingChunks": [
+        { "web": { "uri": "https://evanqhuang.com", "title": "Evan Huang" } }
+      ]
+    }
+  }]
+}
