@@ -1,0 +1,11 @@
+{
+  "id": "stub",
+  "model": "sonar-pro",
+  "choices": [{
+    "message": {
+      "role": "assistant",
+      "content": "Stub response mentioning Evan Huang."
+    }
+  }],
+  "citations": ["https://evanqhuang.com", "https://github.com/evanqhuang"]
+}
