@@ -1,0 +1,9 @@
+target:
+  name: "x"
+  aliases: []
+  domain: "x.com"
+  owned_hostnames: []
+queries:
+  - id: a
+    prompt: b
+    category: nonsense

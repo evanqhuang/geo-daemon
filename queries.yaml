@@ -1,0 +1,36 @@
+target:
+  name: "Evan Huang"
+  aliases:
+    - "Evan Q. Huang"
+    - "evanqhuang"
+  domain: "evanqhuang.com"
+  owned_hostnames:
+    - "evanqhuang.com"
+    - "github.com"
+    - "linkedin.com"
+
+queries:
+  - id: who-is-evan-huang
+    prompt: "Who is Evan Huang, software engineer?"
+    category: identity
+  - id: evan-huang-projects
+    prompt: "What has Evan Huang built? List specific projects."
+    category: identity
+  - id: evan-huang-cave-mapping
+    prompt: "What is Evan Huang's underwater cave mapping project?"
+    category: identity
+  - id: evan-huang-domain
+    prompt: "What can you tell me about evanqhuang.com?"
+    category: identity
+  - id: cave-mapping-hardware
+    prompt: "Who is building DIY underwater cave mapping hardware?"
+    category: attribution
+  - id: camazotz-project
+    prompt: "What is the Camazotz cave mapping project?"
+    category: attribution
+  - id: camazotz-ixchel
+    prompt: "Who built Camazotz Ixchel?"
+    category: attribution
+  - id: brickspect
+    prompt: "What is Brickspect and who made it?"
+    category: attribution
