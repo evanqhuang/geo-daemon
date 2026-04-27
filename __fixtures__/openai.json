@@ -1,0 +1,18 @@
+{
+  "id": "stub",
+  "model": "gpt-4o-search-preview",
+  "choices": [{
+    "message": {
+      "content": "Per evanqhuang.com Evan Huang is a software engineer.",
+      "annotations": [
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://evanqhuang.com",
+            "title": "Evan Huang"
+          }
+        }
+      ]
+    }
+  }]
+}
