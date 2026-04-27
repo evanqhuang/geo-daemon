@@ -5,7 +5,7 @@
   "type": "module",
   "engines": { "node": ">=22" },
   "scripts": {
-    "daemon": "node --env-file=.env --import tsx src/run.ts",
+    "daemon": "sh -c 'if [ -f .env ]; then node --env-file=.env --import tsx src/run.ts; else node --import tsx src/run.ts; fi'",
     "test": "node --import tsx --test tests/**/*.test.ts"
   },
   "dependencies": {
