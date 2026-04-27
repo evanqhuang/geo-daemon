@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-04-27T03:44:32.574Z",
+  "last_updated": "2026-04-27T04:00:27.792Z",
   "summary": {
     "share_of_model": 0.21875,
     "share_of_model_by_engine": {
-      "openai": 0.375,
+      "openai": 0.25,
       "anthropic": 0.25,
-      "gemini": 0.25,
+      "gemini": 0.375,
       "google-aio": 0
     }
   },
   "timeseries": [
     {
-      "run_id": "2026-04-27T03:44:32.574Z",
+      "run_id": "2026-04-27T04:00:27.792Z",
       "share_of_model": 0.21875,
       "by_engine": {
-        "openai": 0.375,
+        "openai": 0.25,
         "anthropic": 0.25,
-        "gemini": 0.25,
+        "gemini": 0.375,
         "google-aio": 0
       }
     }
@@ -26,7 +26,7 @@
       "category": "identity",
       "history": [
         {
-          "run_id": "2026-04-27T03:44:32.574Z",
+          "run_id": "2026-04-27T04:00:27.792Z",
           "engines_mentioning": [
             "gemini"
           ]
@@ -37,10 +37,9 @@
       "category": "identity",
       "history": [
         {
-          "run_id": "2026-04-27T03:44:32.574Z",
+          "run_id": "2026-04-27T04:00:27.792Z",
           "engines_mentioning": [
-            "openai",
-            "gemini"
+            "openai"
           ]
         }
       ]
@@ -49,10 +48,11 @@
       "category": "identity",
       "history": [
         {
-          "run_id": "2026-04-27T03:44:32.574Z",
+          "run_id": "2026-04-27T04:00:27.792Z",
           "engines_mentioning": [
             "openai",
-            "anthropic"
+            "anthropic",
+            "gemini"
           ]
         }
       ]
@@ -61,10 +61,10 @@
       "category": "identity",
       "history": [
         {
-          "run_id": "2026-04-27T03:44:32.574Z",
+          "run_id": "2026-04-27T04:00:27.792Z",
           "engines_mentioning": [
-            "openai",
-            "anthropic"
+            "anthropic",
+            "gemini"
           ]
         }
       ]
@@ -73,7 +73,7 @@
       "category": "attribution",
       "history": [
         {
-          "run_id": "2026-04-27T03:44:32.574Z",
+          "run_id": "2026-04-27T04:00:27.792Z",
           "engines_mentioning": []
         }
       ]
@@ -82,7 +82,7 @@
       "category": "attribution",
       "history": [
         {
-          "run_id": "2026-04-27T03:44:32.574Z",
+          "run_id": "2026-04-27T04:00:27.792Z",
           "engines_mentioning": []
         }
       ]
@@ -91,7 +91,7 @@
       "category": "attribution",
       "history": [
         {
-          "run_id": "2026-04-27T03:44:32.574Z",
+          "run_id": "2026-04-27T04:00:27.792Z",
           "engines_mentioning": []
         }
       ]
@@ -100,7 +100,7 @@
       "category": "attribution",
       "history": [
         {
-          "run_id": "2026-04-27T03:44:32.574Z",
+          "run_id": "2026-04-27T04:00:27.792Z",
           "engines_mentioning": []
         }
       ]
@@ -108,14 +108,26 @@
   },
   "citations": {
     "https://theorg.com/org/quantifind/org-chart/evan-huang?utm_source=openai": {
-      "count": 4,
-      "is_owned": false
-    },
-    "https://rocketreach.co/evan-huang-email_86786611": {
       "count": 1,
       "is_owned": false
     },
-    "https://www.linkedin.com/in/hevanm/": {
+    "https://www.cake.me/me/evan-bdb7cd?locale=en&utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://theorg.com/org/epharmix/org-chart/evan-huang?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://e.xyehr.cn/?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://rocketreach.co/evan-huang-email_86786611": {
+      "count": 2,
+      "is_owned": false
+    },
+    "https://www.linkedin.com/in/evan-huang-003a501b/": {
       "count": 1,
       "is_owned": false
     },
@@ -123,99 +135,39 @@
       "count": 1,
       "is_owned": false
     },
-    "https://www.linkedin.com/in/evan-huang-003a501b/": {
-      "count": 1,
-      "is_owned": false
-    },
     "https://www.linkedin.com/in/evan-huang-34500782/": {
       "count": 1,
       "is_owned": false
     },
-    "https://www.linkedin.com/in/evanhuang2/": {
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGcd_GYvVM4uadVpN2lsubfUIVRzObI8ay8_moVqXf26D1ETO8MAqobpuUHfy5-UhoCA75vpowxsAuBmwRoR77z58smx8RBdKTB9fBApyghKUb": {
       "count": 1,
       "is_owned": false
     },
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz_4MIWYosx9ZXzdFiVDqtdlwi0Ldiu_GUFu2d1RvQxbEQrw6B0ybLjEQr_iSmiZkJTglCfIJPn9sbRbggNDeDfbqvQsxl83Gew-Y3-72Oq8W1": {
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKLFU8JTNk2YJyz2cxr86HG_g2a30y1DW-zD2wV0nO0I0NrRxQ4L7nELf-iUSSoLArsCsIgNj0ds5kwaVIj6vU9DrTIo9mK6qIdewpFdg=": {
       "count": 1,
       "is_owned": false
     },
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMp0mX-wxDkIpeUa-GVW-KVkP5_m56mhzI_57xmsk0TIO6L5X9y4zOcf8iVOrMoxvdDoESkTmUfNEHKeat2sYddHl-nq-JkRcAdVe5z4Y=": {
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIm4Qk9tJ_69pYfQv0DXHNWYKWH2peE5gmdCXLPR5zJy0rVT62QaaElw-kV0EdZmZyO1L9R8fbOmINqBDXLt2xvZIVi590XgtUzZE7t8bh_DuOB8sIGyw5HQ==": {
       "count": 1,
       "is_owned": false
     },
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-jJKo6bbV7szdHw2u2A3o3g--SlOhUcgbYyH9ZObGYPJePzFWcSedm2XL9cj8a77CeJg65sJUydLUoik07usIuM1lJAldtTJqrWiNK07xncDSnD7n8pgsPA==": {
-      "count": 1,
-      "is_owned": false
-    },
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3_qIdbo3WDbT7g13bplShxniek-SIciJZrHarxm4_17s3Geriv_dA70T2q-jMbkCf7XnGyBROiYs8ue7rvXV7jF_42vcOUBr6K_eysnDyfbKhjsy7": {
-      "count": 1,
-      "is_owned": false
-    },
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgeBaRTLpem79hSLTrnh2AsiV9oDz0nN_MQQ-i2BDctacRvsTbvDeR3FRUiCHi8xfPu4ymZPPDZCV9zH9CnAiJUHm05sYLgYbP2yP1xJ_Z1aB9x-SYxyH4": {
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG7ZWdQ4aYm5xAn34cHY7N4lsFXy_rUX-DVmDFE0jfAFqoUp2aWJdsfDZTw0yi0sJpatE4p6Zod7ovPVlWEosLO2zyUuenE6LYM7Gprvds3i9NsDYK": {
       "count": 1,
       "is_owned": false
     },
     "https://evanqhuang.com/?utm_source=openai": {
-      "count": 10,
+      "count": 14,
       "is_owned": true
     },
-    "https://www.linkedin.com/in/-evan/": {
-      "count": 4,
-      "is_owned": false
-    },
     "https://www.nasdaq.com/articles/evan-huang:-improving-quality-of-life-for-the-elderly-and-disabled": {
-      "count": 2,
+      "count": 3,
       "is_owned": false
     },
-    "https://www.linkedin.com/in/evan-huang-3856bb1b7/": {
-      "count": 2,
+    "https://www.linkedin.com/in/-evan/": {
+      "count": 3,
       "is_owned": false
     },
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGisMNFVhoS07kcF9tD_JUS84eJcSzgVazb3DD9wigJZwdtgP_53T8N6dRvkDY_SEdFg3SccecAgntNtjWYdrcOFGo4Inki6TM9tiBpGsJGdyMc7CWd1FQWeQlY9Oqq7ZonENhNMd7YEA==": {
-      "count": 1,
-      "is_owned": false
-    },
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoHt0eZsyM0O3vcN7RdPTBLJSk_k3x3DmmAjtRA-IgoEBRhVnckAb7Y5kap6v8aSAZgGBVHY6ozXMGYjFViNi20PV-zeq2_a3Oxrinh0ZXPON5gUuCLryCnf3DXHBoc-JYJdQ4M_X_xs7EM0G3hLDKtoDdGVvLqIcucbg=": {
-      "count": 1,
-      "is_owned": false
-    },
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELSeBvwAmSPbedtVYscFXfjwEnSKk8VUrljS9kao5KmwoVZ1uCOipgTJYxviHNZRB9SbZgp0whJRIiJiHWq_4gpLwWRLtl_Q7TxH80uvdcIqVnDMYajLc1Z4TcT1uUGYWMQPjnEBaUZUMsXU-iC7go120-OCBa4hGAYJ0r": {
-      "count": 1,
-      "is_owned": false
-    },
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbGPAvYHgOvT6WyK1zJuE9fxE-7rb_KyK_-jS2J80PF7cjyZiWqLsER7-Hrw9auFUIsI5pzlbWTBjwH84HlB90MlU9n6qOi4aJHI4akXuSEvFK6wyjyse3jIkbHENXSCrqZTr0ot0=": {
-      "count": 1,
-      "is_owned": false
-    },
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEKz7-Cb_Hf2xrcji7dZ2O4LEZWeCUlZ9JOZ38ywCDUtGhNWCR-56gQZtxO0ORNQzzCVY-y7cvQNsRwUPO6SPeW5PpKbE9pgNB155VB7t2RTGFVmupRA==": {
-      "count": 1,
-      "is_owned": false
-    },
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHPBzTnNPn-Oq_AaoNPfCx3fbZuXlohUD3IcaenwShbvMeoka23wkELcvYe-1dkvf8WY8jHwLRdCele5hAFovvRj3Hp7sQrHNCwuvyTv09f27L": {
-      "count": 1,
-      "is_owned": false
-    },
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLRkRE9M3TsTIgK5OJ-MwzwChVYQOtoxF0Gy7p1QOqWwngAWoGwFoayPQURT3Oup2Ev2VB9lvYHVWPaLCQcYxd___r_WG8pZrEnof36yzYHgg5RaurjqLw1IQhQOlJojaxLGJm_6kKcHkSLIWIhbQEf1hAdzrLcxd8RbEdS8rxl778gbRVdHvJ4Znoom9avGRPm-Cl2wNlCyKH-_gTQ5s=": {
-      "count": 1,
-      "is_owned": false
-    },
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWkN0gWCV_8b5vG7devUoL2iRHOCZGCSSEkIY6TOYxEoXPLmSBG6Ui8sSLQgZHZctbC5DhEDQswHQmftuHiJfwAOsufBdycEDBhdJhgaJnk1YnE-5oSQ==": {
-      "count": 1,
-      "is_owned": false
-    },
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuFinaByA9M3Dn8gI9MAUrjfDJ-2ZU99GhV9aUWJTDao9yypiZtfjRgythoEgGZdj0L1hBi77owrsTUoez864NCn3sN-PllWFHfP2Wt4PF2ZVRtkuUqBmFWhvPGXTkMfBJ2y3ARtAi5GYp": {
-      "count": 1,
-      "is_owned": false
-    },
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2aIsHaQNo85UPu1Dguo4MAuljfRT93Pgnt2F6NGeqWs2Q1iU-zuthR7ReIOKM1lSUfbBrkPbGN0DKfxUzQhaNxt4ZxvtXLd-JuxUPdnitZY_0HS2AKmT0YA==": {
-      "count": 1,
-      "is_owned": false
-    },
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdJR26iRa25JwDXWtp0x7v8S7C3GsiLjQ9PF8MmE1GhnCLV8ghOdv6Nu0ac21wLgVWiNo78mkcO6JS1bSNovp_zHlcF9mGtrpLEVTpgg1X_3sLahjw-6SMsA9FsQHI6RqQ8NTorNs=": {
-      "count": 1,
-      "is_owned": false
-    },
-    "https://arxiv.org/abs/2502.05384?utm_source=openai": {
+    "https://robopi.ece.ufl.edu/cavepi.html?utm_source=openai": {
       "count": 1,
       "is_owned": false
     },
@@ -227,23 +179,39 @@
       "count": 1,
       "is_owned": false
     },
-    "https://arxiv.org/abs/2510.18991?utm_source=openai": {
-      "count": 1,
-      "is_owned": false
-    },
     "https://par.nsf.gov/servlets/purl/10496707": {
-      "count": 2,
+      "count": 1,
       "is_owned": false
     },
     "https://robopi.ece.ufl.edu/uw_cave.html": {
       "count": 3,
       "is_owned": false
     },
-    "https://thecavepearlproject.org/?utm_source=openai": {
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8rSjJAvuwcynWU3x7p2_Xl2z-yeq0dBRXP5YsEjQ2LhjJ_aJUAlXrHh7bBmUr_0IzS6RJVIII4srD2sO9oelKFGW-8u1K10iDIXeSEVi0RFPHnrToo-Wn": {
       "count": 1,
       "is_owned": false
     },
-    "https://www.arianesline.com/ariane/?utm_source=openai": {
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwJvCYoXxJzA6fukV-xguVbp6eMSqAQsRySh1K_Qnueb-I4_GMHN93ecTKu1xZfmN4bcRSdHGRLvJ-_El49UF9plnIzSIloOPib00esCUaI3xn": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHSi2QoHNXc4L4VwXIlYavB8drYnipbLn2tWWS0E4IE4AcexHrOcY1qFpkwt6QDjBYvadpbBJTSS9aF7rFM9jEknYUV-s94Iheua9A1cKbElTRiOUOBpIj": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqWwTcCySPS-IzV-rE3NZGgl6TLffGAz55IsAafHvNFAvHmSPoTLn2Tpk3f2Qrp4QxLlJ0eqJ2pCiQbOBGDrkuqdVcrltFTnNm9i5MTjDiGvnTNSR-wU2BLHQTVKO8CoPrRaAcdrUA": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH75t3frLc-QORmI4pOYg63lMGW4rX_6Rd6nEc5kG6wyQN916GkyMy6GDz2XmFNRgr9Mgb7s8GLim7YUNHfTj1K90sFHxJHUfKivdiyBVEg6b_2uS5P4pZX8RwfSnVImlKAN-s8ZGbRlmdvEs4Y40z7PK458cQJemZx4HyYmnKSJ7fD6TlTGdRL0h2Yw==": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYh-f5ewTQxnl1HeyRlAtrWKThuHoWEPQKIknUQueYUzJLkM1gtcjjbx2yHwf9Z_kWx-EkQ7tFgTC-cmZKbPpMyIKicPQYRtsExBhjjKIg58L9qaqJHQ0q6O0Bs5AA0j63cU8zJBxqWP1ZIw==": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://thecavepearlproject.org/?utm_source=openai": {
       "count": 1,
       "is_owned": false
     },
@@ -255,15 +223,15 @@
       "count": 1,
       "is_owned": false
     },
+    "https://www.raspberrypi.com/news/cave-mapping-with-raspberry-shake/?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
     "https://scubaboard.com/community/threads/slam-and-lidar-cave-mapping.631486/": {
       "count": 4,
       "is_owned": false
     },
     "https://hpcas.inesc-id.pt/~3dcave/": {
-      "count": 1,
-      "is_owned": false
-    },
-    "https://www.researchgate.net/publication/318694580_Underwater_cave_mapping_using_stereo_vision": {
       "count": 2,
       "is_owned": false
     },
@@ -275,12 +243,16 @@
       "count": 2,
       "is_owned": false
     },
+    "https://camazotzcohaven.com/bat-cave-challenge/?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
     "https://camazotzcohaven.com/meditation-cave/?utm_source=openai": {
       "count": 1,
       "is_owned": false
     },
     "https://www.yahoo.com/entertainment/tv/articles/stranger-things-where-max-everything-055047609.html": {
-      "count": 1,
+      "count": 2,
       "is_owned": false
     },
     "https://strangerthings.fandom.com/wiki/Camazotz": {
@@ -296,11 +268,7 @@
       "is_owned": false
     },
     "https://vovatia.wordpress.com/2015/01/17/bat-out-of-xibalba/": {
-      "count": 1,
-      "is_owned": false
-    },
-    "https://en.wikipedia.org/wiki/Camazotz": {
-      "count": 1,
+      "count": 2,
       "is_owned": false
     },
     "https://ksmvision.com/solution/brickspect-quality-control-of-paving-and-hollow-bricks/?utm_source=openai": {
@@ -312,11 +280,11 @@
       "is_owned": false
     },
     "https://ksmvision.com/solutions/": {
-      "count": 1,
+      "count": 5,
       "is_owned": false
     },
     "https://ksmvision.com/solution/brickspect-quality-control-of-paving-and-hollow-bricks/": {
-      "count": 3,
+      "count": 1,
       "is_owned": false
     }
   }
