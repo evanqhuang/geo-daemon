@@ -2,7 +2,7 @@ import { GoogleGenAI } from "@google/genai";
 import type { ProviderResult, Citation } from "../types.ts";
 import type { Provider } from "./types.ts";
 
-const MODEL = "gemini-3-flash-preview";
+const MODEL = "gemini-2.5-flash";
 const ENGINE = "gemini";
 
 interface GeminiRaw {
