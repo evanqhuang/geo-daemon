@@ -1,0 +1,10 @@
+{
+  "ai_overview": {
+    "text_blocks": [
+      { "type": "paragraph", "snippet": "Evan Huang is a software engineer." }
+    ],
+    "references": [
+      { "link": "https://evanqhuang.com", "title": "Evan Huang" }
+    ]
+  }
+}
