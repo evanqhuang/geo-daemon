@@ -2,7 +2,7 @@ import OpenAI from "openai";
 import type { ProviderResult, Citation } from "../types.ts";
 import type { Provider } from "./types.ts";
 
-const MODEL = "gpt-4o-search-preview";
+const MODEL = "gpt-4o-mini-search-preview";
 const ENGINE = "openai";
 
 interface OpenAIRaw {

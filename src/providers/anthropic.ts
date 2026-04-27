@@ -2,7 +2,7 @@ import Anthropic from "@anthropic-ai/sdk";
 import type { ProviderResult, Citation } from "../types.ts";
 import type { Provider } from "./types.ts";
 
-const MODEL = "claude-sonnet-4-5-20250929";
+const MODEL = "claude-haiku-4-5-20251001";
 const ENGINE = "anthropic";
 
 interface AnthropicCitation {
