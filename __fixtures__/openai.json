@@ -1,18 +1,71 @@
 {
-  "id": "stub",
-  "model": "gpt-4o-search-preview",
-  "choices": [{
-    "message": {
-      "content": "Per evanqhuang.com Evan Huang is a software engineer.",
-      "annotations": [
-        {
-          "type": "url_citation",
-          "url_citation": {
-            "url": "https://evanqhuang.com",
-            "title": "Evan Huang"
+  "id": "chatcmpl-3fee7d00-fefe-4ead-891a-050cef652381",
+  "object": "chat.completion",
+  "created": 1777258836,
+  "model": "gpt-4o-mini-search-preview-2025-03-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The name \"Evan Huang\" is associated with several professionals in the software engineering field:\n\n1. **Evan Huang – Full Stack Data Scientist at Quantifind**: Evan has a diverse background in data science and software engineering. He earned a Master's Degree in Electrical Engineering from Stanford University, focusing on AI, stochastic systems, and deep learning. He has held roles such as Data Scientist at Quantifind and teaching assistant at the University of Pennsylvania. ([theorg.com](https://theorg.com/org/quantifind/org-chart/evan-huang?utm_source=openai))\n\n2. **Evan Huang – Senior Software Engineer at Delta Electronics, Inc.**: With over a decade of experience, Evan specializes in smart manufacturing, AI, data analysis, computer vision, and cloud applications. He has led projects like the development and implementation of an intelligent injection molding monitoring platform, integrating over 200 machines and reducing material waste by 4%. ([cake.me](https://www.cake.me/me/evan-bdb7cd?locale=en&utm_source=openai))\n\n3. **Evan Huang – Chief Developer at Epharmix**: Evan co-founded Epharmix, a digital healthcare company that creates clinically validated communication tools. He holds a Bachelor's Degree in Computer Science from Washington University in St. Louis. ([theorg.com](https://theorg.com/org/epharmix/org-chart/evan-h?utm_source=openai))\n\n4. **Evan Huang – Frontend Developer and Founder of T Tech-Art Studio**: Based in Shenzhen, China, Evan is a frontend developer with expertise in React, Next.js, and TypeScript. He founded T Tech-Art Studio, a community-driven web development studio, and has developed projects like One Calendar, a privacy-first calendar web app. ([e.xyehr.cn](https://e.xyehr.cn/?utm_source=openai))\n\nGiven the commonality of the name, it's important to note that multiple individuals named Evan Huang have made significant contributions to software engineering in various domains. ",
+        "refusal": null,
+        "annotations": [
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "end_index": 568,
+              "start_index": 480,
+              "title": "Evan Huang - Full Stack Data Scientist at Quantifind | The Org",
+              "url": "https://theorg.com/org/quantifind/org-chart/evan-huang?utm_source=openai"
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "end_index": 1035,
+              "start_index": 960,
+              "title": "Evan Huang - Senior Software Engineer - Delta Electronics, Inc. (台達電子工業 股份有限公司) | Cake",
+              "url": "https://www.cake.me/me/evan-bdb7cd?locale=en&utm_source=openai"
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "end_index": 1368,
+              "start_index": 1286,
+              "title": "Evan H. - Co-Founder / Chief Developer at Epharmix | The Org",
+              "url": "https://theorg.com/org/epharmix/org-chart/evan-h?utm_source=openai"
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "end_index": 1754,
+              "start_index": 1701,
+              "title": "Evan Huang",
+              "url": "https://e.xyehr.cn/?utm_source=openai"
+            }
           }
-        }
-      ]
+        ]
+      },
+      "finish_reason": "stop"
     }
-  }]
+  ],
+  "usage": {
+    "prompt_tokens": 8,
+    "completion_tokens": 415,
+    "total_tokens": 423,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "system_fingerprint": ""
 }

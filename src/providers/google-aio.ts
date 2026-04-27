@@ -4,14 +4,17 @@ import type { Provider } from "./types.ts";
 const MODEL = "google-ai-overview";
 const ENGINE = "google-aio";
 
-interface SerpApiRaw {
-  ai_overview?: {
-    text_blocks?: { type: string; snippet?: string; list?: { snippet?: string }[] }[];
-    references?: { link: string; title?: string }[];
-  };
+interface AiOverview {
+  page_token?: string;
+  text_blocks?: { type: string; snippet?: string; list?: { snippet?: string }[] }[];
+  references?: { link: string; title?: string }[];
 }
 
-function flattenText(blocks: NonNullable<SerpApiRaw["ai_overview"]>["text_blocks"] = []): string {
+interface SerpApiRaw {
+  ai_overview?: AiOverview;
+}
+
+function flattenText(blocks: AiOverview["text_blocks"] = []): string {
   const parts: string[] = [];
   for (const b of blocks) {
     if (b.snippet) parts.push(b.snippet);
@@ -22,15 +25,8 @@ function flattenText(blocks: NonNullable<SerpApiRaw["ai_overview"]>["text_blocks
 
 export function parseResponse(raw: SerpApiRaw, latency_ms: number): ProviderResult {
   const overview = raw.ai_overview;
-  if (!overview) {
-    return {
-      engine: ENGINE,
-      model: MODEL,
-      response_text: "",
-      citations: [],
-      latency_ms,
-      raw,
-    };
+  if (!overview?.text_blocks) {
+    return { engine: ENGINE, model: MODEL, response_text: "", citations: [], latency_ms, raw };
   }
   const text = flattenText(overview.text_blocks);
   const citations: Citation[] = (overview.references ?? []).map((r) => ({
@@ -47,14 +43,30 @@ export class GoogleAIOProvider implements Provider {
   async query(prompt: string): Promise<ProviderResult> {
     const t0 = Date.now();
     try {
-      const url = new URL("https://serpapi.com/search.json");
-      url.searchParams.set("engine", "google");
-      url.searchParams.set("q", prompt);
-      url.searchParams.set("api_key", this.apiKey);
-      const res = await fetch(url);
-      if (!res.ok) throw new Error(`SerpApi ${res.status}`);
-      const json = (await res.json()) as SerpApiRaw;
-      return parseResponse(json, Date.now() - t0);
+      const searchUrl = new URL("https://serpapi.com/search.json");
+      searchUrl.searchParams.set("engine", "google");
+      searchUrl.searchParams.set("q", prompt);
+      searchUrl.searchParams.set("api_key", this.apiKey);
+      const searchRes = await fetch(searchUrl);
+      if (!searchRes.ok) throw new Error(`SerpApi ${searchRes.status}`);
+      const searchJson = (await searchRes.json()) as SerpApiRaw;
+
+      const pageToken = searchJson.ai_overview?.page_token;
+      if (pageToken) {
+        const aioUrl = new URL("https://serpapi.com/search.json");
+        aioUrl.searchParams.set("engine", "google_ai_overview");
+        aioUrl.searchParams.set("page_token", pageToken);
+        aioUrl.searchParams.set("api_key", this.apiKey);
+        const aioRes = await fetch(aioUrl);
+        if (aioRes.ok) {
+          const aioJson = (await aioRes.json()) as SerpApiRaw;
+          if (aioJson.ai_overview?.text_blocks) {
+            return parseResponse(aioJson, Date.now() - t0);
+          }
+        }
+      }
+
+      return parseResponse(searchJson, Date.now() - t0);
     } catch (err) {
       return {
         engine: ENGINE,

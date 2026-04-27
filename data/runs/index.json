@@ -1,0 +1,248 @@
+{
+  "last_updated": "2026-04-27T03:03:22.076Z",
+  "summary": {
+    "share_of_model": 0.25,
+    "share_of_model_by_engine": {
+      "openai": 0.5,
+      "anthropic": 0.5,
+      "gemini": 0,
+      "google-aio": 0
+    }
+  },
+  "timeseries": [
+    {
+      "run_id": "2026-04-27T03:03:22.076Z",
+      "share_of_model": 0.25,
+      "by_engine": {
+        "openai": 0.5,
+        "anthropic": 0.5,
+        "gemini": 0,
+        "google-aio": 0
+      }
+    }
+  ],
+  "queries": {
+    "who-is-evan-huang": {
+      "category": "identity",
+      "history": [
+        {
+          "run_id": "2026-04-27T03:03:22.076Z",
+          "engines_mentioning": [
+            "openai",
+            "anthropic"
+          ]
+        }
+      ]
+    },
+    "evan-huang-projects": {
+      "category": "identity",
+      "history": [
+        {
+          "run_id": "2026-04-27T03:03:22.076Z",
+          "engines_mentioning": [
+            "openai",
+            "anthropic"
+          ]
+        }
+      ]
+    },
+    "evan-huang-cave-mapping": {
+      "category": "identity",
+      "history": [
+        {
+          "run_id": "2026-04-27T03:03:22.076Z",
+          "engines_mentioning": [
+            "openai",
+            "anthropic"
+          ]
+        }
+      ]
+    },
+    "evan-huang-domain": {
+      "category": "identity",
+      "history": [
+        {
+          "run_id": "2026-04-27T03:03:22.076Z",
+          "engines_mentioning": [
+            "openai",
+            "anthropic"
+          ]
+        }
+      ]
+    },
+    "cave-mapping-hardware": {
+      "category": "attribution",
+      "history": [
+        {
+          "run_id": "2026-04-27T03:03:22.076Z",
+          "engines_mentioning": []
+        }
+      ]
+    },
+    "camazotz-project": {
+      "category": "attribution",
+      "history": [
+        {
+          "run_id": "2026-04-27T03:03:22.076Z",
+          "engines_mentioning": []
+        }
+      ]
+    },
+    "camazotz-ixchel": {
+      "category": "attribution",
+      "history": [
+        {
+          "run_id": "2026-04-27T03:03:22.076Z",
+          "engines_mentioning": []
+        }
+      ]
+    },
+    "brickspect": {
+      "category": "attribution",
+      "history": [
+        {
+          "run_id": "2026-04-27T03:03:22.076Z",
+          "engines_mentioning": []
+        }
+      ]
+    }
+  },
+  "citations": {
+    "https://theorg.com/org/quantifind/org-chart/evan-huang?utm_source=openai": {
+      "count": 3,
+      "is_owned": false
+    },
+    "https://rocketreach.co/evan-huang-email_86786611": {
+      "count": 2,
+      "is_owned": false
+    },
+    "https://www.linkedin.com/in/hevanm/": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.linkedin.com/in/evan-huang-003a501b/": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.evan-huang.dev/": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://evanqhuang.com/?utm_source=openai": {
+      "count": 11,
+      "is_owned": true
+    },
+    "https://www.nasdaq.com/articles/evan-huang:-improving-quality-of-life-for-the-elderly-and-disabled": {
+      "count": 3,
+      "is_owned": false
+    },
+    "https://www.linkedin.com/in/-evan/": {
+      "count": 3,
+      "is_owned": false
+    },
+    "https://arxiv.org/abs/2502.05384?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://hpcas.inesc-id.pt/~3dcave/?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://par.nsf.gov/servlets/purl/10054869?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://par.nsf.gov/servlets/purl/10496707": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://robopi.ece.ufl.edu/uw_cave.html": {
+      "count": 2,
+      "is_owned": false
+    },
+    "https://www.linkedin.com/in/evanqhuang/": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.thingiverse.com/thing:7074453": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://github.com/evanqhuang/T480s-hackintosh": {
+      "count": 1,
+      "is_owned": true
+    },
+    "https://thecavepearlproject.org/?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.arianesline.com/mnemo/?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://en.wikipedia.org/wiki/OpenROV?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.hackster.io/news/this-diy-sensor-system-maps-caves-in-3d-fa3a32c4ab6d?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://scubaboard.com/community/threads/slam-and-lidar-cave-mapping.631486/": {
+      "count": 6,
+      "is_owned": false
+    },
+    "https://hpcas.inesc-id.pt/~3dcave/": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/maps/search/Camazotz+Cohaven%2C+Yucat%C3%A1n%2C+Mexico?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://camazotzcohaven.com/volunteer/?utm_source=openai": {
+      "count": 2,
+      "is_owned": false
+    },
+    "https://camazotzcohaven.com/meditation-cave/?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://camazotzcohaven.com/bat-cave-challenge/?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.yahoo.com/entertainment/tv/articles/stranger-things-where-max-everything-055047609.html": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://strangerthings.fandom.com/wiki/Camazotz": {
+      "count": 2,
+      "is_owned": false
+    },
+    "https://en.wikipedia.org/wiki/Camazotz": {
+      "count": 2,
+      "is_owned": false
+    },
+    "https://disney.fandom.com/wiki/Camazotz?utm_source=openai": {
+      "count": 2,
+      "is_owned": false
+    },
+    "https://en.wikipedia.org/wiki/Camazotz?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://mythlok.com/Camazotz/": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vovatia.wordpress.com/2015/01/17/bat-out-of-xibalba/": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://ksmvision.com/solution/brickspect-quality-control-of-paving-and-hollow-bricks/?utm_source=openai": {
+      "count": 1,
+      "is_owned": false
+    }
+  }
+}

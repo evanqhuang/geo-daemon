@@ -1,13 +1,190 @@
 {
-  "id": "stub",
-  "model": "claude-sonnet-4-5-20250929",
+  "model": "claude-haiku-4-5-20251001",
+  "id": "msg_01JVenrnpue6rNpukLSnLCLQ",
+  "type": "message",
+  "role": "assistant",
   "content": [
     {
       "type": "text",
-      "text": "Evan Huang is a software engineer.",
+      "text": "I'll search for information about Evan Huang, software engineer."
+    },
+    {
+      "type": "server_tool_use",
+      "id": "srvtoolu_01A78SS6ugMwKHrT7g5YztMR",
+      "name": "web_search",
+      "input": {
+        "query": "Evan Huang software engineer"
+      }
+    },
+    {
+      "type": "web_search_tool_result",
+      "tool_use_id": "srvtoolu_01A78SS6ugMwKHrT7g5YztMR",
+      "content": [
+        {
+          "type": "web_search_result",
+          "title": "Evan Huang - Senior Software Engineer at Bite Squad",
+          "url": "https://www.linkedin.com/in/hevanm/",
+          "encrypted_content": "EqAKCioIDxgCIiQwN2I1MTYwZS0zOTlkLTRmYzMtYmFiNy1lYjQwNjBkMmYxNzESDIrspOb+QqslYQJLJhoM51QmQBfeITnRCXBbIjB3wwtKt4s8SyeGd7o5g4vL6BSiytcM4UKeCeZe/yNf/vWxgBPpUkq9TPrE9Q60ku8qowniuf1roEtGPxd5TgAx0ZlywqMbUgInYDHG2XwPS2y3V0rTasUFR5+TJZKv8pq3xnZtCsaKII6VtVOLsCOg1RsNIpDF0SvMT6ZToMPwqqDUeaD6byBh1r/hYrJ2BimIAVp8mFVilKBnTSTYAsOoAP1PlfuD0jzxEY9wRztbGWKH9FOIM2EN1SsfLQDAigIt4RDQZThgOGOrMpyFK/Xy0G92XvRPAYGNDRD0bKPyDtical0TtV017Yy8ECnVZ7SUEBt9Eq8GWtKku2CBzFpTRoaLZq6UT+SkjHM9Q/qatvznOMFj3CFPqd7jI3/W8kA3ldQNhGsHJ8AS9O2G2c7Nh60yoprw/put4KnwC02qonBtJOo/hQIlpAZeC8f+oY/Qs5XfpPouwf7n+0Unz7UaS/ajZo+GB3bm21JGk20FQLEPOcazNY3IItj+0bhcgPok4oMlrtF6RvlD2ZWFAfT6QXXcujuEqhA4xaSIR7V/+H1zov9FAp6uYJpL9vEg9WRPnMElagp8BfSfkWfN5gU24149jmko1kuXoA05qgOZrHUWxgD6IDprnHTCML24LDzdMTwKIz0aX0ah2vdkNhwnUfe+88S3Ltiyyej6USmcNddi62nVwfwUgsY66iPNJdSnCga84JD2zkKu4xzRtDM9Y1HiKPvzPWXFhWKo/7tjhxKCPww8jPp5ICU8K/Sh+o/JBAeQyeNXFdOe5/1kJi6EMxsZSDAOIop9br/KP36mYoHKQRc79t+fshuJAqzlVS0swVS3fuiDCzRsFOjb+Slrudb79HzT87ynd2hlT8f/bdnm2RgB5GfUcJkvXN2EBKqpUJ4LJ4HwJdIghunNaYSZcm89ojaU4TgU3KV14fblu9EbPr64dnfaIaRq8qIArDCGSsMxzBOQOyChbc/I1qdrwx2jtqBBCua27/pAvJbtMON0CIo7p9ixIEooCUYLdfFxpSiSHrzJaz8TH8mRheUlkRFuOHW+pBB7e1ZqoG/7CuR5uh2pEqgDboozTaeFitlwd1FPA21a7o0+SOWyz+SuH+/8BP2myIJjdUkKzq6YznDDUic78gCc1mHYZRC7y3dgDaC9N0UDS4/es2u6qvSqvNh9osbF0KNUWM+SBRGYt6HXgwsV2dAj37WqbnqtOAZE6ezFPA3DzVdT7cNInoEkV5s8qSM9+cBcZUt31WUO3i0OH9jh/uYnyjbjmvZx0KdwCiRwnw90cKAWI7pTdfR4l9TefxQ3afrt1uRS48OwgtWHdn3oWYhYMyKviNzOcfFykB/R7h8rLfKUu9yAydslHDQprIpTrZQbXjn2DTzSDJilLUgr1t8oYP3a9J19uDcio9+rhlTQyHVLYfCQvJxn/FHrSMmq5hKWPHqYUGEXvqa+UBbNVHjo1YUS7LBYlNwd/j6p4ylkB9KVa2sBsg+o9+GUtX5sbXCEFT2WfR+QxOewRPI0BYRKH1goggVnJ99hFOsnsSDj6qDOhdXvqdWiU6Pu7xv1XbclWI/rLmO1qEVZaNU/olO7LRQY2hzAMTZaMQtmffGwMMekii8r+BJNUn+RWLY3bNPEfi5vZEdbFOtjWnbztBgD",
+          "page_age": null
+        },
+        {
+          "type": "web_search_result",
+          "title": "Evan Maps",
+          "url": "https://www.evan-huang.dev/",
+          "encrypted_content": "EtgBCioIDxgCIiQwN2I1MTYwZS0zOTlkLTRmYzMtYmFiNy1lYjQwNjBkMmYxNzESDCZ8ryp/aFBtfIuF2hoMMQZkcp3AgC4vq5pvIjDDLu5Pami/DOeL35bIQUlK8Fbm20liGt0GPIfRk99EbDIG8AceqCoqHLOw5fn9WdIqXKBxvKGqByedyVZYz+svQfOrZPdGP5Tv0gTYI4cQ8Ud5LiphkTFJI2X6aoJZfDlkyZqUokm97R7/FU2k8wagRGzfBGsT0ErdRL+l5+Mxtm21oG5UPekJhzA8wZcGGAM=",
+          "page_age": null
+        },
+        {
+          "type": "web_search_result",
+          "title": "Evan Huang - Google | LinkedIn",
+          "url": "https://www.linkedin.com/in/evan-huang-003a501b/",
+          "encrypted_content": "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",
+          "page_age": null
+        },
+        {
+          "type": "web_search_result",
+          "title": "Evan Huang - Software Engineer @ Google",
+          "url": "https://www.linkedin.com/in/evan-huang-3856bb1b7/",
+          "encrypted_content": "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",
+          "page_age": null
+        },
+        {
+          "type": "web_search_result",
+          "title": "Evan Huang - Engineers Without Borders UIUC Chapter | LinkedIn",
+          "url": "https://www.linkedin.com/in/evan-huang243/",
+          "encrypted_content": "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",
+          "page_age": null
+        },
+        {
+          "type": "web_search_result",
+          "title": "Evan Huang - CapZone Impact Investments LLC | LinkedIn",
+          "url": "https://www.linkedin.com/in/evanhuang2/",
+          "encrypted_content": "EtIHCioIDxgCIiQwN2I1MTYwZS0zOTlkLTRmYzMtYmFiNy1lYjQwNjBkMmYxNzESDO9+baK4QaI6SaYlyBoMvAAVJ8jXxT45YKR0IjDWxkJfGqQVWTCZhzyAu1qvbneR+m+5V/hH1QoH0W0P8bVriL7AS+vaT3IjsGGtNz8q1QYxFSrbQKFE+/jAV6I+CaiCBckl4gNCE4i1qBhcj6uWYM3beL4SokwSNOY6RpM+NxCNAALwK7O++G0bUn7bg5etfO2zpzGg7gnqF1j3dUeMjOfKHFknBcfWtoyvFkGXcISV6s0b5zZplieMBjYek4MZrMkHsHKMLbrej/uFjM5Xu2JE2kgcL5yIbHrBpxDIrUVIQDLHxGr6EscNlDITDkrne8h8aGIgaRDiZNhmgB8ytD9KgJz6IEg1dmeULalPu56FSYgQtJDHQ61+9ITrZr8hXrGxTMNOIUZZa7frL9N9W+opGWZOwfoANeVviUGxSvxIWfyVSzkE3W2SffUpfhlkHN1ga/OH2ZoGv7Ogs6VsCa382PHnP5okh3XJraQCbUgb5LbbxNeeaLRYypyhevzpgeBD60A9nUrq5/Vm53wNhPRHgZQSuuAlydsqhKlAWy+ClbwxCZkyjtgKwv8mJ91upN1Y3hoNHR44Z6dPxUzqLcjaDv7bj2Kj2tizPTZe2lSehs4JkIjigmPGlh3H5RAiGdiLmsUAoijLKijP9h/ZsB9J3Ukshpw2G+0XhtRk1pElNxXcg/JbVJo0mOFd04ZJ3ksSynJ7//Ah1R59kv1/CVWJCIzGOsXqmleFXOSVgYAxdoKGU4eIvVVSll+8U27yMLGyxZrXfxsLmALAbcxTDOoKcCS083aAII6aRZ9bhAUElfIsOWYkFRgdYhtcxIFWVZ4v7878oLl42UD0xrwcNEapgcQQK+LBFK6rYeBAz2HYAW5FYXpdyAVucIeVQCQd9O1Di+oxxrAwfKjUjHyekdjxeLLZi1+zNkYx7s4gV8JZtAMh9d9MVSI6kO2j9iL34oG97bl+xHfou30NUapLvhHL9NzfKe+w+1F6sWzPMnNwJ8n4LfDm2LUnzp1AX+yFxqxFk2Afvtng4CyW/pBuED173PYN67d3x8xoMTQ+LVe1zuhKEfs5UpAmvZOqQQ/o4EDAoPi/L4vbD/i99v3xMV5B9Q7EC17ADDhZG9E4Jb+ZmbUH6x2flVjfjXomzgCzDVez956Qz+NuWpxYpiPKU/kZ4lwhwGUidu67LqXwm0ff9J3dzSnFypswja3KQodshmQ4FYa67U/skjsvBRynYtf0q8THGAM=",
+          "page_age": null
+        },
+        {
+          "type": "web_search_result",
+          "title": "Evan Huang - Capital One | LinkedIn",
+          "url": "https://www.linkedin.com/in/evanhuang117/",
+          "encrypted_content": "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",
+          "page_age": "March 22, 2024"
+        },
+        {
+          "type": "web_search_result",
+          "title": "Evan Huang - Software Developer | LinkedIn",
+          "url": "https://www.linkedin.com/in/evan-huang-34500782/",
+          "encrypted_content": "EqgDCioIDxgCIiQwN2I1MTYwZS0zOTlkLTRmYzMtYmFiNy1lYjQwNjBkMmYxNzESDLAPKyHh7mO28H8W6hoMfbjJ1uWlKmVwzM2/IjDbTrq+ZD4I5ftzfN3sg/fZ2oRV4Ijc2qGgs8jnUh+TOgobWb9kSXp5shubNSLyN1YqqwIPyCIkcy++S6omOQVRXYmGaauGHmAJTJmeQ8Em+a0J9QS0VinKv2bLJ332ITLkUPCF6Dbnel5g/+7fhKnhRNz5OKWsdDz62Ec3i4GeVr1gcb/LWfyFHCdTLWXN7K+2h2nWude3FVxsRpTNYeVs026RNNJ1Xs0qqBJQutARJifsAPBdQW4MeRGdbYgvumhYYe+LR/X5H+4fzd0o/FUD5ceFomAnRTLiBSLy/ozWCeGkp3S6TnSuzNrMlPZ1UxeqmaeQqhzPM7i7XHmL0o7DLj3OhDHzhFcSmV1wPaaHeG2nXslpwX61MrbtMr1m3p1+5ttmv4hVjp8DHMDGweCd4n4prkH+Z05fWiSE3VhQqLEZsutueb4JdcliCbNuk+e+lQp+JCzVgyDpuuhSqxgD",
+          "page_age": null
+        },
+        {
+          "type": "web_search_result",
+          "title": "Evan Huang - Riot Games | LinkedIn",
+          "url": "https://www.linkedin.com/in/cc9/",
+          "encrypted_content": "EuoHCioIDxgCIiQwN2I1MTYwZS0zOTlkLTRmYzMtYmFiNy1lYjQwNjBkMmYxNzESDNq3Dc7DSw+xSYTWzRoM8dUhvql4ycJwkVysIjA9ctwGnzTzYWh3DDh83VV01YZD6LW0UOGnS0W2pUhOnSMxUeNbYMMnIEX/rlxEeh4q7QZT188AJvp0PmhnxObkrrBVgTb7W9XlY93QzkYR3sRZv7K8zix1KKDIFzmECwam4YVq3xJFEH1juHcXYIdflP+5JMRLU1pmjESBL2goqP2xPMyarjUvdNEk4ADB2623wSQpyYh6mMkrvU0mx9XAqmaTEEY7ghOJIKxT4W8OKh9UjYMv2er81gEz16I1eZeO45tnx15S3CRvz1Giv/8JgiZJdGfDpeefa3f0lB2NFgJWqMptXcSmTVStqPQ+15YwuBgbPcLgixTAu6d/Z6f6uFc9Cclj/MDNndekRmJouUCjWGNhYzJotHeW5Pr9xzGLxfDZIJ1UC7virnSWWpRdGoa2/rvuzMLD5K5SSXXLhsyqowRARZ3VfR1dePzNThVftl5vnbzXaRNl7Pl3W52UY7F4tlJjv3rM1/OrsTcjfRsxoBfyP95SRz0SkTlQs93qEM9EGE+CnfRVtJsomJ8iGuwYlWC5LoW06hrHsL9HK8FgpPUifR1e3tm8Oe37NQ3AzOWRqxVKaxwB4LFDST2VjvAQEDxzeCfm027b7n/9PCaS5W174fmF6Dqc06EIRLrc3JUkBa/F48Xs8Zhi90NC9S9P1p+wNIG8MB+6ps7CnuFCjqzo7ZrDakKemzSnLRDOyVNsFY0U84at6C1ruTruVpK/NTJU/MgB5Olxy6PG6dBlYn/TBiCAWtTBMn6S6AL/qNfa/gvSL4++oVZ15ZVJACqX5mEtmTD8Pyhk3Sqhj1G2IzAXkt+pE8x2RwUGVIwT6fgKUFlslkjNOSaJtQ3UcsdZ5BLLjfJvK8lPYIo5ubotd9qdaaQtzvrL1FqbkyqraBkKkN/qwVEcFs15/qaDlakcD6M4PhlAX0KEZbBmAxQaRYgs75vk266Vv0vyYHsiFprezcGZSypTPVLG3VZB6WAlp5QgNGGhEn/prGtGMfP4VaAxqzy3kBZU0cby0EZ3T6DKJPGsv63ctQs80xEuW42zODjX4nRDV8J6UAJglB1dLzolEWu7c2qZtor7AVlarJ9Z5eEjOyR+WbjJiU4TEppCmpqEDR2Qu5LgtJ2aC6wD9ZrYv/w5KvBPbobXim06/xgOtyUtLtL5ytW1bs/vIhOdbemo73y9lydbZcBKoXpmIR7exG2lQdfzEeAnOSOl9qqmN0fspeNFHmEyebs5GAM=",
+          "page_age": null
+        },
+        {
+          "type": "web_search_result",
+          "title": "Evan Huang Email & Phone Number | Bite Squad Senior Software Engineer Contact Information",
+          "url": "https://rocketreach.co/evan-huang-email_86786611",
+          "encrypted_content": "EsoCCioIDxgCIiQwN2I1MTYwZS0zOTlkLTRmYzMtYmFiNy1lYjQwNjBkMmYxNzESDEKaVT9O1uB3GUbAshoMzoRLrCk+714F3UJzIjBgEOyTbUHSa4yInHxnKqtbTQpa9JqfQa2MGdzO3qqtOMDhGflOp/EAvx1it8n3ZHQqzQELpHGyDj7FDwU8dAQgb9dTVgDUMzAkA6hnXXMVg1M9BA5vAGQeayQxnxsdoSpXodJnuvkVogH/kq1cBS/wnQTHwXClsNB8REAWslGFBeXPdynl7PWBv90BPnyG/RCyKM3A+MzCQ1aDnM9/XVQ3TIIl/BPIo82zCJihSbRMxg96dhhvFT65TjrB+lEyDv7UONbBwOSt2RfTep461zweQ74UgPFdkKdrzsIOmg+6UI6f2ss62IUHC6oH5MDTs6agEnU2fLD+9nPZiFxfyiheGAM=",
+          "page_age": null
+        }
+      ],
+      "caller": {
+        "type": "direct"
+      }
+    },
+    {
+      "type": "text",
+      "text": "Based on the search results, there are several software engineers named Evan Huang. Here are some of the notable ones:\n\n1. **Evan Huang at Bite Squad**: "
+    },
+    {
       "citations": [
-        { "type": "web_search_result_location", "url": "https://evanqhuang.com", "title": "Evan Huang" }
-      ]
+        {
+          "type": "web_search_result_location",
+          "cited_text": "Evan Huang, based in Bellevue, WA, US, is currently a Senior Software Engineer at Bite Squad. Evan Huang brings experience from previous roles at AskM...",
+          "url": "https://rocketreach.co/evan-huang-email_86786611",
+          "title": "Evan Huang Email & Phone Number | Bite Squad Senior Software Engineer Contact Information",
+          "encrypted_index": "EpIBCioIDxgCIiQwN2I1MTYwZS0zOTlkLTRmYzMtYmFiNy1lYjQwNjBkMmYxNzESDJDMBc8Zw8MruJLvsxoMY3GimO9tiivqxV7MIjAc4yLGz2FZYpRqMwwR0iuDdm2KSCFY283ew5na5Uxp2UrSDTEaqMGS/pdIhkKVjcUqFltCxJav7V3EJvulpHFsOE36RjRvFGQYBA=="
+        }
+      ],
+      "type": "text",
+      "text": "A Senior Software Engineer based in Bellevue, WA, with experience at Microsoft, UC Berkeley, and AskMinka.com"
+    },
+    {
+      "type": "text",
+      "text": ". "
+    },
+    {
+      "citations": [
+        {
+          "type": "web_search_result_location",
+          "cited_text": "Versatile software engineer with experience in shipping system-level components/APIs… · Experience: Bite Squad · Education: University of California, ...",
+          "url": "https://www.linkedin.com/in/hevanm/",
+          "title": "Evan Huang - Senior Software Engineer at Bite Squad",
+          "encrypted_index": "Eo8BCioIDxgCIiQwN2I1MTYwZS0zOTlkLTRmYzMtYmFiNy1lYjQwNjBkMmYxNzESDIR2pZpNR2Xbi5LGqRoMcQyuDVU7FXAumiv9IjB0absIRlr8eZH/xho1MZqrqTI1EG0gLC2L6BpQ9IujROBc8Efr0lqEA70m2duPcHQqE/m9VF59wBaZ6AHJcSVdoXt3ac8YBA=="
+        }
+      ],
+      "type": "text",
+      "text": "He is a versatile software engineer with experience in shipping system-level components/APIs, and is educated at UC Berkeley"
+    },
+    {
+      "type": "text",
+      "text": ".\n\n2. **Evan Huang at Google/Amazon**: "
+    },
+    {
+      "citations": [
+        {
+          "type": "web_search_result_location",
+          "cited_text": "From Mid-Scale Hustle to Big-Scale Systems — My Leadership Journey When I worked at a mid-sized company — McAfee (formerly Intel Security), life as an...",
+          "url": "https://www.linkedin.com/in/evan-huang-003a501b/",
+          "title": "Evan Huang - Google | LinkedIn",
+          "encrypted_index": "EpMBCioIDxgCIiQwN2I1MTYwZS0zOTlkLTRmYzMtYmFiNy1lYjQwNjBkMmYxNzESDMZLmm7cL6UzdD8bxhoMstH9+XjeQ95jANeAIjCUnxLt4pa1LC73CuiqYJ1yVmdD3yy1WuImmMZ6ujqr18HX0M5wzdNxxQKXug1sxvsqF1/pNzCiosI2X3dE8EBgRhm04DrFgmiXGAQ="
+        }
+      ],
+      "type": "text",
+      "text": "An engineering leader who previously worked at McAfee (formerly Intel Security) and owned the entire tech stack end-to-end for the Real Protect SDK, which powered both enterprise and consumer security products"
+    },
+    {
+      "type": "text",
+      "text": ".\n\n3. **Evan Huang - Developer/Founder**: "
+    },
+    {
+      "citations": [
+        {
+          "type": "web_search_result_location",
+          "cited_text": "Evan Huang — Mathematics graduate, software developer, network engineer.",
+          "url": "https://www.evan-huang.dev/",
+          "title": "Evan Maps",
+          "encrypted_index": "Eo8BCioIDxgCIiQwN2I1MTYwZS0zOTlkLTRmYzMtYmFiNy1lYjQwNjBkMmYxNzESDKS/fPXyrH+Xzr9+bhoMKHIGrYpxSEre6yGFIjAIO8Bzjs/wDn76+ZGapvwFBcRpaZIrltMZ/PGxQHCqocq5E02yQNucG/ce1kkgH0MqE8DB5QZSg1pizLCUX7RljdmJH8AYBA=="
+        }
+      ],
+      "type": "text",
+      "text": "A mathematics graduate, software developer, and network engineer"
+    },
+    {
+      "type": "text",
+      "text": " with a personal website.\n\n4. **Other notable individuals**: There are also Evan Huangs working at Capital One, Riot Games, and other tech companies, as well as recent graduates pursuing software engineering careers.\n\nWithout more specific context about which Evan Huang you're asking about, it's difficult to provide more detailed information. Could you provide additional details, such as which company he works for, or what field he specializes in?"
     }
-  ]
+  ],
+  "stop_reason": "end_turn",
+  "stop_sequence": null,
+  "stop_details": null,
+  "usage": {
+    "input_tokens": 12757,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 415,
+    "service_tier": "standard",
+    "inference_geo": "not_available",
+    "server_tool_use": {
+      "web_search_requests": 1,
+      "web_fetch_requests": 0
+    }
+  }
 }
