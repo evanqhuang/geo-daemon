@@ -9,8 +9,10 @@ export interface QueryConfig {
 export interface TargetConfig {
   name: string;
   aliases: string[];
+  unique_handles: string[];        // aliases that are globally unique — no disambiguation needed
   domain: string;
   owned_hostnames: string[];
+  disambiguation_tokens: string[]; // required co-occurrence for name-only matches
 }
 
 export interface Config {

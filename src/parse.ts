@@ -9,9 +9,8 @@ function escapeRegex(s: string): string {
   return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
-function buildMentionRegex(target: TargetConfig): RegExp {
-  const terms = [target.name, ...target.aliases].map(escapeRegex);
-  return new RegExp(`\\b(?:${terms.join("|")})\\b`, "gi");
+function buildRegex(terms: string[]): RegExp {
+  return new RegExp(`\\b(?:${terms.map(escapeRegex).join("|")})\\b`, "gi");
 }
 
 function classifyCitation(
@@ -31,21 +30,39 @@ function classifyCitation(
   };
 }
 
+function isMentioned(text: string, matches: RegExpMatchArray[], target: TargetConfig): boolean {
+  if (matches.length === 0) return false;
+
+  const lower = text.toLowerCase();
+  const uniqueHandleSet = new Set(target.unique_handles.map((h) => h.toLowerCase()));
+
+  // If any match is a unique handle, no disambiguation needed
+  const hasUniqueHandle = matches.some((m) => uniqueHandleSet.has(m[0]!.toLowerCase()));
+  if (hasUniqueHandle) return true;
+
+  // Otherwise require a disambiguation token to appear in the text
+  return target.disambiguation_tokens.some((token) =>
+    lower.includes(token.toLowerCase()),
+  );
+}
+
 export function analyze(
   result: ProviderResult,
   target: TargetConfig,
 ): AnalyzedResult {
-  const regex = buildMentionRegex(target);
+  const allTerms = [target.name, ...target.aliases];
+  const regex = buildRegex(allTerms);
   const matches = [...result.response_text.matchAll(regex)];
   const ownedSet = new Set(target.owned_hostnames);
+  const mentioned = isMentioned(result.response_text, matches, target);
 
   return {
     engine: result.engine,
     model: result.model,
     response_text: result.response_text,
-    mentioned: matches.length > 0,
-    mention_count: matches.length,
-    first_mention_offset: matches[0]?.index ?? null,
+    mentioned,
+    mention_count: mentioned ? matches.length : 0,
+    first_mention_offset: mentioned ? (matches[0]?.index ?? null) : null,
     citations: result.citations.map((c) => ({
       ...classifyCitation(c.url, ownedSet),
       title: c.title,

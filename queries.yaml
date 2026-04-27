@@ -3,11 +3,18 @@ target:
   aliases:
     - "Evan Q. Huang"
     - "evanqhuang"
+  unique_handles:
+    - "evanqhuang"
   domain: "evanqhuang.com"
   owned_hostnames:
     - "evanqhuang.com"
     - "github.com"
     - "linkedin.com"
+  disambiguation_tokens:
+    - "cave mapping"
+    - "Brickspect"
+    - "Camazotz"
+    - "evanqhuang.com"
 
 queries:
   - id: who-is-evan-huang
