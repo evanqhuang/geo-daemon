@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-20T15:03:36.326Z",
+  "last_updated": "2026-09-27T15:58:35.762Z",
   "summary": {
-    "share_of_model": 0.1875,
+    "share_of_model": 0.03125,
     "share_of_model_by_engine": {
       "openai": 0,
-      "anthropic": 0.25,
-      "gemini": 0.25,
-      "google-aio": 0.25
+      "anthropic": 0,
+      "gemini": 0,
+      "google-aio": 0.125
     }
   },
   "timeseries": [
@@ -229,6 +229,16 @@
         "gemini": 0.25,
         "google-aio": 0.25
       }
+    },
+    {
+      "run_id": "2026-09-27T15:58:35.762Z",
+      "share_of_model": 0.03125,
+      "by_engine": {
+        "openai": 0,
+        "anthropic": 0,
+        "gemini": 0,
+        "google-aio": 0.125
+      }
     }
   ],
   "queries": {
@@ -370,6 +380,10 @@
         {
           "run_id": "2026-09-20T15:03:36.326Z",
           "engines_mentioning": []
+        },
+        {
+          "run_id": "2026-09-27T15:58:35.762Z",
+          "engines_mentioning": []
         }
       ]
     },
@@ -504,6 +518,10 @@
         },
         {
           "run_id": "2026-09-20T15:03:36.326Z",
+          "engines_mentioning": []
+        },
+        {
+          "run_id": "2026-09-27T15:58:35.762Z",
           "engines_mentioning": []
         }
       ]
@@ -692,6 +710,10 @@
             "gemini",
             "google-aio"
           ]
+        },
+        {
+          "run_id": "2026-09-27T15:58:35.762Z",
+          "engines_mentioning": []
         }
       ]
     },
@@ -882,6 +904,12 @@
             "gemini",
             "google-aio"
           ]
+        },
+        {
+          "run_id": "2026-09-27T15:58:35.762Z",
+          "engines_mentioning": [
+            "google-aio"
+          ]
         }
       ]
     },
@@ -974,6 +1002,10 @@
         },
         {
           "run_id": "2026-09-20T15:03:36.326Z",
+          "engines_mentioning": []
+        },
+        {
+          "run_id": "2026-09-27T15:58:35.762Z",
           "engines_mentioning": []
         }
       ]
@@ -1068,6 +1100,10 @@
         {
           "run_id": "2026-09-20T15:03:36.326Z",
           "engines_mentioning": []
+        },
+        {
+          "run_id": "2026-09-27T15:58:35.762Z",
+          "engines_mentioning": []
         }
       ]
     },
@@ -1161,6 +1197,10 @@
         {
           "run_id": "2026-09-20T15:03:36.326Z",
           "engines_mentioning": []
+        },
+        {
+          "run_id": "2026-09-27T15:58:35.762Z",
+          "engines_mentioning": []
         }
       ]
     },
@@ -1253,6 +1293,10 @@
         },
         {
           "run_id": "2026-09-20T15:03:36.326Z",
+          "engines_mentioning": []
+        },
+        {
+          "run_id": "2026-09-27T15:58:35.762Z",
           "engines_mentioning": []
         }
       ]
@@ -1380,7 +1424,7 @@
       "is_owned": false
     },
     "https://scubaboard.com/community/threads/slam-and-lidar-cave-mapping.631486/": {
-      "count": 70,
+      "count": 71,
       "is_owned": false
     },
     "https://hpcas.inesc-id.pt/~3dcave/": {
@@ -1436,7 +1480,7 @@
       "is_owned": false
     },
     "https://ksmvision.com/solution/brickspect-quality-control-of-paving-and-hollow-bricks/": {
-      "count": 72,
+      "count": 73,
       "is_owned": false
     },
     "https://www.evanhuang.dev/": {
@@ -1556,7 +1600,7 @@
       "is_owned": false
     },
     "https://www.linkedin.com/in/evanqhuang": {
-      "count": 36,
+      "count": 37,
       "is_owned": false
     },
     "https://www.facebook.com/evanhuangcom/about/": {
@@ -1716,7 +1760,7 @@
       "is_owned": false
     },
     "https://www.reddit.com/r/netflixindia/comments/1pqfm2h/reason_why_henryvecana_was_scared_of_entering_the/": {
-      "count": 7,
+      "count": 8,
       "is_owned": false
     },
     "https://www.reddit.com/r/StrangerThings/comments/1pqptgx/why_the_nevada_project_rainbow_lore_confirms_the/": {
@@ -1732,7 +1776,7 @@
       "is_owned": false
     },
     "https://en.wikipedia.org/wiki/Camazotz": {
-      "count": 13,
+      "count": 14,
       "is_owned": false
     },
     "https://en.wikipedia.org/wiki/Camazotz?utm_source=openai": {
@@ -2040,7 +2084,7 @@
       "is_owned": false
     },
     "https://historicalmx.org/items/show/90": {
-      "count": 6,
+      "count": 7,
       "is_owned": false
     },
     "https://strangerthings.fandom.com/wiki/Nevada": {
@@ -2052,7 +2096,7 @@
       "is_owned": false
     },
     "https://winteriscoming.net/what-really-is-camazotz-stranger-things-5-max-and-holly-escape-explained": {
-      "count": 2,
+      "count": 3,
       "is_owned": false
     },
     "https://religion.fandom.com/wiki/Camazotz?utm_source=openai": {
@@ -2060,7 +2104,7 @@
       "is_owned": false
     },
     "https://en.wikipedia.org/wiki/A_Wrinkle_in_Time": {
-      "count": 13,
+      "count": 14,
       "is_owned": false
     },
     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAXDLNIhqurupf7HH5ciCxRpmIePR2PRFg28073qKOemLiVm9tmlKrOje89esp2IlKmGE1556jlnf9l44fCVNU54108iUnB65vEJm7wlj5pgPIrp9Q4V-X": {
@@ -2888,7 +2932,7 @@
       "is_owned": false
     },
     "https://github.com/evanqhuang": {
-      "count": 4,
+      "count": 5,
       "is_owned": true
     },
     "https://arxiv.org/html/2507.06397v1": {
@@ -3052,7 +3096,7 @@
       "is_owned": false
     },
     "https://readingthecaribbean.wordpress.com/2015/02/24/the-story-behind-camazotz/": {
-      "count": 4,
+      "count": 5,
       "is_owned": false
     },
     "https://ffxiclopedia.fandom.com/wiki/Camazotz": {
@@ -4452,7 +4496,7 @@
       "is_owned": false
     },
     "https://arxiv.org/html/2502.05384v4": {
-      "count": 3,
+      "count": 4,
       "is_owned": false
     },
     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVfMsHOlG-IEO4mMpQXdi9aKEZg4hLM4R22vcIsmtQwmSo8EP5RKSjJY6yBQFtPItr2OxICOcIUpjtKTYjg4LF7TRPeVQPSC95jlalFaGoZxrZOam1rHtZGya1znHGIloUFdG4946FG1eXPTB5JQ-xoBTLsl4xXn9-uDANFun8m5dKRu8SgLXuPxQ=": {
@@ -4560,7 +4604,7 @@
       "is_owned": false
     },
     "https://www.youtube.com/watch?v=F6NSciKwr_I": {
-      "count": 2,
+      "count": 3,
       "is_owned": false
     },
     "https://www.facebook.com/historyfeels/posts/camazotz-the-maya-batman-in-2014-warner-bros-summoned-30-artists-to-reinterpret-/1453905889865752/": {
@@ -4952,7 +4996,7 @@
       "is_owned": false
     },
     "https://github.com/evanqhuang/evanqhuang": {
-      "count": 3,
+      "count": 4,
       "is_owned": true
     },
     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaydvnbbZe6Wa-IGVL0sruQWxHEuaqYdFKtRwCbVw_aHE-34vMLR-_6YBuv0WBg8MnxF92_OdcrtvEOqgaU6q7S4GR9ZmVLZAccidySsnhUu_UxIOnkAyN": {
@@ -6004,7 +6048,7 @@
       "is_owned": true
     },
     "https://ko-fi.com/evanqhuang/tiers": {
-      "count": 2,
+      "count": 3,
       "is_owned": false
     },
     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPjb4FgNUmq79P5Ihd6QI7nRflh5p1L_TkT2yKo3yuvGsV7dy5AmjTMz6UJ9nZ3GIh39fbWn3GjSyNhX1Zkk9PlhjL2VyDvXwjyPjfuPnvleHQ-Ek3HQSnNfKmsu2TbCYKHCnn0GpPIL4Z6Qm4W4kWDZbw7y6yeRj2cice5XbKP0SSqW65-91IjSEW8g==": {
@@ -6100,7 +6144,7 @@
       "is_owned": false
     },
     "https://ksmvision.com/lt/ksm-vizija-ir-misija/": {
-      "count": 1,
+      "count": 2,
       "is_owned": false
     },
     "https://brickset.com/": {
@@ -6228,7 +6272,7 @@
       "is_owned": false
     },
     "https://screenrant.com/stranger-things-season-5-camazotz-villain-tease-explained/": {
-      "count": 1,
+      "count": 2,
       "is_owned": false
     },
     "https://kaleidoscopic-path.fandom.com/wiki/Camazotz": {
@@ -6388,7 +6432,7 @@
       "is_owned": false
     },
     "https://www.facebook.com/ancientoriginsweb/posts/ao-throwback-in-the-maya-culture-the-mesoamerican-bat-god-camazotz-is-linked-to-/991053723063158/": {
-      "count": 1,
+      "count": 2,
       "is_owned": false
     },
     "https://www.reddit.com/r/StrangerThings/comments/1p9uy8b/s5e4_the_real_reason_for_the_cave/": {
@@ -6440,6 +6484,102 @@
       "is_owned": false
     },
     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTlVrDXb1hp9Z8jNSK6bgw0RXHKHoybU7C21hcxyZK-uP3Ca4oT6A5br4-2rTSUzMbmZnBVb8aG9M5f5fXupJoW0w2-kpqWRwMll3-sMZdUsAyknRmONFUPJQl0PEBxKKUNqpzfzl9RrvAWWTkMXbyNtnyPXi_H5xU-knwg_wEsfnQcpWHiAR8cOlP8H-eu89p": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Zm565OHt9nAi1X2ov4W1TnQ5XvxpdLWTeWg8pa1hj5ymn9hyFY6CTU3js5r46NsNheIiHXyS6P42Rfl1cv285w1R-ej6rMgHPnXQb3T5ueTf1d7Z": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4_fOog417R7KgzI58un3NXIQZUgHmYB0AZHS5TdrqhQ4MpeirrH0dss6B1n1ji7N7Xoaqk1MrvqMW9M3ED8p0xQ8ZZd87df8S436ylSRuffPJH_URllwVBg==": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx_7LqGTUOYarmVs7PVbXaZuTA1a2YaI2_FQ7p9P7Y2CZO0UJ4O2dwm_mHneoabv3WU_C3rvhkw67FAQ73e7rQ92OJ83H5ITygl-nZK1SI5v1AkveAzGL8bA==": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM7QVd_TcbNNPiD1lpdCJBo6gYK9HP1g4uosUyJpm3bJEMv4zS-V7M_QOLDqzD2-ND6BhjIf1q3k6N0870Q66D0VMWXm5_w4chjEhubqz9cVlcd_ohKO7KZG5cTzN4quLLOebiD6M=": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfnGKynulPjgxIEWsGutzF-OoYygUUElQoYjnvBS0HQOoDuKEj2jBt_Fc2wymkyCLGVgyGdM0wOaLtG-ZNhEhM2UM_br0MIABKqLXHLYKZjLrG4uZxG6M4XHaicYrXk7eTIukTk2y2V64=": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdFTTmBPQBBApCUnQzwfzJsYhc2DRPENIGfFo8AQlTLq3T1pla1ovrQKSVoSK_te6so5EXmqCQrw9uq7vVSZNIafZSKt6hSPU04l_GdbzbpVHTO7v9U2XbGvl1CBg1M-BRUW6Cj7eBcMvTS-TKHJmyehAVsV2Zg1SBdgTl8psIu4od0mPfgLAIqa3bVW4voYNJ7oemyavCKy1nBTvf1uQ=": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://hostelhawk.com/city/dakar": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.johnrleeman.com/category/caving/": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://github.com/evanqhuang/camazotz-ixchel": {
+      "count": 1,
+      "is_owned": true
+    },
+    "https://arxiv.org/html/2502.05384v1": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.youtube.com/watch?v=UDYWQIizN7A": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.youtube.com/watch?v=vmO7NdNEFwg": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.facebook.com/100067616590743/posts/stranger-things-s05e06-chapter-six-escape-from-camazotz/1228238176106724/": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.tiktok.com/discover/where-is-camazots-cave-from-stranger-thing-alocated": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.youtube.com/watch?v=ZLlt3LWZWCw&t=124": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.youtube.com/watch?v=Z-ThmLdF0pI&t=151": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.badassoftheweek.com/camazotz-the-death-bat": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoAqeIgUkANk_HQX38IU03PSYvjALLoZnCBU4qMmDnn5CsOwrdqbZqer1fJg9fvYl1-h5HdWyv6K5ig14xfMxvsAVxr2mmu9vWmQEDSsO_nEtUYq8eKrhxM8l_eAD_CyLkkoyThoL9": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQy1tLJwJS1mE5tlCOITMrpCvISuA7DM-Js66fPXwTqacx_1PCL_FoaDdOtimNcfVIbIJmbwqB4iHER86ve0FA80Nf2QGVkDauuLM-NmrQR55d6Fso_zUb5N9PxLa4n4g=": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.instagram.com/popular/mayan-and-aztec-gods/": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://actionpedia.fandom.com/wiki/Ancient_Pyramids": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://nevalalee.wordpress.com/2016/05/17/a-wrinkle-in-life/": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUBdNHFIjrKcD_Ufy01GWV4DgtAAcgVCclohrQc_6QYCPtBX9RQMgINrbLRVCpRIDTaW836_J8R6P6an94cnIZlrJG7nku0Dh3GoDYos7a0Oe94QKGRjil0TguOi4LMC561JmwSZx2sLwSOmmqYEg3rGX_j3ZFLjLcvNI4ZWb-BeVcDSJDfIDq09vnlduoR_8W": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://ksmvision.com/lt/karjera/": {
       "count": 1,
       "is_owned": false
     }

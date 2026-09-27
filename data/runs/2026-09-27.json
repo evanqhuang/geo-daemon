@@ -1,0 +1,1938 @@
+{
+  "run_id": "2026-09-27T15:58:35.762Z",
+  "queries": [
+    {
+      "query_id": "who-is-evan-huang",
+      "prompt": "Who is Evan Huang, software engineer?",
+      "category": "identity",
+      "results": [
+        {
+          "engine": "openai",
+          "model": "gpt-4o-mini-search-preview",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 1303,
+          "error": "404 The model `gpt-4o-mini-search-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations",
+          "raw": null
+        },
+        {
+          "engine": "anthropic",
+          "model": "claude-haiku-4-5-20251001",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 400,
+          "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfUDkJQL6XTrhjjuoWdBB\"}",
+          "raw": null
+        },
+        {
+          "engine": "gemini",
+          "model": "gemini-2.5-flash",
+          "response_text": "There are several individuals named Evan Huang who are involved in the software and tech industry. Two notable individuals who identify as software engineers or in closely related roles are:\n\n**Evan Huang (Software Engineer & Solo Dev focused on AI and living systems)**\nThis Evan Huang is a software engineer and solo developer focused on building \"living systems\" and shipping products end-to-end, encompassing agent simulations and real-time tooling. He is currently pursuing a Master of Science in Computer Science at New York University (2023–2025), having previously earned a Bachelor of Arts in Computer Science & Economics from the same institution (2019–2023). He is associated with projects like \"World Engine,\" an LLM-driven world where autonomous agents operate.\n\n**Evan Huang (Frontend Developer)**\nAnother Evan Huang, under the GitHub handle \"EvanTechDev,\" identifies as a Frontend Developer and a proponent of open source. His GitHub profile showcases several projects, including \"One-Calendar,\" a privacy-first calendar web app built with Next.js and TypeScript, a Python script for calculating Pi using the Chudnovsky algorithm, and a password-protected email sending web application also developed with Next.js and TypeScript.\n\nIt is important to note that other individuals named Evan Huang are active in related tech and creative fields, but their primary roles may differ from a traditional \"software engineer.\" These include a technical artist and audiovisual creative specializing in Maya rigging, Python, and Unreal Engine; a motion graphics artist at Riot Games; and an inventor focused on robotics for the elderly and disabled.",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [
+            {
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Zm565OHt9nAi1X2ov4W1TnQ5XvxpdLWTeWg8pa1hj5ymn9hyFY6CTU3js5r46NsNheIiHXyS6P42Rfl1cv285w1R-ej6rMgHPnXQb3T5ueTf1d7Z",
+              "hostname": "vertexaisearch.cloud.google.com",
+              "is_owned": false,
+              "title": "evanhuang.dev"
+            },
+            {
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4_fOog417R7KgzI58un3NXIQZUgHmYB0AZHS5TdrqhQ4MpeirrH0dss6B1n1ji7N7Xoaqk1MrvqMW9M3ED8p0xQ8ZZd87df8S436ylSRuffPJH_URllwVBg==",
+              "hostname": "vertexaisearch.cloud.google.com",
+              "is_owned": false,
+              "title": "github.com"
+            },
+            {
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx_7LqGTUOYarmVs7PVbXaZuTA1a2YaI2_FQ7p9P7Y2CZO0UJ4O2dwm_mHneoabv3WU_C3rvhkw67FAQ73e7rQ92OJ83H5ITygl-nZK1SI5v1AkveAzGL8bA==",
+              "hostname": "vertexaisearch.cloud.google.com",
+              "is_owned": false,
+              "title": "weebly.com"
+            },
+            {
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM7QVd_TcbNNPiD1lpdCJBo6gYK9HP1g4uosUyJpm3bJEMv4zS-V7M_QOLDqzD2-ND6BhjIf1q3k6N0870Q66D0VMWXm5_w4chjEhubqz9cVlcd_ohKO7KZG5cTzN4quLLOebiD6M=",
+              "hostname": "vertexaisearch.cloud.google.com",
+              "is_owned": false,
+              "title": "youtube.com"
+            },
+            {
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfnGKynulPjgxIEWsGutzF-OoYygUUElQoYjnvBS0HQOoDuKEj2jBt_Fc2wymkyCLGVgyGdM0wOaLtG-ZNhEhM2UM_br0MIABKqLXHLYKZjLrG4uZxG6M4XHaicYrXk7eTIukTk2y2V64=",
+              "hostname": "vertexaisearch.cloud.google.com",
+              "is_owned": false,
+              "title": "facebook.com"
+            },
+            {
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdFTTmBPQBBApCUnQzwfzJsYhc2DRPENIGfFo8AQlTLq3T1pla1ovrQKSVoSK_te6so5EXmqCQrw9uq7vVSZNIafZSKt6hSPU04l_GdbzbpVHTO7v9U2XbGvl1CBg1M-BRUW6Cj7eBcMvTS-TKHJmyehAVsV2Zg1SBdgTl8psIu4od0mPfgLAIqa3bVW4voYNJ7oemyavCKy1nBTvf1uQ=",
+              "hostname": "vertexaisearch.cloud.google.com",
+              "is_owned": false,
+              "title": "nasdaq.com"
+            }
+          ],
+          "latency_ms": 7025,
+          "error": null,
+          "raw": {
+            "candidates": [
+              {
+                "content": {
+                  "parts": [
+                    {
+                      "text": "There are several individuals named Evan Huang who are involved in the software and tech industry. Two notable individuals who identify as software engineers or in closely related roles are:\n\n**Evan Huang (Software Engineer & Solo Dev focused on AI and living systems)**\nThis Evan Huang is a software engineer and solo developer focused on building \"living systems\" and shipping products end-to-end, encompassing agent simulations and real-time tooling. He is currently pursuing a Master of Science in Computer Science at New York University (2023–2025), having previously earned a Bachelor of Arts in Computer Science & Economics from the same institution (2019–2023). He is associated with projects like \"World Engine,\" an LLM-driven world where autonomous agents operate.\n\n**Evan Huang (Frontend Developer)**\nAnother Evan Huang, under the GitHub handle \"EvanTechDev,\" identifies as a Frontend Developer and a proponent of open source. His GitHub profile showcases several projects, including \"One-Calendar,\" a privacy-first calendar web app built with Next.js and TypeScript, a Python script for calculating Pi using the Chudnovsky algorithm, and a password-protected email sending web application also developed with Next.js and TypeScript.\n\nIt is important to note that other individuals named Evan Huang are active in related tech and creative fields, but their primary roles may differ from a traditional \"software engineer.\" These include a technical artist and audiovisual creative specializing in Maya rigging, Python, and Unreal Engine; a motion graphics artist at Riot Games; and an inventor focused on robotics for the elderly and disabled."
+                    }
+                  ],
+                  "role": "model"
+                },
+                "finishReason": "STOP",
+                "groundingMetadata": {
+                  "searchEntryPoint": {
+                    "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3UDmtGY2E-obFXIXkUSVghocRLOFwvuUQutYb_T0GDrCjQFyRAenlEE0CFJ5h0Q9F_-towJdtaoMDsrM47jZuzYt7xGRLfg0LctliculBpTFiP3wGjwPIfrjU5mOJD3tmDhx1I1hsq8ZY1XTdH-8hsDaBV9dgzOQ8KwhywwL7WzHdE92J_Mrxpz84XYi08prZQMQaKZs=\">Evan Huang LinkedIn</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9QF56Vn_dA4-IdPwFrYRIFB4k595z5edjr9tK-gMyQL4XmEGwSf856VpbPXnA8xIkrC9tX2reyf3XgbwjGE2cvCq-HK3kRmRz_yx_Se5BMuDYvCSJ8EGXIEKR4sRIrF1INQ_Bss49Rj-59-WZpl0M5ot8YkzPkecgyZiiW5sbkaTALvxwfvSwFfFG_ejCb1qVdct7bHUvhJIWMiDPQf4=\">Evan Huang software engineer</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJUoKy-6HyXphNocW0DRUCsAw_Jw3EE82kZKHEwAvFYlZ7azrRFYus7poYHFEAXrCEJ6XJkLaanAc1oXyNng0wLSBJBxq78mhzryiRA1eu4j0W_g12kIP8mq-tALUWNJXtpo5k33vER3wPZMbPWDPWgj6Vr2ZsF4j3XVvcLvtuTTKJlzyRwdwLjTAATGyih_5uqwhJuAf83VPnyA==\">Evan Huang tech industry</a>\n  </div>\n</div>\n"
+                  },
+                  "groundingChunks": [
+                    {
+                      "web": {
+                        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Zm565OHt9nAi1X2ov4W1TnQ5XvxpdLWTeWg8pa1hj5ymn9hyFY6CTU3js5r46NsNheIiHXyS6P42Rfl1cv285w1R-ej6rMgHPnXQb3T5ueTf1d7Z",
+                        "title": "evanhuang.dev"
+                      }
+                    },
+                    {
+                      "web": {
+                        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4_fOog417R7KgzI58un3NXIQZUgHmYB0AZHS5TdrqhQ4MpeirrH0dss6B1n1ji7N7Xoaqk1MrvqMW9M3ED8p0xQ8ZZd87df8S436ylSRuffPJH_URllwVBg==",
+                        "title": "github.com"
+                      }
+                    },
+                    {
+                      "web": {
+                        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx_7LqGTUOYarmVs7PVbXaZuTA1a2YaI2_FQ7p9P7Y2CZO0UJ4O2dwm_mHneoabv3WU_C3rvhkw67FAQ73e7rQ92OJ83H5ITygl-nZK1SI5v1AkveAzGL8bA==",
+                        "title": "weebly.com"
+                      }
+                    },
+                    {
+                      "web": {
+                        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM7QVd_TcbNNPiD1lpdCJBo6gYK9HP1g4uosUyJpm3bJEMv4zS-V7M_QOLDqzD2-ND6BhjIf1q3k6N0870Q66D0VMWXm5_w4chjEhubqz9cVlcd_ohKO7KZG5cTzN4quLLOebiD6M=",
+                        "title": "youtube.com"
+                      }
+                    },
+                    {
+                      "web": {
+                        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfnGKynulPjgxIEWsGutzF-OoYygUUElQoYjnvBS0HQOoDuKEj2jBt_Fc2wymkyCLGVgyGdM0wOaLtG-ZNhEhM2UM_br0MIABKqLXHLYKZjLrG4uZxG6M4XHaicYrXk7eTIukTk2y2V64=",
+                        "title": "facebook.com"
+                      }
+                    },
+                    {
+                      "web": {
+                        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdFTTmBPQBBApCUnQzwfzJsYhc2DRPENIGfFo8AQlTLq3T1pla1ovrQKSVoSK_te6so5EXmqCQrw9uq7vVSZNIafZSKt6hSPU04l_GdbzbpVHTO7v9U2XbGvl1CBg1M-BRUW6Cj7eBcMvTS-TKHJmyehAVsV2Zg1SBdgTl8psIu4od0mPfgLAIqa3bVW4voYNJ7oemyavCKy1nBTvf1uQ=",
+                        "title": "nasdaq.com"
+                      }
+                    }
+                  ],
+                  "groundingSupports": [
+                    {
+                      "segment": {
+                        "startIndex": 674,
+                        "endIndex": 778,
+                        "text": "He is associated with projects like \"World Engine,\" an LLM-driven world where autonomous agents operate."
+                      },
+                      "groundingChunkIndices": [
+                        0
+                      ]
+                    },
+                    {
+                      "segment": {
+                        "startIndex": 1230,
+                        "endIndex": 1248,
+                        "text": "js and TypeScript."
+                      },
+                      "groundingChunkIndices": [
+                        1
+                      ]
+                    },
+                    {
+                      "segment": {
+                        "startIndex": 1250,
+                        "endIndex": 1550,
+                        "text": "It is important to note that other individuals named Evan Huang are active in related tech and creative fields, but their primary roles may differ from a traditional \"software engineer.\" These include a technical artist and audiovisual creative specializing in Maya rigging, Python, and Unreal Engine"
+                      },
+                      "groundingChunkIndices": [
+                        2,
+                        3
+                      ]
+                    },
+                    {
+                      "segment": {
+                        "startIndex": 1550,
+                        "endIndex": 1590,
+                        "text": "; a motion graphics artist at Riot Games"
+                      },
+                      "groundingChunkIndices": [
+                        4
+                      ]
+                    },
+                    {
+                      "segment": {
+                        "startIndex": 1590,
+                        "endIndex": 1656,
+                        "text": "; and an inventor focused on robotics for the elderly and disabled"
+                      },
+                      "groundingChunkIndices": [
+                        5
+                      ]
+                    }
+                  ],
+                  "webSearchQueries": [
+                    "Evan Huang software engineer",
+                    "Evan Huang LinkedIn",
+                    "Evan Huang tech industry"
+                  ]
+                },
+                "index": 0
+              }
+            ],
+            "modelVersion": "gemini-2.5-flash",
+            "usageMetadata": {
+              "promptTokenCount": 9,
+              "candidatesTokenCount": 351,
+              "totalTokenCount": 1243,
+              "promptTokensDetails": [
+                {
+                  "modality": "TEXT",
+                  "tokenCount": 9
+                }
+              ],
+              "toolUsePromptTokenCount": 106,
+              "toolUsePromptTokensDetails": [
+                {
+                  "modality": "TEXT",
+                  "tokenCount": 106
+                }
+              ],
+              "thoughtsTokenCount": 777,
+              "serviceTier": "standard"
+            }
+          }
+        },
+        {
+          "engine": "google-aio",
+          "model": "google-ai-overview",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 90195,
+          "error": "SerpApi 503",
+          "raw": null
+        }
+      ]
+    },
+    {
+      "query_id": "evan-huang-projects",
+      "prompt": "What has Evan Huang built? List specific projects.",
+      "category": "identity",
+      "results": [
+        {
+          "engine": "openai",
+          "model": "gpt-4o-mini-search-preview",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 154,
+          "error": "404 The model `gpt-4o-mini-search-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations",
+          "raw": null
+        },
+        {
+          "engine": "anthropic",
+          "model": "claude-haiku-4-5-20251001",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 241,
+          "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfUDsWS5AHp3Ghdt7aaQ8\"}",
+          "raw": null
+        },
+        {
+          "engine": "gemini",
+          "model": "gemini-2.5-flash",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 11501,
+          "error": "got status: 503 Service Unavailable. {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}",
+          "raw": null
+        },
+        {
+          "engine": "google-aio",
+          "model": "google-ai-overview",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 705,
+          "error": null,
+          "raw": {
+            "search_metadata": {
+              "id": "6ab93d9a9df9dd7bafc26f51",
+              "status": "Success",
+              "json_endpoint": "https://serpapi.com/searches/xRCNoYlHOmrYyNUxt2wwRUTLgpomtz1vPeMPu5biKeA/6ab93d9a9df9dd7bafc26f51.json",
+              "markdown_endpoint": "https://serpapi.com/searches/xRCNoYlHOmrYyNUxt2wwRUTLgpomtz1vPeMPu5biKeA/6ab93d9a9df9dd7bafc26f51.md",
+              "pixel_position_endpoint": "https://serpapi.com/searches/xRCNoYlHOmrYyNUxt2wwRUTLgpomtz1vPeMPu5biKeA/6ab93d9a9df9dd7bafc26f51.json_with_pixel_position",
+              "created_at": "2026-09-27 16:00:26 UTC",
+              "processed_at": "2026-09-27 16:00:26 UTC",
+              "google_url": "https://www.google.com/search?q=What+has+Evan+Huang+built%3F+List+specific+projects.&oq=What+has+Evan+Huang+built%3F+List+specific+projects.&sourceid=chrome&ie=UTF-8",
+              "raw_html_file": "https://serpapi.com/searches/xRCNoYlHOmrYyNUxt2wwRUTLgpomtz1vPeMPu5biKeA/6ab93d9a9df9dd7bafc26f51.html",
+              "total_time_taken": 0.48
+            },
+            "search_parameters": {
+              "engine": "google",
+              "q": "What has Evan Huang built? List specific projects.",
+              "google_domain": "google.com",
+              "device": "desktop"
+            },
+            "search_information": {
+              "query_displayed": "What has Evan Huang built? List specific projects.",
+              "total_results": 113000,
+              "time_taken_displayed": 0.3,
+              "organic_results_state": "Results for exact spelling"
+            },
+            "organic_results": [
+              {
+                "position": 1,
+                "title": "Judy Heumann is one of the featured rebels in the new book ...",
+                "link": "https://www.instagram.com/p/CurrEotuInZ/",
+                "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVEK1aKO3LpvQjpzY-OzY2YC57agJwJC6sFt3aGP6V0l2MZEYV5nVk3KTE4MrYmdkKbNJ1DWPLjHPXphsp3IYI12qLzevLKoVzEoNSqwq5-h_Rt_tepyqxX4-1CXONqg&ved=2ahUKEwjBi4nikI-XAxXIw8kDHeLFAdkQFnoECBIQAQ&uoh=1",
+                "displayed_link": "https://www.instagram.com › CurrEotuInZ",
+                "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+                "snippet": "Judy Heumann is one of the featured rebels in the new book Rebels of Kindness! In partnership with Kindhumans Foundation, authors Aaron and ...",
+                "about_this_result": {
+                  "source": {
+                    "description": "Judy Heumann is one of the featured rebels in the new book Rebels of Kindness! In partnership with Kindhumans Foundation, authors Aaron and ...",
+                    "source_info_link": "https://www.instagram.com/p/CurrEotuInZ/",
+                    "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+                  },
+                  "languages": [
+                    "en"
+                  ],
+                  "regions": [
+                    "US"
+                  ]
+                },
+                "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkVLMWFLTzNMcHZRanB6WS1PelkyWUM1N2FnSndKQzZzRnQzYUdQNlYwbDJNWkVZVjVuVmszS1RFNE1yWW1ka0tiTkoxRFdQTGpIUFhwaHNwM0lZSTEycUx6ZXZMS29WekVvTlNxd3E1LWhfUnRfdGVweXF4WDQtMUNYT05xZxIEGgIIABrWBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCyBQgAEAAYACAAKhIKBHdoYXQVoH37PRoFd2hpY2gqEAoDaGFzFUgR0T0aBGhhdmUqIQoEZXZhbhUw3ss7GglldmFuaHVhbmcaCWl2O3A7ZXZhbiojCgVodWFuZxUw3ss7GglldmFuaHVhbmcaCml2O3A7aHVhbmcqMQoFYnVpbHQVakJYPRoEbWFkZRoFYnVpbGQaDGNvbnN0cnVjdGlvbhoIYnVpbGRpbmcqJgoEbGlzdBWl5hg9GglkaXJlY3RvcnkaB2xpc3RpbmcaBWxpc3RzKkQKCHNwZWNpZmljFQAAAAAaB2NlcnRhaW4aCmluZGl2aWR1YWwaCnBhcnRpY3VsYXIaB3NwZWNpYWwaCXNwZWNpZmllZColCghwcm9qZWN0cxUAAAAAGgdwcm9qZWN0GgR3b3JrGgVwb3N0czKUAS9nb3RvP3VybD1DQUVTWXdIck96QVZFSzFhS08zTHB2UWpwelktT3pZMllDNTdhZ0p3SkM2c0Z0M2FHUDZWMGwyTVpFWVY1blZrM0tURTRNclltZGtLYk5KMURXUExqSFBYcGhzcDNJWUkxMnFMemV2TEtvVnpFb05TcXdxNS1oX1J0X3RlcHlxeFg0LTFDWE9OcWc6Pkp1ZHkgSGV1bWFubiBpcyBvbmUgb2YgdGhlIGZlYXR1cmVkIHJlYmVscyBpbiB0aGUgbmV3IGJvb2sgLi4uQpQBSnVkeSBIZXVtYW5uIGlzIG9uZSBvZiB0aGUgZmVhdHVyZWQgcmViZWxzIGluIHRoZSBuZXcgYm9vayBSZWJlbHMgb2YgS2luZG5lc3MhIEluIHBhcnRuZXJzaGlwIHdpdGggS2luZGh1bWFucyBGb3VuZGF0aW9uLCBhdXRob3JzIEFhcm9uIGFuZCZuYnNwOy4uLlIEaGF2ZSICEAFIAFgAaAA",
+                "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkVLMWFLTzNMcHZRanB6WS1PelkyWUM1N2FnSndKQzZzRnQzYUdQNlYwbDJNWkVZVjVuVmszS1RFNE1yWW1ka0tiTkoxRFdQTGpIUFhwaHNwM0lZSTEycUx6ZXZMS29WekVvTlNxd3E1LWhfUnRfdGVweXF4WDQtMUNYT05xZxIEGgIIABrWBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCyBQgAEAAYACAAKhIKBHdoYXQVoH37PRoFd2hpY2gqEAoDaGFzFUgR0T0aBGhhdmUqIQoEZXZhbhUw3ss7GglldmFuaHVhbmcaCWl2O3A7ZXZhbiojCgVodWFuZxUw3ss7GglldmFuaHVhbmcaCml2O3A7aHVhbmcqMQoFYnVpbHQVakJYPRoEbWFkZRoFYnVpbGQaDGNvbnN0cnVjdGlvbhoIYnVpbGRpbmcqJgoEbGlzdBWl5hg9GglkaXJlY3RvcnkaB2xpc3RpbmcaBWxpc3RzKkQKCHNwZWNpZmljFQAAAAAaB2NlcnRhaW4aCmluZGl2aWR1YWwaCnBhcnRpY3VsYXIaB3NwZWNpYWwaCXNwZWNpZmllZColCghwcm9qZWN0cxUAAAAAGgdwcm9qZWN0GgR3b3JrGgVwb3N0czKUAS9nb3RvP3VybD1DQUVTWXdIck96QVZFSzFhS08zTHB2UWpwelktT3pZMllDNTdhZ0p3SkM2c0Z0M2FHUDZWMGwyTVpFWVY1blZrM0tURTRNclltZGtLYk5KMURXUExqSFBYcGhzcDNJWUkxMnFMemV2TEtvVnpFb05TcXdxNS1oX1J0X3RlcHlxeFg0LTFDWE9OcWc6Pkp1ZHkgSGV1bWFubiBpcyBvbmUgb2YgdGhlIGZlYXR1cmVkIHJlYmVscyBpbiB0aGUgbmV3IGJvb2sgLi4uQpQBSnVkeSBIZXVtYW5uIGlzIG9uZSBvZiB0aGUgZmVhdHVyZWQgcmViZWxzIGluIHRoZSBuZXcgYm9vayBSZWJlbHMgb2YgS2luZG5lc3MhIEluIHBhcnRuZXJzaGlwIHdpdGggS2luZGh1bWFucyBGb3VuZGF0aW9uLCBhdXRob3JzIEFhcm9uIGFuZCZuYnNwOy4uLlIEaGF2ZSICEAFIAFgAaAA",
+                "source": "instagram.com",
+                "read_more_link": "https://www.instagram.com/p/CurrEotuInZ/#:~:text=Judy%20Heumann%20is%20one%20of,Kindhumans%20Foundation%2C%20authors%20Aaron%20and"
+              },
+              {
+                "position": 2,
+                "title": "Walsh University alumna Elizabeth Glander's journey from ...",
+                "link": "https://www.facebook.com/walshu/posts/class-of-2022-member-elizabeth-glander-believes-that-if-you-aim-for-the-stars-yo/10158032075111190/?locale=hi_IN",
+                "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES0gEB6zswFU1jJk7pNvx4SoKiQ5j7B5RcpmyVe3qMZDEY3oAGy6AccLdE66Ngblgzc7QktyBYwdK81cZbyPsXYylY9BHEmtvWh_o5BHUGhU866W7orrpJAtaarvB73ylKJB1tlf0tLmxmyw0o_DT7Hfqgb3qS-g-cEg-OVHYrK_wEXDyCaDGyiLBcLn37EH9JR3Z9tLzBD3EgwN1gD9B7FT18VEg9P0x3CDBrvKJ-53sKxf-A7Uf29DDAFVDXicZ_p-1QZQQTiNKFL5svpPVEKXe7tiY&ved=2ahUKEwjBi4nikI-XAxXIw8kDHeLFAdkQFnoECBMQAQ&uoh=1",
+                "displayed_link": "https://www.facebook.com › walshu › posts › class-of-2...",
+                "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+                "snippet": "Class of 2022 member, Elizabeth Glander believes that if you aim for the stars, your potential is limitless.",
+                "about_this_result": {
+                  "source": {
+                    "description": "Class of 2022 member, Elizabeth Glander believes that if you aim for the stars, your potential is limitless.",
+                    "source_info_link": "https://www.facebook.com/walshu/posts/class-of-2022-member-elizabeth-glander-believes-that-if-you-aim-for-the-stars-yo/10158032075111190/?locale=hi_IN",
+                    "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+                  },
+                  "languages": [
+                    "en"
+                  ],
+                  "regions": [
+                    "US"
+                  ]
+                },
+                "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkCL2dvdG8_dXJsPUNBRVMwZ0VCNnpzd0ZVMWpKazdwTnZ4NFNvS2lRNWo3QjVSY3BteVZlM3FNWkRFWTNvQUd5NkFjY0xkRTY2TmdibGd6YzdRa3R5Qll3ZEs4MWNaYnlQc1hZeWxZOUJIRW10dldoX281QkhVR2hVODY2VzdvcnJwSkF0YWFydkI3M3lsS0pCMXRsZjB0TG14bXl3MG9fRFQ3SGZxZ2IzcVMtZy1jRWctT1ZIWXJLX3dFWER5Q2FER3lpTEJjTG4zN0VIOUpSM1o5dEx6QkQzRWd3TjFnRDlCN0ZUMThWRWc5UDB4M0NEQnJ2S0otNTNzS3hmLUE3VWYyOUREQUZWRFhpY1pfcC0xUVpRUVRpTktGTDVzdnBQVkVLWGU3dGlZEgQaAggAGsQGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKAGCAAQABgAIAAqEgoEd2hhdBVRcKw-GgV3aGljaCoQCgNoYXMVc4gNPxoEaGF2ZSohCgRldmFuFSLQbjsaCWV2YW5odWFuZxoJaXY7cDtldmFuKiMKBWh1YW5nFSLQbjsaCWV2YW5odWFuZxoKaXY7cDtodWFuZyoxCgVidWlsdBUAAAAAGgRtYWRlGgVidWlsZBoMY29uc3RydWN0aW9uGghidWlsZGluZyomCgRsaXN0FRscszwaCWRpcmVjdG9yeRoHbGlzdGluZxoFbGlzdHMqRAoIc3BlY2lmaWMVAAAAABoHY2VydGFpbhoKaW5kaXZpZHVhbBoKcGFydGljdWxhchoHc3BlY2lhbBoJc3BlY2lmaWVkKiUKCHByb2plY3RzFfeLGzwaB3Byb2plY3QaBHdvcmsaBXBvc3RzMqkCL2dvdG8_dXJsPUNBRVMwZ0VCNnpzd0ZVMWpKazdwTnZ4NFNvS2lRNWo3QjVSY3BteVZlM3FNWkRFWTNvQUd5NkFjY0xkRTY2TmdibGd6YzdRa3R5Qll3ZEs4MWNaYnlQc1hZeWxZOUJIRW10dldoX281QkhVR2hVODY2VzdvcnJwSkF0YWFydkI3M3lsS0pCMXRsZjB0TG14bXl3MG9fRFQ3SGZxZ2IzcVMtZy1jRWctT1ZIWXJLX3dFWER5Q2FER3lpTEJjTG4zN0VIOUpSM1o5dEx6QkQzRWd3TjFnRDlCN0ZUMThWRWc5UDB4M0NEQnJ2S0otNTNzS3hmLUE3VWYyOUREQUZWRFhpY1pfcC0xUVpRUVRpTktGTDVzdnBQVkVLWGU3dGlZOkBXYWxzaCBVbml2ZXJzaXR5IGFsdW1uYSBFbGl6YWJldGggR2xhbmRlciYjMzk7cyBqb3VybmV5IGZyb20gLi4uQmxDbGFzcyBvZiAyMDIyIG1lbWJlciwgRWxpemFiZXRoIEdsYW5kZXIgYmVsaWV2ZXMgdGhhdCBpZiB5b3UgYWltIGZvciB0aGUgc3RhcnMsIHlvdXIgcG90ZW50aWFsIGlzIGxpbWl0bGVzcy5SBGhhdmUiAhABSABYAGgA",
+                "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkCL2dvdG8_dXJsPUNBRVMwZ0VCNnpzd0ZVMWpKazdwTnZ4NFNvS2lRNWo3QjVSY3BteVZlM3FNWkRFWTNvQUd5NkFjY0xkRTY2TmdibGd6YzdRa3R5Qll3ZEs4MWNaYnlQc1hZeWxZOUJIRW10dldoX281QkhVR2hVODY2VzdvcnJwSkF0YWFydkI3M3lsS0pCMXRsZjB0TG14bXl3MG9fRFQ3SGZxZ2IzcVMtZy1jRWctT1ZIWXJLX3dFWER5Q2FER3lpTEJjTG4zN0VIOUpSM1o5dEx6QkQzRWd3TjFnRDlCN0ZUMThWRWc5UDB4M0NEQnJ2S0otNTNzS3hmLUE3VWYyOUREQUZWRFhpY1pfcC0xUVpRUVRpTktGTDVzdnBQVkVLWGU3dGlZEgQaAggAGsQGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKAGCAAQABgAIAAqEgoEd2hhdBVRcKw-GgV3aGljaCoQCgNoYXMVc4gNPxoEaGF2ZSohCgRldmFuFSLQbjsaCWV2YW5odWFuZxoJaXY7cDtldmFuKiMKBWh1YW5nFSLQbjsaCWV2YW5odWFuZxoKaXY7cDtodWFuZyoxCgVidWlsdBUAAAAAGgRtYWRlGgVidWlsZBoMY29uc3RydWN0aW9uGghidWlsZGluZyomCgRsaXN0FRscszwaCWRpcmVjdG9yeRoHbGlzdGluZxoFbGlzdHMqRAoIc3BlY2lmaWMVAAAAABoHY2VydGFpbhoKaW5kaXZpZHVhbBoKcGFydGljdWxhchoHc3BlY2lhbBoJc3BlY2lmaWVkKiUKCHByb2plY3RzFfeLGzwaB3Byb2plY3QaBHdvcmsaBXBvc3RzMqkCL2dvdG8_dXJsPUNBRVMwZ0VCNnpzd0ZVMWpKazdwTnZ4NFNvS2lRNWo3QjVSY3BteVZlM3FNWkRFWTNvQUd5NkFjY0xkRTY2TmdibGd6YzdRa3R5Qll3ZEs4MWNaYnlQc1hZeWxZOUJIRW10dldoX281QkhVR2hVODY2VzdvcnJwSkF0YWFydkI3M3lsS0pCMXRsZjB0TG14bXl3MG9fRFQ3SGZxZ2IzcVMtZy1jRWctT1ZIWXJLX3dFWER5Q2FER3lpTEJjTG4zN0VIOUpSM1o5dEx6QkQzRWd3TjFnRDlCN0ZUMThWRWc5UDB4M0NEQnJ2S0otNTNzS3hmLUE3VWYyOUREQUZWRFhpY1pfcC0xUVpRUVRpTktGTDVzdnBQVkVLWGU3dGlZOkBXYWxzaCBVbml2ZXJzaXR5IGFsdW1uYSBFbGl6YWJldGggR2xhbmRlciYjMzk7cyBqb3VybmV5IGZyb20gLi4uQmxDbGFzcyBvZiAyMDIyIG1lbWJlciwgRWxpemFiZXRoIEdsYW5kZXIgYmVsaWV2ZXMgdGhhdCBpZiB5b3UgYWltIGZvciB0aGUgc3RhcnMsIHlvdXIgcG90ZW50aWFsIGlzIGxpbWl0bGVzcy5SBGhhdmUiAhABSABYAGgA",
+                "source": "facebook.com"
+              },
+              {
+                "position": 3,
+                "title": "𝜏^𝜏-Bench: An Environment for End-To-End, Realistic Agent ...",
+                "link": "https://arxiv.org/html/2609.04611v1",
+                "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVOJrbKXFPgryDsUMGjTuTlpOkcPaC_pslXAskYTgNwpEC5eGRGInPsP8-g_prsdAhdTJmSEHMr8cPaEQ2Nu2pCaKO57ofu9LlUnPic3bBth5NB2iG6_88Y1U&ved=2ahUKEwjBi4nikI-XAxXIw8kDHeLFAdkQFnoECBEQAQ&uoh=1",
+                "displayed_link": "https://arxiv.org › html",
+                "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALsB3At0T6gOdGrHnJqXiRtSOHkMwX6c4GvYjFEnCAAA_vUWCAIoxv_18vepfCOlJUfzzLUSoUwQSSgtd6QcnnaXOi6wqKYx06FNkQtClFZr8GP7q_8IwwkjTlXEGGHvFyELPcOi1-v_VHnZZ_3POzY-JrGiXGtGP-tSq-z4krdf7iuEtu0_LkiD2EoqH8x7WoE69qnp2PBP-r_d6z01sWbQuEU2kj83dTm3RW6Qq92QdxzQgcvenw5ABsqN_aUurNII6LHTqBj7bpOArT1vRGN9wS9UThPfHgAA.webp",
+                "date": "Sep 4, 2026",
+                "snippet": "Abstract. LLM agents are rapidly becoming production software, deployed to handle customer service, adjudicate disputes, ...",
+                "about_this_result": {
+                  "source": {
+                    "description": "Abstract. LLM agents are rapidly becoming production software, deployed to handle customer service, adjudicate disputes, ...",
+                    "source_info_link": "https://arxiv.org/html/2609.04611v1",
+                    "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALsB3At0T6gOdGrHnJqXiRtSOHkMwX6c4GvYjFEnCAAA_vUWCAIoxv_18vepfCOlJUfzzLUSoUwQSSgtd6QcnnaXOi6wqKYx06FNkQtClFZr8GP7q_8IwwkjTlXEGGHvFyELPcOi1-v_VHnZZ_3POzY-JrGiXGtGP-tSq-z4krdf7iuEtu0_LkiD2EoqH8x7WoE69qnp2PBP-r_d6z01sWbQuEU2kj83dTm3RW6Qq92QdxzQgcvenw5ABsqN_aUurNII6LHTqBj7bpOArT1vRGN9wS9UThPfHgAA.webp"
+                  },
+                  "languages": [
+                    "en"
+                  ],
+                  "regions": [
+                    "US"
+                  ]
+                },
+                "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVk9KcmJLWEZQZ3J5RHNVTUdqVHVUbHBPa2NQYUNfcHNsWEFza1lUZ053cEVDNWVHUkdJblBzUDgtZ19wcnNkQWhkVEptU0VITXI4Y1BhRVEyTnUycENhS081N29mdTlMbFVuUGljM2JCdGg1TkIyaUc2Xzg4WTFVEgQaAggAGsMFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAnQUIABAAGAAgACoSCgR3aGF0FV8zBz4aBXdoaWNoKhAKA2hhcxU_0cI9GgRoYXZlKiEKBGV2YW4VX9_kOxoJZXZhbmh1YW5nGglpdjtwO2V2YW4qIwoFaHVhbmcVdEEJPRoJZXZhbmh1YW5nGgppdjtwO2h1YW5nKjEKBWJ1aWx0FaQKMj4aBG1hZGUaBWJ1aWxkGgxjb25zdHJ1Y3Rpb24aCGJ1aWxkaW5nKiYKBGxpc3QVDN75PRoJZGlyZWN0b3J5GgdsaXN0aW5nGgVsaXN0cypECghzcGVjaWZpYxUWA4Y9GgdjZXJ0YWluGgppbmRpdmlkdWFsGgpwYXJ0aWN1bGFyGgdzcGVjaWFsGglzcGVjaWZpZWQqJQoIcHJvamVjdHMVAAAAABoHcHJvamVjdBoEd29yaxoFcG9zdHMyjQEvZ290bz91cmw9Q0FFU1hnSHJPekFWT0pyYktYRlBncnlEc1VNR2pUdVRscE9rY1BhQ19wc2xYQXNrWVRnTndwRUM1ZUdSR0luUHNQOC1nX3Byc2RBaGRUSm1TRUhNcjhjUGFFUTJOdTJwQ2FLTzU3b2Z1OUxsVW5QaWMzYkJ0aDVOQjJpRzZfODhZMVU6Q_CdnI9e8J2cjy1CZW5jaDogQW4gRW52aXJvbm1lbnQgZm9yIEVuZC1Uby1FbmQsIFJlYWxpc3RpYyBBZ2VudCAuLi5CgQFBYnN0cmFjdC4gTExNIGFnZW50cyBhcmUgcmFwaWRseSBiZWNvbWluZyBwcm9kdWN0aW9uIHNvZnR3YXJlLCBkZXBsb3llZCB0byBoYW5kbGUgY3VzdG9tZXIgc2VydmljZSwgYWRqdWRpY2F0ZSBkaXNwdXRlcywmbmJzcDsuLi5SBGhhdmUiAhABSABYAGgA",
+                "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVk9KcmJLWEZQZ3J5RHNVTUdqVHVUbHBPa2NQYUNfcHNsWEFza1lUZ053cEVDNWVHUkdJblBzUDgtZ19wcnNkQWhkVEptU0VITXI4Y1BhRVEyTnUycENhS081N29mdTlMbFVuUGljM2JCdGg1TkIyaUc2Xzg4WTFVEgQaAggAGsMFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAnQUIABAAGAAgACoSCgR3aGF0FV8zBz4aBXdoaWNoKhAKA2hhcxU_0cI9GgRoYXZlKiEKBGV2YW4VX9_kOxoJZXZhbmh1YW5nGglpdjtwO2V2YW4qIwoFaHVhbmcVdEEJPRoJZXZhbmh1YW5nGgppdjtwO2h1YW5nKjEKBWJ1aWx0FaQKMj4aBG1hZGUaBWJ1aWxkGgxjb25zdHJ1Y3Rpb24aCGJ1aWxkaW5nKiYKBGxpc3QVDN75PRoJZGlyZWN0b3J5GgdsaXN0aW5nGgVsaXN0cypECghzcGVjaWZpYxUWA4Y9GgdjZXJ0YWluGgppbmRpdmlkdWFsGgpwYXJ0aWN1bGFyGgdzcGVjaWFsGglzcGVjaWZpZWQqJQoIcHJvamVjdHMVAAAAABoHcHJvamVjdBoEd29yaxoFcG9zdHMyjQEvZ290bz91cmw9Q0FFU1hnSHJPekFWT0pyYktYRlBncnlEc1VNR2pUdVRscE9rY1BhQ19wc2xYQXNrWVRnTndwRUM1ZUdSR0luUHNQOC1nX3Byc2RBaGRUSm1TRUhNcjhjUGFFUTJOdTJwQ2FLTzU3b2Z1OUxsVW5QaWMzYkJ0aDVOQjJpRzZfODhZMVU6Q_CdnI9e8J2cjy1CZW5jaDogQW4gRW52aXJvbm1lbnQgZm9yIEVuZC1Uby1FbmQsIFJlYWxpc3RpYyBBZ2VudCAuLi5CgQFBYnN0cmFjdC4gTExNIGFnZW50cyBhcmUgcmFwaWRseSBiZWNvbWluZyBwcm9kdWN0aW9uIHNvZnR3YXJlLCBkZXBsb3llZCB0byBoYW5kbGUgY3VzdG9tZXIgc2VydmljZSwgYWRqdWRpY2F0ZSBkaXNwdXRlcywmbmJzcDsuLi5SBGhhdmUiAhABSABYAGgA",
+                "source": "arxiv.org",
+                "read_more_link": "https://arxiv.org/html/2609.04611v1#:~:text=Abstract,handle%20customer%20service%2C%20adjudicate%20disputes%2C"
+              },
+              {
+                "position": 4,
+                "title": "Joshua: An Open Source Toolkit for Parsing-based Machine ...",
+                "link": "https://www.cis.upenn.edu/~ccb/publications/joshua-open-source-toolkit-for-statistical-machine-translation.pdf",
+                "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqQEB6zswFe7r4qawr_Q2_CHFcNY0RY82XpFwEpJUPx8qJXkv41wwf3ICThjEDnmsICd1c6y0-Or71PBPMZwRfNk8DJ8V4_nRoNSESADHFfwnCCOHN4GIlXSH-p_TdbztfvKElGP_oVfOShdlMMqrIpuJ9t9wLWfA90r2XQlT0bMpvNRfTA1mAzp1L98hXf6au0lbBxgjSU_WPjOFMGHepW5mjFyJSJW8lboR&ved=2ahUKEwjBi4nikI-XAxXIw8kDHeLFAdkQFnoECBAQAQ&uoh=1",
+                "displayed_link": "https://www.cis.upenn.edu › ~ccb › publications",
+                "favicon": "https://serpapi.com/images/i/UklGRh4CAABXRUJQVlA4IBICAABwCgCdASogACAAPrkurlcnIacnG_DgFwlsALEM8DpTn1dMA3k58BMzYYJACVWTG_E79O-wP-s__D4Br9RyOit3Z8V-GdrJFTazB1jWpUck2xw0rUk6X9l26l06WAD-2Hv0Pw_mdzKl-s_7vSmsstAJvrveWrzmm_tGWnNdVhKvz-BjXC2WjQB4dcv81YcarmRvTMu4pJH2sdYNg06sMFTnX2Hxo0YE0f--FP2r7K5tJFIRZtsJ8ycDoWV3YqwplQPJOISqgv-_USsr9Z8hAbpqoIaiNdjPILn9VpcVv8CP2c_kbPY5WgPW0DZGZqZFjPiWDGnEphprKzOCBeRkLxrODfq--XNPgKmf7IJMtTiHN9Hf_NANdAg2RUPpLTCXIdHfjq8E8rC5kN11c4aHr2i9b2uFSV5v95u7F2VVDQ8b4i4HXD60HSPoN-MFpoLVJs_0V2rVkHEjv0rIalY_HDN85pexycwo_SMi1rPAzvp8X-VPDW9d1QXsF458C-Cu7FDLheooRrWVOpfp3mWp8h25iG_vdQE7XQCS6QWwoWz1nHVasmjPbttDEjy0xh8dINQCeTEsnPAD7n3IuISW3klE6Yu7SwBUr757ou_VFZD5ocEIUlibhsaSBm52hJcobWvzR18PNfqsOKOKDN_r4liqdsS6TluJmeFlq0eyLgCuKBt9vr7ymbQr6Wda9UaTLsIAAA.webp",
+                "snippet": "... has made remarkable progress in the last few years. However, most of the systems mentioned above employ tailor-made, dedicated software that is not open ...",
+                "snippet_highlighted_words": [
+                  "has made",
+                  "made"
+                ],
+                "rich_snippet": {
+                  "top": {
+                    "detected_extensions": {
+                      "pages": 5
+                    },
+                    "extensions": [
+                      "5 pages"
+                    ]
+                  }
+                },
+                "about_this_result": {
+                  "source": {
+                    "description": "... has made remarkable progress in the last few years. However, most of the systems mentioned above employ tailor-made, dedicated software that is not open ...",
+                    "source_info_link": "https://www.cis.upenn.edu/~ccb/publications/joshua-open-source-toolkit-for-statistical-machine-translation.pdf",
+                    "icon": "https://serpapi.com/images/i/UklGRh4CAABXRUJQVlA4IBICAABwCgCdASogACAAPrkurlcnIacnG_DgFwlsALEM8DpTn1dMA3k58BMzYYJACVWTG_E79O-wP-s__D4Br9RyOit3Z8V-GdrJFTazB1jWpUck2xw0rUk6X9l26l06WAD-2Hv0Pw_mdzKl-s_7vSmsstAJvrveWrzmm_tGWnNdVhKvz-BjXC2WjQB4dcv81YcarmRvTMu4pJH2sdYNg06sMFTnX2Hxo0YE0f--FP2r7K5tJFIRZtsJ8ycDoWV3YqwplQPJOISqgv-_USsr9Z8hAbpqoIaiNdjPILn9VpcVv8CP2c_kbPY5WgPW0DZGZqZFjPiWDGnEphprKzOCBeRkLxrODfq--XNPgKmf7IJMtTiHN9Hf_NANdAg2RUPpLTCXIdHfjq8E8rC5kN11c4aHr2i9b2uFSV5v95u7F2VVDQ8b4i4HXD60HSPoN-MFpoLVJs_0V2rVkHEjv0rIalY_HDN85pexycwo_SMi1rPAzvp8X-VPDW9d1QXsF458C-Cu7FDLheooRrWVOpfp3mWp8h25iG_vdQE7XQCS6QWwoWz1nHVasmjPbttDEjy0xh8dINQCeTEsnPAD7n3IuISW3klE6Yu7SwBUr757ou_VFZD5ocEIUlibhsaSBm52hJcobWvzR18PNfqsOKOKDN_r4liqdsS6TluJmeFlq0eyLgCuKBt9vr7ymbQr6Wda9UaTLsIAAA.webp"
+                  },
+                  "languages": [
+                    "en"
+                  ],
+                  "regions": [
+                    "US"
+                  ]
+                },
+                "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvIBL2dvdG8_dXJsPUNBRVNxUUVCNnpzd0ZlN3I0cWF3cl9RMl9DSEZjTlkwUlk4MlhwRndFcEpVUHg4cUpYa3Y0MXd3ZjNJQ1RoakVEbm1zSUNkMWM2eTAtT3I3MVBCUE1ad1JmTms4REo4VjRfblJvTlNFU0FESEZmd25DQ09ITjRHSWxYU0gtcF9UZGJ6dGZ2S0VsR1Bfb1ZmT1NoZGxNTXFySXB1Sjl0OXdMV2ZBOTByMlhRbFQwYk1wdk5SZlRBMW1BenAxTDk4aFhmNmF1MGxiQnhnalNVX1dQak9GTUdIZXBXNW1qRnlKU0pXOGxib1ISBBoCCAAa0wYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCtBggAEAAYACAAKhIKBHdoYXQVAAAAABoFd2hpY2gqEAoDaGFzFUWYaj4aBGhhdmUqIQoEZXZhbhXmPDw8GglldmFuaHVhbmcaCWl2O3A7ZXZhbiojCgVodWFuZxXmPLw8GglldmFuaHVhbmcaCml2O3A7aHVhbmcqMQoFYnVpbHQVAAAAABoEbWFkZRoFYnVpbGQaDGNvbnN0cnVjdGlvbhoIYnVpbGRpbmcqJgoEbGlzdBXmPLw8GglkaXJlY3RvcnkaB2xpc3RpbmcaBWxpc3RzKkQKCHNwZWNpZmljFQAAAAAaB2NlcnRhaW4aCmluZGl2aWR1YWwaCnBhcnRpY3VsYXIaB3NwZWNpYWwaCXNwZWNpZmllZColCghwcm9qZWN0cxW8NhM-Ggdwcm9qZWN0GgR3b3JrGgVwb3N0czLyAS9nb3RvP3VybD1DQUVTcVFFQjZ6c3dGZTdyNHFhd3JfUTJfQ0hGY05ZMFJZODJYcEZ3RXBKVVB4OHFKWGt2NDF3d2YzSUNUaGpFRG5tc0lDZDFjNnkwLU9yNzFQQlBNWndSZk5rOERKOFY0X25Sb05TRVNBREhGZnduQ0NPSE40R0lsWFNILXBfVGRienRmdktFbEdQX29WZk9TaGRsTU1xcklwdUo5dDl3TFdmQTkwcjJYUWxUMGJNcHZOUmZUQTFtQXpwMUw5OGhYZjZhdTBsYkJ4Z2pTVV9XUGpPRk1HSGVwVzVtakZ5SlNKVzhsYm9SOjxKb3NodWE6IEFuIE9wZW4gU291cmNlIFRvb2xraXQgZm9yIFBhcnNpbmctYmFzZWQgTWFjaGluZSAuLi5CswEuLi4gPGI-aGFzIG1hZGU8L2I-IHJlbWFya2FibGUgcHJvZ3Jlc3MgaW4gdGhlIGxhc3QgZmV3IHllYXJzLiBIb3dldmVyLCBtb3N0IG9mIHRoZSBzeXN0ZW1zIG1lbnRpb25lZCBhYm92ZSBlbXBsb3kgdGFpbG9yLTxiPm1hZGU8L2I-LCBkZWRpY2F0ZWQgc29mdHdhcmUgdGhhdCBpcyBub3Qgb3BlbiZuYnNwOy4uLlIEaGF2ZSICEAFIAFgAaAA",
+                "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvIBL2dvdG8_dXJsPUNBRVNxUUVCNnpzd0ZlN3I0cWF3cl9RMl9DSEZjTlkwUlk4MlhwRndFcEpVUHg4cUpYa3Y0MXd3ZjNJQ1RoakVEbm1zSUNkMWM2eTAtT3I3MVBCUE1ad1JmTms4REo4VjRfblJvTlNFU0FESEZmd25DQ09ITjRHSWxYU0gtcF9UZGJ6dGZ2S0VsR1Bfb1ZmT1NoZGxNTXFySXB1Sjl0OXdMV2ZBOTByMlhRbFQwYk1wdk5SZlRBMW1BenAxTDk4aFhmNmF1MGxiQnhnalNVX1dQak9GTUdIZXBXNW1qRnlKU0pXOGxib1ISBBoCCAAa0wYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCtBggAEAAYACAAKhIKBHdoYXQVAAAAABoFd2hpY2gqEAoDaGFzFUWYaj4aBGhhdmUqIQoEZXZhbhXmPDw8GglldmFuaHVhbmcaCWl2O3A7ZXZhbiojCgVodWFuZxXmPLw8GglldmFuaHVhbmcaCml2O3A7aHVhbmcqMQoFYnVpbHQVAAAAABoEbWFkZRoFYnVpbGQaDGNvbnN0cnVjdGlvbhoIYnVpbGRpbmcqJgoEbGlzdBXmPLw8GglkaXJlY3RvcnkaB2xpc3RpbmcaBWxpc3RzKkQKCHNwZWNpZmljFQAAAAAaB2NlcnRhaW4aCmluZGl2aWR1YWwaCnBhcnRpY3VsYXIaB3NwZWNpYWwaCXNwZWNpZmllZColCghwcm9qZWN0cxW8NhM-Ggdwcm9qZWN0GgR3b3JrGgVwb3N0czLyAS9nb3RvP3VybD1DQUVTcVFFQjZ6c3dGZTdyNHFhd3JfUTJfQ0hGY05ZMFJZODJYcEZ3RXBKVVB4OHFKWGt2NDF3d2YzSUNUaGpFRG5tc0lDZDFjNnkwLU9yNzFQQlBNWndSZk5rOERKOFY0X25Sb05TRVNBREhGZnduQ0NPSE40R0lsWFNILXBfVGRienRmdktFbEdQX29WZk9TaGRsTU1xcklwdUo5dDl3TFdmQTkwcjJYUWxUMGJNcHZOUmZUQTFtQXpwMUw5OGhYZjZhdTBsYkJ4Z2pTVV9XUGpPRk1HSGVwVzVtakZ5SlNKVzhsYm9SOjxKb3NodWE6IEFuIE9wZW4gU291cmNlIFRvb2xraXQgZm9yIFBhcnNpbmctYmFzZWQgTWFjaGluZSAuLi5CswEuLi4gPGI-aGFzIG1hZGU8L2I-IHJlbWFya2FibGUgcHJvZ3Jlc3MgaW4gdGhlIGxhc3QgZmV3IHllYXJzLiBIb3dldmVyLCBtb3N0IG9mIHRoZSBzeXN0ZW1zIG1lbnRpb25lZCBhYm92ZSBlbXBsb3kgdGFpbG9yLTxiPm1hZGU8L2I-LCBkZWRpY2F0ZWQgc29mdHdhcmUgdGhhdCBpcyBub3Qgb3BlbiZuYnNwOy4uLlIEaGF2ZSICEAFIAFgAaAA",
+                "source": "upenn.edu",
+                "read_more_link": "https://www.cis.upenn.edu/~ccb/publications/joshua-open-source-toolkit-for-statistical-machine-translation.pdf#:~:text=has%20made%20remarkable%20progress%20in,results%20in%20a%20high%20bar%2D"
+              },
+              {
+                "position": 5,
+                "title": "Motivation Behind China's Public Diplomacy | The Chinese ...",
+                "link": "https://academic.oup.com/cjip/article/8/2/167/353243",
+                "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVJ-RxTbTP3eQlF5lYAlONXbzNURFGJMSI3gnynBl2RVK2nPe3PV86r_uOPf7ROLZft8y8MoDhDYrwKKhXKg9qYs-B2hKVQLeIibnWzbo1j4yNHRQJVVUve29s7ML6MTcwd9UbQIuEnv4XfQ&ved=2ahUKEwjBi4nikI-XAxXIw8kDHeLFAdkQFnoECAwQAQ&uoh=1",
+                "displayed_link": "https://academic.oup.com › cjip › article",
+                "favicon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAAAwBgCdASocABwAPtFAtFooIqgoFAEAGglAE6ZQBRdPFH8ydIB0IAdmvyhPaQmJba7uWnD3YkDJjQzAAP7yl99hFWIfW6VoG2baRDq8lsvjpFNx5R6NHH4Jn1OtRKPQxft_Piaz3dgfTMxcoHGU_LjT4B-2xRfrfcIqHVMYaqBM1f0nFh0NxdmmLaKNG4oz8zJW49vrEXCxoTzfifrfEHI6X_0a8kdtMFkpAzFSL5k-_LNl8tA_4ELxzweDXbq8mle3CNf-4Oeo--M7L9TacCap6mLmE2-cxMIjxsqueXNIZHf7xgb1LHDnA-vFMWP51iXm5YlK8uf09YwmBE0V9l7AAAA.webp",
+                "date": "Apr 14, 2015",
+                "snippet": "Abstract. Since 2003, the Chinese government has launched a succession of public diplomacy campaigns and programmes, the dynamics, ...",
+                "snippet_highlighted_words": [
+                  "has"
+                ],
+                "about_this_result": {
+                  "source": {
+                    "description": "Abstract. Since 2003, the Chinese government has launched a succession of public diplomacy campaigns and programmes, the dynamics, ...",
+                    "source_info_link": "https://academic.oup.com/cjip/article/8/2/167/353243",
+                    "icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAAAwBgCdASocABwAPtFAtFooIqgoFAEAGglAE6ZQBRdPFH8ydIB0IAdmvyhPaQmJba7uWnD3YkDJjQzAAP7yl99hFWIfW6VoG2baRDq8lsvjpFNx5R6NHH4Jn1OtRKPQxft_Piaz3dgfTMxcoHGU_LjT4B-2xRfrfcIqHVMYaqBM1f0nFh0NxdmmLaKNG4oz8zJW49vrEXCxoTzfifrfEHI6X_0a8kdtMFkpAzFSL5k-_LNl8tA_4ELxzweDXbq8mle3CNf-4Oeo--M7L9TacCap6mLmE2-cxMIjxsqueXNIZHf7xgb1LHDnA-vFMWP51iXm5YlK8uf09YwmBE0V9l7AAAA.webp"
+                  },
+                  "languages": [
+                    "en"
+                  ],
+                  "regions": [
+                    "US"
+                  ]
+                },
+                "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVkotUnhUYlRQM2VRbEY1bFlBbE9OWGJ6TlVSRkdKTVNJM2dueW5CbDJSVksyblBlM1BWODZyX3VPUGY3Uk9MWmZ0OHk4TW9EaERZcndLS2hYS2c5cVlzLUIyaEtWUUxlSWlibld6Ym8xajR5TkhSUUpWVlV2ZTI5czdNTDZNVGN3ZDlVYlFJdUVudjRYZlESBBoCCAAa5gUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAwgUIABAAGAAgACoSCgR3aGF0Fejcqz0aBXdoaWNoKhAKA2hhcxURp7U-GgRoYXZlKiEKBGV2YW4VwEcZOxoJZXZhbmh1YW5nGglpdjtwO2V2YW4qIwoFaHVhbmcVwEeZOxoJZXZhbmh1YW5nGgppdjtwO2h1YW5nKjEKBWJ1aWx0FQAAAAAaBG1hZGUaBWJ1aWxkGgxjb25zdHJ1Y3Rpb24aCGJ1aWxkaW5nKiYKBGxpc3QVGVKEPRoJZGlyZWN0b3J5GgdsaXN0aW5nGgVsaXN0cypECghzcGVjaWZpYxV2ldk-GgdjZXJ0YWluGgppbmRpdmlkdWFsGgpwYXJ0aWN1bGFyGgdzcGVjaWFsGglzcGVjaWZpZWQqJQoIcHJvamVjdHMVdKTqPBoHcHJvamVjdBoEd29yaxoFcG9zdHMypAEvZ290bz91cmw9Q0FFU2J3SHJPekFWSi1SeFRiVFAzZVFsRjVsWUFsT05YYnpOVVJGR0pNU0kzZ255bkJsMlJWSzJuUGUzUFY4NnJfdU9QZjdST0xaZnQ4eThNb0RoRFlyd0tLaFhLZzlxWXMtQjJoS1ZRTGVJaWJuV3pibzFqNHlOSFJRSlZWVXZlMjlzN01MNk1UY3dkOVViUUl1RW52NFhmUTpATW90aXZhdGlvbiBCZWhpbmQgQ2hpbmEmIzM5O3MgUHVibGljIERpcGxvbWFjeSB8IFRoZSBDaGluZXNlIC4uLkKSAUFic3RyYWN0LiBTaW5jZSAyMDAzLCB0aGUgQ2hpbmVzZSBnb3Zlcm5tZW50IDxiPmhhczwvYj4gbGF1bmNoZWQgYSBzdWNjZXNzaW9uIG9mIHB1YmxpYyBkaXBsb21hY3kgY2FtcGFpZ25zIGFuZCBwcm9ncmFtbWVzLCB0aGUgZHluYW1pY3MsJm5ic3A7Li4uUgRoYXZlIgIQAUgAWABoAA",
+                "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVkotUnhUYlRQM2VRbEY1bFlBbE9OWGJ6TlVSRkdKTVNJM2dueW5CbDJSVksyblBlM1BWODZyX3VPUGY3Uk9MWmZ0OHk4TW9EaERZcndLS2hYS2c5cVlzLUIyaEtWUUxlSWlibld6Ym8xajR5TkhSUUpWVlV2ZTI5czdNTDZNVGN3ZDlVYlFJdUVudjRYZlESBBoCCAAa5gUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAwgUIABAAGAAgACoSCgR3aGF0Fejcqz0aBXdoaWNoKhAKA2hhcxURp7U-GgRoYXZlKiEKBGV2YW4VwEcZOxoJZXZhbmh1YW5nGglpdjtwO2V2YW4qIwoFaHVhbmcVwEeZOxoJZXZhbmh1YW5nGgppdjtwO2h1YW5nKjEKBWJ1aWx0FQAAAAAaBG1hZGUaBWJ1aWxkGgxjb25zdHJ1Y3Rpb24aCGJ1aWxkaW5nKiYKBGxpc3QVGVKEPRoJZGlyZWN0b3J5GgdsaXN0aW5nGgVsaXN0cypECghzcGVjaWZpYxV2ldk-GgdjZXJ0YWluGgppbmRpdmlkdWFsGgpwYXJ0aWN1bGFyGgdzcGVjaWFsGglzcGVjaWZpZWQqJQoIcHJvamVjdHMVdKTqPBoHcHJvamVjdBoEd29yaxoFcG9zdHMypAEvZ290bz91cmw9Q0FFU2J3SHJPekFWSi1SeFRiVFAzZVFsRjVsWUFsT05YYnpOVVJGR0pNU0kzZ255bkJsMlJWSzJuUGUzUFY4NnJfdU9QZjdST0xaZnQ4eThNb0RoRFlyd0tLaFhLZzlxWXMtQjJoS1ZRTGVJaWJuV3pibzFqNHlOSFJRSlZWVXZlMjlzN01MNk1UY3dkOVViUUl1RW52NFhmUTpATW90aXZhdGlvbiBCZWhpbmQgQ2hpbmEmIzM5O3MgUHVibGljIERpcGxvbWFjeSB8IFRoZSBDaGluZXNlIC4uLkKSAUFic3RyYWN0LiBTaW5jZSAyMDAzLCB0aGUgQ2hpbmVzZSBnb3Zlcm5tZW50IDxiPmhhczwvYj4gbGF1bmNoZWQgYSBzdWNjZXNzaW9uIG9mIHB1YmxpYyBkaXBsb21hY3kgY2FtcGFpZ25zIGFuZCBwcm9ncmFtbWVzLCB0aGUgZHluYW1pY3MsJm5ic3A7Li4uUgRoYXZlIgIQAUgAWABoAA",
+                "source": "oup.com"
+              },
+              {
+                "position": 6,
+                "title": "Elsie Silver | • powerless audio announcement • Beyond ...",
+                "link": "https://www.instagram.com/p/Cn1wPzHr3BF/?hl=en",
+                "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVdTlYjfyd7sOdHFnGhAYI2ID7fx8k1PBDHlhQqUcl3DMSBiurt6w474mSnFqw2bHB3n59udcQRRR7pt3jEnl2DWdEcjtXAI_YO-CbEO1RL9UrOaTPuNNpzfWcf282rjkoTdtPJg&ved=2ahUKEwjBi4nikI-XAxXIw8kDHeLFAdkQFnoECA0QAQ&uoh=1",
+                "displayed_link": "https://www.instagram.com › ...",
+                "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+                "snippet": "powerless audio announcement • Beyond excited to announce that Teddy Hamilton and CJ Bloom are the narrators for Powerless and also that ...",
+                "about_this_result": {
+                  "source": {
+                    "description": "powerless audio announcement • Beyond excited to announce that Teddy Hamilton and CJ Bloom are the narrators for Powerless and also that ...",
+                    "source_info_link": "https://www.instagram.com/p/Cn1wPzHr3BF/?hl=en",
+                    "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+                  },
+                  "languages": [
+                    "en"
+                  ],
+                  "regions": [
+                    "US"
+                  ]
+                },
+                "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmRUbFlqZnlkN3NPZEhGbkdoQVlJMklEN2Z4OGsxUEJESGxoUXFVY2wzRE1TQml1cnQ2dzQ3NG1TbkZxdzJiSEIzbjU5dWRjUVJSUjdwdDNqRW5sMkRXZEVjanRYQUlfWU8tQ2JFTzFSTDlVck9hVFB1Tk5wemZXY2YyODJyamtvVGR0UEpnEgQaAggAGt0FEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLkFCAAQABgAIAAqEgoEd2hhdBUONkQ-GgV3aGljaCoQCgNoYXMV40qmPRoEaGF2ZSohCgRldmFuFX_v4TsaCWV2YW5odWFuZxoJaXY7cDtldmFuKiMKBWh1YW5nFX_vYTwaCWV2YW5odWFuZxoKaXY7cDtodWFuZyoxCgVidWlsdBV_72E8GgRtYWRlGgVidWlsZBoMY29uc3RydWN0aW9uGghidWlsZGluZyomCgRsaXN0FVOz7z0aCWRpcmVjdG9yeRoHbGlzdGluZxoFbGlzdHMqRAoIc3BlY2lmaWMVAAAAABoHY2VydGFpbhoKaW5kaXZpZHVhbBoKcGFydGljdWxhchoHc3BlY2lhbBoJc3BlY2lmaWVkKiUKCHByb2plY3RzFQAAAAAaB3Byb2plY3QaBHdvcmsaBXBvc3RzMpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmRUbFlqZnlkN3NPZEhGbkdoQVlJMklEN2Z4OGsxUEJESGxoUXFVY2wzRE1TQml1cnQ2dzQ3NG1TbkZxdzJiSEIzbjU5dWRjUVJSUjdwdDNqRW5sMkRXZEVjanRYQUlfWU8tQ2JFTzFSTDlVck9hVFB1Tk5wemZXY2YyODJyamtvVGR0UEpnOj5FbHNpZSBTaWx2ZXIgfCDigKIgcG93ZXJsZXNzIGF1ZGlvIGFubm91bmNlbWVudCDigKIgQmV5b25kIC4uLkKTAXBvd2VybGVzcyBhdWRpbyBhbm5vdW5jZW1lbnQg4oCiIEJleW9uZCBleGNpdGVkIHRvIGFubm91bmNlIHRoYXQgVGVkZHkgSGFtaWx0b24gYW5kIENKIEJsb29tIGFyZSB0aGUgbmFycmF0b3JzIGZvciBQb3dlcmxlc3MgYW5kIGFsc28gdGhhdCZuYnNwOy4uLlIEaGF2ZSICEAFIAFgAaAA",
+                "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmRUbFlqZnlkN3NPZEhGbkdoQVlJMklEN2Z4OGsxUEJESGxoUXFVY2wzRE1TQml1cnQ2dzQ3NG1TbkZxdzJiSEIzbjU5dWRjUVJSUjdwdDNqRW5sMkRXZEVjanRYQUlfWU8tQ2JFTzFSTDlVck9hVFB1Tk5wemZXY2YyODJyamtvVGR0UEpnEgQaAggAGt0FEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLkFCAAQABgAIAAqEgoEd2hhdBUONkQ-GgV3aGljaCoQCgNoYXMV40qmPRoEaGF2ZSohCgRldmFuFX_v4TsaCWV2YW5odWFuZxoJaXY7cDtldmFuKiMKBWh1YW5nFX_vYTwaCWV2YW5odWFuZxoKaXY7cDtodWFuZyoxCgVidWlsdBV_72E8GgRtYWRlGgVidWlsZBoMY29uc3RydWN0aW9uGghidWlsZGluZyomCgRsaXN0FVOz7z0aCWRpcmVjdG9yeRoHbGlzdGluZxoFbGlzdHMqRAoIc3BlY2lmaWMVAAAAABoHY2VydGFpbhoKaW5kaXZpZHVhbBoKcGFydGljdWxhchoHc3BlY2lhbBoJc3BlY2lmaWVkKiUKCHByb2plY3RzFQAAAAAaB3Byb2plY3QaBHdvcmsaBXBvc3RzMpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmRUbFlqZnlkN3NPZEhGbkdoQVlJMklEN2Z4OGsxUEJESGxoUXFVY2wzRE1TQml1cnQ2dzQ3NG1TbkZxdzJiSEIzbjU5dWRjUVJSUjdwdDNqRW5sMkRXZEVjanRYQUlfWU8tQ2JFTzFSTDlVck9hVFB1Tk5wemZXY2YyODJyamtvVGR0UEpnOj5FbHNpZSBTaWx2ZXIgfCDigKIgcG93ZXJsZXNzIGF1ZGlvIGFubm91bmNlbWVudCDigKIgQmV5b25kIC4uLkKTAXBvd2VybGVzcyBhdWRpbyBhbm5vdW5jZW1lbnQg4oCiIEJleW9uZCBleGNpdGVkIHRvIGFubm91bmNlIHRoYXQgVGVkZHkgSGFtaWx0b24gYW5kIENKIEJsb29tIGFyZSB0aGUgbmFycmF0b3JzIGZvciBQb3dlcmxlc3MgYW5kIGFsc28gdGhhdCZuYnNwOy4uLlIEaGF2ZSICEAFIAFgAaAA",
+                "source": "instagram.com",
+                "read_more_link": "https://www.instagram.com/p/Cn1wPzHr3BF/?hl=en#:~:text=%E2%80%A2%20powerless%20audio%20announcement%20%E2%80%A2,did%20the%20most%20incredible%20job."
+              },
+              {
+                "position": 7,
+                "title": "What is a US equivalent to a Moonboard for a DIY home ...",
+                "link": "https://www.facebook.com/groups/homeclimbingwallforum/posts/3879971825430825/",
+                "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFaVccoRprHPdFgurZoiRyhf1UkpOG6YxOonVjzNQZC0r1gDffsME5X8Dh7hxJezaxb0MAArIuKkSs6_dYRoLRJ60Fk7Vr86_ktdGTxTmUoQaiE8NIzk-MtsXGCZweEO2uz58r7CMllzTmMGRtmChN3l8k_rn_Xow28lZ3uD1N2Sz8MAu&ved=2ahUKEwjBi4nikI-XAxXIw8kDHeLFAdkQFnoECA8QAQ&uoh=1",
+                "displayed_link": "https://www.facebook.com › groups › posts",
+                "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+                "snippet": "Cheapest standard board is the moon board- Tension and kilter boards are US companies but much more expensive. you can order moon board ...",
+                "about_this_result": {
+                  "source": {
+                    "description": "Cheapest standard board is the moon board- Tension and kilter boards are US companies but much more expensive. you can order moon board ...",
+                    "source_info_link": "https://www.facebook.com/groups/homeclimbingwallforum/posts/3879971825430825/",
+                    "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+                  },
+                  "languages": [
+                    "en"
+                  ],
+                  "regions": [
+                    "US"
+                  ]
+                },
+                "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZhVmNjb1JwckhQZEZndXJab2lSeWhmMVVrcE9HNll4T29uVmp6TlFaQzByMWdEZmZzTUU1WDhEaDdoeEplemF4YjBNQUFySXVLa1NzNl9kWVJvTFJKNjBGazdWcjg2X2t0ZEdUeFRtVW9RYWlFOE5JemstTXRzWEdDWndlRU8ydXo1OHI3Q01sbHpUbU1HUnRtQ2hOM2w4a19ybl9Yb3cyOGxaM3VEMU4yU3o4TUF1EgQaAggAGv8FEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNsFCAAQABgAIAAqEgoEd2hhdBX7CN0_GgV3aGljaCoQCgNoYXMVPXemPhoEaGF2ZSohCgRldmFuFfPo5jsaCWV2YW5odWFuZxoJaXY7cDtldmFuKiMKBWh1YW5nFfPo5jsaCWV2YW5odWFuZxoKaXY7cDtodWFuZyoxCgVidWlsdBVWMdw-GgRtYWRlGgVidWlsZBoMY29uc3RydWN0aW9uGghidWlsZGluZyomCgRsaXN0FT2V3j0aCWRpcmVjdG9yeRoHbGlzdGluZxoFbGlzdHMqRAoIc3BlY2lmaWMVAAAAABoHY2VydGFpbhoKaW5kaXZpZHVhbBoKcGFydGljdWxhchoHc3BlY2lhbBoJc3BlY2lmaWVkKiUKCHByb2plY3RzFbLGnDwaB3Byb2plY3QaBHdvcmsaBXBvc3RzMsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZhVmNjb1JwckhQZEZndXJab2lSeWhmMVVrcE9HNll4T29uVmp6TlFaQzByMWdEZmZzTUU1WDhEaDdoeEplemF4YjBNQUFySXVLa1NzNl9kWVJvTFJKNjBGazdWcjg2X2t0ZEdUeFRtVW9RYWlFOE5JemstTXRzWEdDWndlRU8ydXo1OHI3Q01sbHpUbU1HUnRtQ2hOM2w4a19ybl9Yb3cyOGxaM3VEMU4yU3o4TUF1OjlXaGF0IGlzIGEgVVMgZXF1aXZhbGVudCB0byBhIE1vb25ib2FyZCBmb3IgYSBESVkgaG9tZSAuLi5CkAFDaGVhcGVzdCBzdGFuZGFyZCBib2FyZCBpcyB0aGUgbW9vbiBib2FyZC0gVGVuc2lvbiBhbmQga2lsdGVyIGJvYXJkcyBhcmUgVVMgY29tcGFuaWVzIGJ1dCBtdWNoIG1vcmUgZXhwZW5zaXZlLiB5b3UgY2FuIG9yZGVyIG1vb24gYm9hcmQmbmJzcDsuLi5SBGhhdmUiAhABSABYAGgA",
+                "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZhVmNjb1JwckhQZEZndXJab2lSeWhmMVVrcE9HNll4T29uVmp6TlFaQzByMWdEZmZzTUU1WDhEaDdoeEplemF4YjBNQUFySXVLa1NzNl9kWVJvTFJKNjBGazdWcjg2X2t0ZEdUeFRtVW9RYWlFOE5JemstTXRzWEdDWndlRU8ydXo1OHI3Q01sbHpUbU1HUnRtQ2hOM2w4a19ybl9Yb3cyOGxaM3VEMU4yU3o4TUF1EgQaAggAGv8FEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNsFCAAQABgAIAAqEgoEd2hhdBX7CN0_GgV3aGljaCoQCgNoYXMVPXemPhoEaGF2ZSohCgRldmFuFfPo5jsaCWV2YW5odWFuZxoJaXY7cDtldmFuKiMKBWh1YW5nFfPo5jsaCWV2YW5odWFuZxoKaXY7cDtodWFuZyoxCgVidWlsdBVWMdw-GgRtYWRlGgVidWlsZBoMY29uc3RydWN0aW9uGghidWlsZGluZyomCgRsaXN0FT2V3j0aCWRpcmVjdG9yeRoHbGlzdGluZxoFbGlzdHMqRAoIc3BlY2lmaWMVAAAAABoHY2VydGFpbhoKaW5kaXZpZHVhbBoKcGFydGljdWxhchoHc3BlY2lhbBoJc3BlY2lmaWVkKiUKCHByb2plY3RzFbLGnDwaB3Byb2plY3QaBHdvcmsaBXBvc3RzMsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZhVmNjb1JwckhQZEZndXJab2lSeWhmMVVrcE9HNll4T29uVmp6TlFaQzByMWdEZmZzTUU1WDhEaDdoeEplemF4YjBNQUFySXVLa1NzNl9kWVJvTFJKNjBGazdWcjg2X2t0ZEdUeFRtVW9RYWlFOE5JemstTXRzWEdDWndlRU8ydXo1OHI3Q01sbHpUbU1HUnRtQ2hOM2w4a19ybl9Yb3cyOGxaM3VEMU4yU3o4TUF1OjlXaGF0IGlzIGEgVVMgZXF1aXZhbGVudCB0byBhIE1vb25ib2FyZCBmb3IgYSBESVkgaG9tZSAuLi5CkAFDaGVhcGVzdCBzdGFuZGFyZCBib2FyZCBpcyB0aGUgbW9vbiBib2FyZC0gVGVuc2lvbiBhbmQga2lsdGVyIGJvYXJkcyBhcmUgVVMgY29tcGFuaWVzIGJ1dCBtdWNoIG1vcmUgZXhwZW5zaXZlLiB5b3UgY2FuIG9yZGVyIG1vb24gYm9hcmQmbmJzcDsuLi5SBGhhdmUiAhABSABYAGgA",
+                "source": "facebook.com"
+              },
+              {
+                "position": 8,
+                "title": "Meet Dr. Dan, one of our common first-year faculty members! ...",
+                "link": "https://www.facebook.com/csuengineering/posts/meet-dr-dan-one-of-our-common-first-year-faculty-members-dan-specializes-in-civi/1632338872235078/",
+                "displayed_link": "3 reactions · 3 weeks ago",
+                "thumbnail": "https://serpapi.com/searches/6ab93d9a9df9dd7bafc26f51/images/UWXDrn1w3fxJxM6ZeQxOIeBLvu4XalBxsEnl-sD9pA4.jpeg",
+                "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+                "snippet": "Since 2006, he has worked on developing radiological/nuclear detection technologies for homeland security applications, a field in which he sits ...",
+                "duration": "1:08",
+                "about_this_result": {
+                  "source": {
+                    "description": "Since 2006, he has worked on developing radiological/nuclear detection technologies for homeland security applications, a field in which he sits ...",
+                    "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+                  }
+                },
+                "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqECL2dvdG8_dXJsPUNBRVN6QUVCNnpzd0ZXSEYxX2VESFBZUVllbW1NREdVbWhpcmg5NG4zYWRsd2ExbDFkZDZrNzdZeTlkZy13aGNMWUFsVDNjRlh2T1VDQU5KUmJsdlNMamJlZklwZDZWSFIwZWZQZnU2YWNtMHVpeXR4QkdpVjBpWnpDdkxxaVAyelREUzdsUVdkUkx2dTJsd1pLay13RC1JUV9XYml1SU8wZ2RMajB1bHpZR3VrSGNXNUw5SzFiWGdIS2FPNFVRTzVDQURJT2dSem1mWWFqTG82TTlHVWlILTZ6TXdwUjJnUDdLRkZLNVg4YkxQczRRamNkUWVTd0lHTW1ESGZ6bUltNnNiWmc1dXM5RXRqZF9lT3BwbnM3axIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+                "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqECL2dvdG8_dXJsPUNBRVN6QUVCNnpzd0ZXSEYxX2VESFBZUVllbW1NREdVbWhpcmg5NG4zYWRsd2ExbDFkZDZrNzdZeTlkZy13aGNMWUFsVDNjRlh2T1VDQU5KUmJsdlNMamJlZklwZDZWSFIwZWZQZnU2YWNtMHVpeXR4QkdpVjBpWnpDdkxxaVAyelREUzdsUVdkUkx2dTJsd1pLay13RC1JUV9XYml1SU8wZ2RMajB1bHpZR3VrSGNXNUw5SzFiWGdIS2FPNFVRTzVDQURJT2dSem1mWWFqTG82TTlHVWlILTZ6TXdwUjJnUDdLRkZLNVg4YkxQczRRamNkUWVTd0lHTW1ESGZ6bUltNnNiWmc1dXM5RXRqZF9lT3BwbnM3axIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+                "source": "Facebook · Colorado State University Walter Scott, Jr. College of Engineering"
+              },
+              {
+                "position": 9,
+                "title": "How I Built Vue Lynx with AI in Two Weeks",
+                "link": "https://x.com/Huxpro/status/2036993665965416601",
+                "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVdNjSF8Q_VhAEpcCfb2wCt05F8Iyv8qJcU8lrBwtPXByabVFhoc1F26e9WxOlgCTNqUmTNfH9WyATn6cub5Zma0Hbu81foWtfWZsR9a75k0dCStOozRYOABFDnCXP4gxLavbDrhs&ved=2ahUKEwjBi4nikI-XAxXIw8kDHeLFAdkQFnoECBQQAQ&uoh=1",
+                "displayed_link": "410+ likes · 6 months ago",
+                "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png",
+                "snippet": "Then projects like Vercel's web streams rewrite and Cloudflare's ViNext showed how solo engineers, armed with AI, can ship what used to take a ...",
+                "snippet_highlighted_words": [
+                  "projects"
+                ],
+                "about_this_result": {
+                  "source": {
+                    "description": "Then projects like Vercel's web streams rewrite and Cloudflare's ViNext showed how solo engineers, armed with AI, can ship what used to take a ...",
+                    "source_info_link": "https://x.com/Huxpro/status/2036993665965416601",
+                    "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png"
+                  },
+                  "languages": [
+                    "en"
+                  ],
+                  "regions": [
+                    "US"
+                  ]
+                },
+                "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVmROalNGOFFfVmhBRXBjQ2ZiMndDdDA1RjhJeXY4cUpjVThsckJ3dFBYQnlhYlZGaG9jMUYyNmU5V3hPbGdDVE5xVW1UTmZIOVd5QVRuNmN1YjVabWEwSGJ1ODFmb1d0Zldac1I5YTc1azBkQ1N0T296UllPQUJGRG5DWFA0Z3hMYXZiRHJocxIEGgIIABrlBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQL8FCAAQABgAIAAqEgoEd2hhdBWluvI-GgV3aGljaCoQCgNoYXMVu830PhoEaGF2ZSohCgRldmFuFYR6oj0aCWV2YW5odWFuZxoJaXY7cDtldmFuKiMKBWh1YW5nFTtesz8aCWV2YW5odWFuZxoKaXY7cDtodWFuZyoxCgVidWlsdBXUbnk-GgRtYWRlGgVidWlsZBoMY29uc3RydWN0aW9uGghidWlsZGluZyomCgRsaXN0FXOENj4aCWRpcmVjdG9yeRoHbGlzdGluZxoFbGlzdHMqRAoIc3BlY2lmaWMVPSoFPhoHY2VydGFpbhoKaW5kaXZpZHVhbBoKcGFydGljdWxhchoHc3BlY2lhbBoJc3BlY2lmaWVkKiUKCHByb2plY3RzFTHbTD4aB3Byb2plY3QaBHdvcmsaBXBvc3RzMp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVmROalNGOFFfVmhBRXBjQ2ZiMndDdDA1RjhJeXY4cUpjVThsckJ3dFBYQnlhYlZGaG9jMUYyNmU5V3hPbGdDVE5xVW1UTmZIOVd5QVRuNmN1YjVabWEwSGJ1ODFmb1d0Zldac1I5YTc1azBkQ1N0T296UllPQUJGRG5DWFA0Z3hMYXZiRHJoczowSG93IEkgPGI-QnVpbHQ8L2I-IFZ1ZSBMeW54IHdpdGggQUkgaW4gVHdvIFdlZWtzQqYBVGhlbiA8Yj5wcm9qZWN0czwvYj4gbGlrZSBWZXJjZWwmIzM5O3Mgd2ViIHN0cmVhbXMgcmV3cml0ZSBhbmQgQ2xvdWRmbGFyZSYjMzk7cyBWaU5leHQgc2hvd2VkIGhvdyBzb2xvIGVuZ2luZWVycywgYXJtZWQgd2l0aCBBSSwgY2FuIHNoaXAgd2hhdCB1c2VkIHRvIHRha2UgYSZuYnNwOy4uLlIEaGF2ZSICEAFIAFgAaAA",
+                "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVmROalNGOFFfVmhBRXBjQ2ZiMndDdDA1RjhJeXY4cUpjVThsckJ3dFBYQnlhYlZGaG9jMUYyNmU5V3hPbGdDVE5xVW1UTmZIOVd5QVRuNmN1YjVabWEwSGJ1ODFmb1d0Zldac1I5YTc1azBkQ1N0T296UllPQUJGRG5DWFA0Z3hMYXZiRHJocxIEGgIIABrlBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQL8FCAAQABgAIAAqEgoEd2hhdBWluvI-GgV3aGljaCoQCgNoYXMVu830PhoEaGF2ZSohCgRldmFuFYR6oj0aCWV2YW5odWFuZxoJaXY7cDtldmFuKiMKBWh1YW5nFTtesz8aCWV2YW5odWFuZxoKaXY7cDtodWFuZyoxCgVidWlsdBXUbnk-GgRtYWRlGgVidWlsZBoMY29uc3RydWN0aW9uGghidWlsZGluZyomCgRsaXN0FXOENj4aCWRpcmVjdG9yeRoHbGlzdGluZxoFbGlzdHMqRAoIc3BlY2lmaWMVPSoFPhoHY2VydGFpbhoKaW5kaXZpZHVhbBoKcGFydGljdWxhchoHc3BlY2lhbBoJc3BlY2lmaWVkKiUKCHByb2plY3RzFTHbTD4aB3Byb2plY3QaBHdvcmsaBXBvc3RzMp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVmROalNGOFFfVmhBRXBjQ2ZiMndDdDA1RjhJeXY4cUpjVThsckJ3dFBYQnlhYlZGaG9jMUYyNmU5V3hPbGdDVE5xVW1UTmZIOVd5QVRuNmN1YjVabWEwSGJ1ODFmb1d0Zldac1I5YTc1azBkQ1N0T296UllPQUJGRG5DWFA0Z3hMYXZiRHJoczowSG93IEkgPGI-QnVpbHQ8L2I-IFZ1ZSBMeW54IHdpdGggQUkgaW4gVHdvIFdlZWtzQqYBVGhlbiA8Yj5wcm9qZWN0czwvYj4gbGlrZSBWZXJjZWwmIzM5O3Mgd2ViIHN0cmVhbXMgcmV3cml0ZSBhbmQgQ2xvdWRmbGFyZSYjMzk7cyBWaU5leHQgc2hvd2VkIGhvdyBzb2xvIGVuZ2luZWVycywgYXJtZWQgd2l0aCBBSSwgY2FuIHNoaXAgd2hhdCB1c2VkIHRvIHRha2UgYSZuYnNwOy4uLlIEaGF2ZSICEAFIAFgAaAA",
+                "source": "X · Huxpro",
+                "read_more_link": "https://x.com/Huxpro/status/2036993665965416601#:~:text=Then%20projects%20like%20Vercel's%20web,used%20to%20take%20a%20team."
+              },
+              {
+                "position": 10,
+                "title": "Illia Zinher - Programming, AI & Engineering Projects",
+                "link": "https://ca.linkedin.com/in/illia-zinher-875923377",
+                "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVA2NPXS25Noa2x0EJwe69qMXURM3dxwWdplSVinrlyRh71YMP4OBpK632ItAFGE1eXEUSJ_NO17W502aCQjzwCskbGsSbAPuIL5zdKDxZqxsM5W1wpkFNrGpMhwn60hugVqoPVGyP-g&ved=2ahUKEwjBi4nikI-XAxXIw8kDHeLFAdkQFnoECBUQAQ&uoh=1",
+                "displayed_link": "50+ followers",
+                "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+                "snippet": "I build software systems from start to finish and learn by testing ideas in code. My projects include a reinforcement-learning trading agent created in a ...",
+                "snippet_highlighted_words": [
+                  "projects"
+                ],
+                "about_this_result": {
+                  "source": {
+                    "description": "I build software systems from start to finish and learn by testing ideas in code. My projects include a reinforcement-learning trading agent created in a ...",
+                    "source_info_link": "https://ca.linkedin.com/in/illia-zinher-875923377",
+                    "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+                  },
+                  "languages": [
+                    "en"
+                  ],
+                  "regions": [
+                    "US"
+                  ]
+                },
+                "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVkEyTlBYUzI1Tm9hMngwRUp3ZTY5cU1YVVJNM2R4d1dkcGxTVmlucmx5Umg3MVlNUDRPQnBLNjMySXRBRkdFMWVYRVVTSl9OTzE3VzUwMmFDUWp6d0Nza2JHc1NiQVB1SUw1emRLRHhacXhzTTVXMXdwa0ZOckdwTWh3bjYwaHVnVnFvUFZHeVAtZxIEGgIIABqDBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDfBQgAEAAYACAAKhIKBHdoYXQVs1WhPhoFd2hpY2gqEAoDaGFzFeznij4aBGhhdmUqIQoEZXZhbhVFcys9GglldmFuaHVhbmcaCWl2O3A7ZXZhbiojCgVodWFuZxXOB0U9GglldmFuaHVhbmcaCml2O3A7aHVhbmcqMQoFYnVpbHQVN_9XPRoEbWFkZRoFYnVpbGQaDGNvbnN0cnVjdGlvbhoIYnVpbGRpbmcqJgoEbGlzdBWhspA9GglkaXJlY3RvcnkaB2xpc3RpbmcaBWxpc3RzKkQKCHNwZWNpZmljFQAAAAAaB2NlcnRhaW4aCmluZGl2aWR1YWwaCnBhcnRpY3VsYXIaB3NwZWNpYWwaCXNwZWNpZmllZColCghwcm9qZWN0cxW6TsE_Ggdwcm9qZWN0GgR3b3JrGgVwb3N0czKgAS9nb3RvP3VybD1DQUVTYkFIck96QVZBMk5QWFMyNU5vYTJ4MEVKd2U2OXFNWFVSTTNkeHdXZHBsU1ZpbnJseVJoNzFZTVA0T0JwSzYzMkl0QUZHRTFlWEVVU0pfTk8xN1c1MDJhQ1FqendDc2tiR3NTYkFQdUlMNXpkS0R4WnF4c001VzF3cGtGTnJHcE1od242MGh1Z1Zxb1BWR3lQLWc6SklsbGlhIFppbmhlciAtIFN0dWRlbnQgfCBQcm9ncmFtbWluZywgQUkgJmFtcDsgRW5naW5lZXJpbmcgPGI-UHJvamVjdHM8L2I-QqkBSSBidWlsZCBzb2Z0d2FyZSBzeXN0ZW1zIGZyb20gc3RhcnQgdG8gZmluaXNoIGFuZCBsZWFybiBieSB0ZXN0aW5nIGlkZWFzIGluIGNvZGUuIE15IDxiPnByb2plY3RzPC9iPiBpbmNsdWRlIGEgcmVpbmZvcmNlbWVudC1sZWFybmluZyB0cmFkaW5nIGFnZW50IGNyZWF0ZWQgaW4gYSZuYnNwOy4uLlIEaGF2ZSICEAFIAFgAaAA",
+                "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVkEyTlBYUzI1Tm9hMngwRUp3ZTY5cU1YVVJNM2R4d1dkcGxTVmlucmx5Umg3MVlNUDRPQnBLNjMySXRBRkdFMWVYRVVTSl9OTzE3VzUwMmFDUWp6d0Nza2JHc1NiQVB1SUw1emRLRHhacXhzTTVXMXdwa0ZOckdwTWh3bjYwaHVnVnFvUFZHeVAtZxIEGgIIABqDBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDfBQgAEAAYACAAKhIKBHdoYXQVs1WhPhoFd2hpY2gqEAoDaGFzFeznij4aBGhhdmUqIQoEZXZhbhVFcys9GglldmFuaHVhbmcaCWl2O3A7ZXZhbiojCgVodWFuZxXOB0U9GglldmFuaHVhbmcaCml2O3A7aHVhbmcqMQoFYnVpbHQVN_9XPRoEbWFkZRoFYnVpbGQaDGNvbnN0cnVjdGlvbhoIYnVpbGRpbmcqJgoEbGlzdBWhspA9GglkaXJlY3RvcnkaB2xpc3RpbmcaBWxpc3RzKkQKCHNwZWNpZmljFQAAAAAaB2NlcnRhaW4aCmluZGl2aWR1YWwaCnBhcnRpY3VsYXIaB3NwZWNpYWwaCXNwZWNpZmllZColCghwcm9qZWN0cxW6TsE_Ggdwcm9qZWN0GgR3b3JrGgVwb3N0czKgAS9nb3RvP3VybD1DQUVTYkFIck96QVZBMk5QWFMyNU5vYTJ4MEVKd2U2OXFNWFVSTTNkeHdXZHBsU1ZpbnJseVJoNzFZTVA0T0JwSzYzMkl0QUZHRTFlWEVVU0pfTk8xN1c1MDJhQ1FqendDc2tiR3NTYkFQdUlMNXpkS0R4WnF4c001VzF3cGtGTnJHcE1od242MGh1Z1Zxb1BWR3lQLWc6SklsbGlhIFppbmhlciAtIFN0dWRlbnQgfCBQcm9ncmFtbWluZywgQUkgJmFtcDsgRW5naW5lZXJpbmcgPGI-UHJvamVjdHM8L2I-QqkBSSBidWlsZCBzb2Z0d2FyZSBzeXN0ZW1zIGZyb20gc3RhcnQgdG8gZmluaXNoIGFuZCBsZWFybiBieSB0ZXN0aW5nIGlkZWFzIGluIGNvZGUuIE15IDxiPnByb2plY3RzPC9iPiBpbmNsdWRlIGEgcmVpbmZvcmNlbWVudC1sZWFybmluZyB0cmFkaW5nIGFnZW50IGNyZWF0ZWQgaW4gYSZuYnNwOy4uLlIEaGF2ZSICEAFIAFgAaAA",
+                "source": "LinkedIn · Illia Zinher",
+                "read_more_link": "https://ca.linkedin.com/in/illia-zinher-875923377#:~:text=I%20build%20software%20systems%20from,in%20a%20custom%20Gymnasium%20environment."
+              }
+            ],
+            "pagination": {
+              "current": 1,
+              "next": "https://www.google.com/search?q=What+has+Evan+Huang+built?+List+specific+projects.&sca_esv=435e542d00b0fa3e&sxsrf=APpeQnsSngmMXcku1VMZw334Wq1nMgDiJw:1790524826738&ei=mj25asHWLMiHp84P4ouHyA0&start=10&sa=N&sstk=AS6-VmJhmgVtwQeMtiEYly7CP2cnDfQ7S3_Md7sv5vaw2a1M1M8D0xDJt-tFyIj6IXF7sHp5yUo41YkapLMhX9hgxEr_AoOouew0KA&ved=2ahUKEwjBi4nikI-XAxXIw8kDHeLFAdkQ8NMDegQIPRAW",
+              "other_pages": {
+                "2": "https://www.google.com/search?q=What+has+Evan+Huang+built?+List+specific+projects.&sca_esv=435e542d00b0fa3e&sxsrf=APpeQnsSngmMXcku1VMZw334Wq1nMgDiJw:1790524826738&ei=mj25asHWLMiHp84P4ouHyA0&start=10&sa=N&sstk=AS6-VmJhmgVtwQeMtiEYly7CP2cnDfQ7S3_Md7sv5vaw2a1M1M8D0xDJt-tFyIj6IXF7sHp5yUo41YkapLMhX9hgxEr_AoOouew0KA&ved=2ahUKEwjBi4nikI-XAxXIw8kDHeLFAdkQ8tMDegQIPRAE",
+                "3": "https://www.google.com/search?q=What+has+Evan+Huang+built?+List+specific+projects.&sca_esv=435e542d00b0fa3e&sxsrf=APpeQnsSngmMXcku1VMZw334Wq1nMgDiJw:1790524826738&ei=mj25asHWLMiHp84P4ouHyA0&start=20&sa=N&sstk=AS6-VmJhmgVtwQeMtiEYly7CP2cnDfQ7S3_Md7sv5vaw2a1M1M8D0xDJt-tFyIj6IXF7sHp5yUo41YkapLMhX9hgxEr_AoOouew0KA&ved=2ahUKEwjBi4nikI-XAxXIw8kDHeLFAdkQ8tMDegQIPRAG",
+                "4": "https://www.google.com/search?q=What+has+Evan+Huang+built?+List+specific+projects.&sca_esv=435e542d00b0fa3e&sxsrf=APpeQnsSngmMXcku1VMZw334Wq1nMgDiJw:1790524826738&ei=mj25asHWLMiHp84P4ouHyA0&start=30&sa=N&sstk=AS6-VmJhmgVtwQeMtiEYly7CP2cnDfQ7S3_Md7sv5vaw2a1M1M8D0xDJt-tFyIj6IXF7sHp5yUo41YkapLMhX9hgxEr_AoOouew0KA&ved=2ahUKEwjBi4nikI-XAxXIw8kDHeLFAdkQ8tMDegQIPRAI",
+                "5": "https://www.google.com/search?q=What+has+Evan+Huang+built?+List+specific+projects.&sca_esv=435e542d00b0fa3e&sxsrf=APpeQnsSngmMXcku1VMZw334Wq1nMgDiJw:1790524826738&ei=mj25asHWLMiHp84P4ouHyA0&start=40&sa=N&sstk=AS6-VmJhmgVtwQeMtiEYly7CP2cnDfQ7S3_Md7sv5vaw2a1M1M8D0xDJt-tFyIj6IXF7sHp5yUo41YkapLMhX9hgxEr_AoOouew0KA&ved=2ahUKEwjBi4nikI-XAxXIw8kDHeLFAdkQ8tMDegQIPRAK",
+                "6": "https://www.google.com/search?q=What+has+Evan+Huang+built?+List+specific+projects.&sca_esv=435e542d00b0fa3e&sxsrf=APpeQnsSngmMXcku1VMZw334Wq1nMgDiJw:1790524826738&ei=mj25asHWLMiHp84P4ouHyA0&start=50&sa=N&sstk=AS6-VmJhmgVtwQeMtiEYly7CP2cnDfQ7S3_Md7sv5vaw2a1M1M8D0xDJt-tFyIj6IXF7sHp5yUo41YkapLMhX9hgxEr_AoOouew0KA&ved=2ahUKEwjBi4nikI-XAxXIw8kDHeLFAdkQ8tMDegQIPRAM",
+                "7": "https://www.google.com/search?q=What+has+Evan+Huang+built?+List+specific+projects.&sca_esv=435e542d00b0fa3e&sxsrf=APpeQnsSngmMXcku1VMZw334Wq1nMgDiJw:1790524826738&ei=mj25asHWLMiHp84P4ouHyA0&start=60&sa=N&sstk=AS6-VmJhmgVtwQeMtiEYly7CP2cnDfQ7S3_Md7sv5vaw2a1M1M8D0xDJt-tFyIj6IXF7sHp5yUo41YkapLMhX9hgxEr_AoOouew0KA&ved=2ahUKEwjBi4nikI-XAxXIw8kDHeLFAdkQ8tMDegQIPRAO",
+                "8": "https://www.google.com/search?q=What+has+Evan+Huang+built?+List+specific+projects.&sca_esv=435e542d00b0fa3e&sxsrf=APpeQnsSngmMXcku1VMZw334Wq1nMgDiJw:1790524826738&ei=mj25asHWLMiHp84P4ouHyA0&start=70&sa=N&sstk=AS6-VmJhmgVtwQeMtiEYly7CP2cnDfQ7S3_Md7sv5vaw2a1M1M8D0xDJt-tFyIj6IXF7sHp5yUo41YkapLMhX9hgxEr_AoOouew0KA&ved=2ahUKEwjBi4nikI-XAxXIw8kDHeLFAdkQ8tMDegQIPRAQ",
+                "9": "https://www.google.com/search?q=What+has+Evan+Huang+built?+List+specific+projects.&sca_esv=435e542d00b0fa3e&sxsrf=APpeQnsSngmMXcku1VMZw334Wq1nMgDiJw:1790524826738&ei=mj25asHWLMiHp84P4ouHyA0&start=80&sa=N&sstk=AS6-VmJhmgVtwQeMtiEYly7CP2cnDfQ7S3_Md7sv5vaw2a1M1M8D0xDJt-tFyIj6IXF7sHp5yUo41YkapLMhX9hgxEr_AoOouew0KA&ved=2ahUKEwjBi4nikI-XAxXIw8kDHeLFAdkQ8tMDegQIPRAS",
+                "10": "https://www.google.com/search?q=What+has+Evan+Huang+built?+List+specific+projects.&sca_esv=435e542d00b0fa3e&sxsrf=APpeQnsSngmMXcku1VMZw334Wq1nMgDiJw:1790524826738&ei=mj25asHWLMiHp84P4ouHyA0&start=90&sa=N&sstk=AS6-VmJhmgVtwQeMtiEYly7CP2cnDfQ7S3_Md7sv5vaw2a1M1M8D0xDJt-tFyIj6IXF7sHp5yUo41YkapLMhX9hgxEr_AoOouew0KA&ved=2ahUKEwjBi4nikI-XAxXIw8kDHeLFAdkQ8tMDegQIPRAU"
+              }
+            },
+            "serpapi_pagination": {
+              "current": 1,
+              "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+has+Evan+Huang+built%3F+List+specific+projects.&start=10",
+              "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+has+Evan+Huang+built%3F+List+specific+projects.&start=10",
+              "other_pages": {
+                "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+has+Evan+Huang+built%3F+List+specific+projects.&start=10",
+                "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+has+Evan+Huang+built%3F+List+specific+projects.&start=20",
+                "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+has+Evan+Huang+built%3F+List+specific+projects.&start=30",
+                "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+has+Evan+Huang+built%3F+List+specific+projects.&start=40",
+                "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+has+Evan+Huang+built%3F+List+specific+projects.&start=50",
+                "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+has+Evan+Huang+built%3F+List+specific+projects.&start=60",
+                "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+has+Evan+Huang+built%3F+List+specific+projects.&start=70",
+                "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+has+Evan+Huang+built%3F+List+specific+projects.&start=80",
+                "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+has+Evan+Huang+built%3F+List+specific+projects.&start=90"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "query_id": "evan-huang-cave-mapping",
+      "prompt": "What is Evan Huang's underwater cave mapping project?",
+      "category": "identity",
+      "results": [
+        {
+          "engine": "openai",
+          "model": "gpt-4o-mini-search-preview",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 636,
+          "error": "404 The model `gpt-4o-mini-search-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations",
+          "raw": null
+        },
+        {
+          "engine": "anthropic",
+          "model": "claude-haiku-4-5-20251001",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 210,
+          "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfUDtUK7CNyQQB3oZW4Mq\"}",
+          "raw": null
+        },
+        {
+          "engine": "gemini",
+          "model": "gemini-2.5-flash",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 5953,
+          "error": "got status: 503 Service Unavailable. {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}",
+          "raw": null
+        },
+        {
+          "engine": "google-aio",
+          "model": "google-ai-overview",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 90173,
+          "error": "SerpApi 503",
+          "raw": null
+        }
+      ]
+    },
+    {
+      "query_id": "evan-huang-domain",
+      "prompt": "What can you tell me about evanqhuang.com?",
+      "category": "identity",
+      "results": [
+        {
+          "engine": "openai",
+          "model": "gpt-4o-mini-search-preview",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 476,
+          "error": "404 The model `gpt-4o-mini-search-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations",
+          "raw": null
+        },
+        {
+          "engine": "anthropic",
+          "model": "claude-haiku-4-5-20251001",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 388,
+          "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfUE1cFnYZpnbsEYXmKt8\"}",
+          "raw": null
+        },
+        {
+          "engine": "gemini",
+          "model": "gemini-2.5-flash",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 11221,
+          "error": "got status: 503 Service Unavailable. {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}",
+          "raw": null
+        },
+        {
+          "engine": "google-aio",
+          "model": "google-ai-overview",
+          "response_text": "evanqhuang.com is the personal portfolio website of Evan Huang , a distributed systems and software engineer based in Virginia.\nWho is Evan Huang?\nAccording to his website and matching professional profiles, Evan is a Senior Associate Software Engineer at Capital One (based out of McLean, Virginia) with a background in designing high-scale backend infrastructure, developer tooling, and specialized hardware. He describes his technical interests as focusing on distributed systems, developer tooling, and the \"occasional piece of underwater hardware\".\nWhat is on the Site?\nThe domain acts as a central hub for his professional work and indie projects, linking out to his active platforms:\nOpen Source Work: It serves as a directory to his GitHub Profile where he tracks his distributed software experiments.\nProfessional Background: It links to his LinkedIn Profile , highlighting his experience architecting event-driven Kafka validation systems and cloud-based financial platforms.\nIndependent Projects: Evan is the creator of side projects such as HostelHound (also referenced as HostelHawk), a platform built to track price histories, occupancy metrics, and historical trends for backpacker hostels globally.\nCrowdfunding & Support: The site redirects interested users to his Ko-fi Page where supporters can tip him or sign up for a monthly membership tier to get price alerts and updates on his projects.\nAre you looking for a specific project hosted on his site, or trying to get in touch with him for professional reasons? Let me know how I can help you find what you need!",
+          "mentioned": true,
+          "mention_count": 3,
+          "first_mention_offset": 0,
+          "citations": [
+            {
+              "url": "https://github.com/evanqhuang/evanqhuang",
+              "hostname": "github.com",
+              "is_owned": true,
+              "title": "evanqhuang/evanqhuang"
+            },
+            {
+              "url": "https://www.linkedin.com/in/evanqhuang",
+              "hostname": "www.linkedin.com",
+              "is_owned": false,
+              "title": "Evan Huang - Systems Architect \\u0026 Engineer"
+            },
+            {
+              "url": "https://github.com/evanqhuang",
+              "hostname": "github.com",
+              "is_owned": true,
+              "title": "Evan Huang evanqhuang - GitHub"
+            },
+            {
+              "url": "https://ko-fi.com/evanqhuang/tiers",
+              "hostname": "ko-fi.com",
+              "is_owned": false,
+              "title": "Join Evan Huang's membership - Ko"
+            },
+            {
+              "url": "https://hostelhawk.com/city/dakar",
+              "hostname": "hostelhawk.com",
+              "is_owned": false,
+              "title": "Dakar Hostel Prices — HostelHawk"
+            }
+          ],
+          "latency_ms": 7468,
+          "error": null,
+          "raw": {
+            "search_metadata": {
+              "id": "6ab93e093d0e4ee3c861f68e",
+              "status": "Success",
+              "json_endpoint": "https://serpapi.com/searches/Je-09EDtyGtiZf-48SvI0e9-TxIPbfSN1i8o1qiAfOU/6ab93e093d0e4ee3c861f68e.json",
+              "markdown_endpoint": "https://serpapi.com/searches/Je-09EDtyGtiZf-48SvI0e9-TxIPbfSN1i8o1qiAfOU/6ab93e093d0e4ee3c861f68e.md",
+              "created_at": "2026-09-27 16:02:17 UTC",
+              "processed_at": "2026-09-27 16:02:17 UTC",
+              "google_ai_overview_url": "https://www.google.com/async/folsrch?yv=3&cs=0&ei=CD65ap3oMsGjur8PxrD7iAs&async=_basejs:/xjs/_/js/k%3Dxjs.s.en.O_vEnnLs6e4.2019.O/am%3DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEAIABAAQAIABAAAAAAAAAAAAAAAAAAAAAAAAAACAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAQACQAIAAAAAAAAAgCAAAAAAEAAAAAAAAADAAAACABAAQgAAAAAKAAAAAAAAAAAAAAAAAAAAAACAAIEAAABABAIAQAAAAP8Y8w0AABoAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAAABYAAAAAAgwAACAABBAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAoAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAEAAAAAAoAAAAAAAAgAEAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAACDAAAAAAAAAAAAAAKAAR-AEEAAgAAAAAABAAAAAAAAAAAAIAEIAAAAAAAAAAAARAAYAAAAADkAHg8AIcICgAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAcyBJCAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqAhPAQAAAAAAwNYAgA/dg%3D0/br%3D1/ichc%3D1/rs%3DACT90oEesfnUEz6le-VmuYi4H-D_6YwxNw/cb%3Dloaded_h_0?cb%3D121509378,_basecss:/xjs/_/ss/k%3Dxjs.s.EtuGIiTcEq8.L.B1.O/am%3DCAAIAAAAAACAAAAAAAAAAAAAAECAACIAAAAAAAAAAAAAAAAAAABCACAAAAACAAAAAAAAAAAAAAAAAAAgCAAEAAAAAAAIAAAAAAAAAAiCAgAAAAAAAAAAUAAAAAAAQgA0IAIAIAAAAAAAAAAAgEIPAAAAGAAAAAAAAOABDAAcBAAAAAAAAAAAEAAAAAAAgAAAQAIAAAAAAAAAgCAAAAAAAAAAAEAAAAAAAAACABAACgAAAIAACgAAIAAAAAAgAAAAAAAAAACAUIAIAAAAAAAAQAAAAAAAAAAAABwAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAADBAQAAAAAAIBgAAAAAwAAAAACAAABAAAAAAAAAAAAAABAJkAAABAAAAAAAAwAAAAAAAAAAAAAIAIRQCAAIAApAwBUBAAAAOAAIAAAAAAAAgAYCIkAAAAAAAAABAAAAAAQAEAQgBBAAAAAAEAACAAAAAAEAAAAAiAEAAAAAAAAAAigAAhAAwAgSAACJQgKACAABAQAACAAAIAARAAAAAAAKICAAACAAAAAAAAAARAAAAAAAAAAAAAAAAAAAAADAAgBgAREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA/br%3D1/cb%3Dloaded_h_0/rs%3DACT90oF5seFyNkRE3sb9gwJuMIfE3DhakQ?cb%3D121509378,_basecomb:/xjs/_/js/k%3Dxjs.s.en.O_vEnnLs6e4.2019.O/ck%3Dxjs.s.EtuGIiTcEq8.L.B1.O/am%3DCAAIAAAAAACAAAAAAAAAAAAAAECAACIAAAAAAAAAAAAAAAAAAABCACAAAAACAAAAAAAAAAAAAAAAAAAgCAAEAAAAAAAIAAAAAAAAAAiCAgAAQEAIABAAUAIABAAAQgA0IAIAIAAAAAAAAAAAgEIPAAEAGAAAAAAAAOABDAAcBAAAAAAAAAAAEAAAAEAAgQACQAIAAAAAAAAAgCAAAAAAEAAAAEAAAADAAAACABAASgAAAIAKCgAAIAAAAAAgAAAAAAAAAACAUIEIAABABAIAQAAAAP8Y8w0AAB4AAAAAAAAJAAAAAAAAAAgAAAAAAAAAAAAAABLBAQAAAAAAIBhYAAAAwAgwAACAABBAAAQAAAAAAAAAABAJkAAABAAAAAAAAwAAAAAAAAAAAAAIAIRQCAAIAApAwBUBABAAOAAIAAAAAAAAgAYCIkAAAAAAAEABAAAAAAQAEAQgBBAAAAAAEAACAAAoAAEAAAAAiAEAAAAAAAAAAikAAhAAwAgSAACJQgKACAABAQACDAAAIAARAAAAAAAKICR-AGEAAgAAAAAARAAAAAAAAAAAAIAEIAAAAADAAgBgAREAYAAAAADkAHg8AIcICgAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAcyBpCAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqAhPAQAAAAAAwNYAgA/d%3D1/ed%3D1/dg%3D0/br%3D1/ujg%3D1/ichc%3D1/rs%3DACT90oGQs9dbrKakwcdBIAJtSnnGT2A6ig/cb%3Dloaded_h_0?cb%3D121509378,_fmt:madl,_id:B2Jtyd,_mado:ed&q=What+can+you+tell+me+about+evanqhuang.com?&mlro=0a4hxG_Ion8I5dc4YRU7JygEr8SdVdzoD6jmpklDEf1mTalbhXZ5qcFla5AEetwtY4H4iYLUOqN6AHHqwvGI-CmZl67yrnk_ZbWTSTaMI1X-hvBbmX58Zk1MewVJkJyGpCXqv4K1&mlros=7k9B0ZsEsdg&madse=1&mrc=CAA4gANQAWgAcACYAQCgAUaoAQCwAQG6AQEB&sca_esv=435e542d00b0fa3e&mgtyp=44&snr=1",
+              "raw_html_file": "https://serpapi.com/searches/Je-09EDtyGtiZf-48SvI0e9-TxIPbfSN1i8o1qiAfOU/6ab93e093d0e4ee3c861f68e.html",
+              "total_time_taken": 6.12
+            },
+            "search_parameters": {
+              "engine": "google_ai_overview",
+              "page_token": "t41cIXiczZbbcuI4EEA_YL9jeSFgA-aWKldKMgoRJBBuSeDF5Ruy8Q0sg8O8zet-x37VfM3I5mYSTGbmYWubKgtJrVarW8ft7_86lmf_-OsfMwyX9JbjoigqEt8njlHUfJdT6NbTuLnv0EAz77YbsZLTqMjnDEuUWrWqsqz4T7S9WAeN5_egVbcAzSVLRFlVqLFgFt8XlJM59rD_rrRYp0iLhlfsyxvkeY-0ZgjFMl9qFvuc4jIF8B_KAAEMIGt3TZZIAKCvjcUqAyDFtg5CpNPUTlo7e_GeJBnoZm6J41WQ_TAzy-S5MW1EPBvyD0qdTF8gTneme2-ixC6EiaO_LEdT-32vBCorTOjMAPPkTDEzttKHy8BiNSwAhGIDn13BAKVPDYYA7A7essEDaQCsYYlc8T1eoG1hRwJH-1myAubzIYRRb8rUOZ2wu8tzasCaEmdpppb8CWh8paVxk_eRQefeBH2rOUbhxV1PLeGh0JJr0-i9F3GayvQcX9ENXTZl_i7pl8qlKt-s1Bs3CUsaPcJE0zChcN3G1lhDq0bxsQhLB5KkY-6kc_cR60sYfBYo7VWlC5MkhUFqsSWlozXZt-x28xjgtCIgCD_Hbfsw0AeQZVhLZ_GwQWzyEklnSnuSkqziXYtPy48qk5QbZ_ceRpeO-aHfgodFGO7mor3dTyhA0LHTo-fmmRfDwS4nSxDBSaLWT8WSgKmE7ZS1vceIRRPue-iYm10QrDQ9FvPPjLclI6bWGZBuwnvsv5Q4EF_xRLpYAmdZHoJLwrJD2KGHv_D2uyD-1yoxOXtkPhCQJue-So37bc8eogpVmyTqrJ_wHFVapmIPLpPiu-pv1B3t_8XSoSpN9lUpmyX0NUvxy_JaVUoep6o02rHUzWYpfsleqkrCQSlVlT6wBB9TLJnJyznKqkq_yxK8whK6ypJ_mSU7i6WkKp2zxKpS-1SVzlg6VqUTS39SlZZ_WJUStIxdc16i1guSWaraA9rU1aCr2JGms2-JTjjyvPa4DGoW-bJUzd3w1lV050a29FtY7oRb_UZmA_6toedW4quphHlN8fJbf50PDcfJu0ZeUf11mDc2ircy14pH4i_Pu5zrBL7IK4L53pax7zVwVdeE6XBS72wJChoj_UX_5rdqC3dpOy00L7ljxVHNt1l1pd07ShUgI4zCqfAgWNPHSX_Vq4GHh1W0aeOC5M6cWn0beLY8U1_Ho7HyhEtvBXMDVfet2pjZpScjeunYnW17Kb2tNkK3lHhDxbrdhPyMIqqTHDsUNUQ2E2giy49AQG8AXgnQgDQFA5bWieKzNgKDdo1RDXNUU2SDbkShUjWqQlnneZWfKxUj55JwuxQFIUe9QCz9BKjjRa8"
+            },
+            "ai_overview": {
+              "text_blocks": [
+                {
+                  "type": "paragraph",
+                  "snippet": "evanqhuang.com is the personal portfolio website of Evan Huang , a distributed systems and software engineer based in Virginia.",
+                  "snippet_highlighted_words": [
+                    "the personal portfolio website of Evan Huang"
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "snippet": "Who is Evan Huang?"
+                },
+                {
+                  "type": "paragraph",
+                  "snippet": "According to his website and matching professional profiles, Evan is a Senior Associate Software Engineer at Capital One (based out of McLean, Virginia) with a background in designing high-scale backend infrastructure, developer tooling, and specialized hardware. He describes his technical interests as focusing on distributed systems, developer tooling, and the \"occasional piece of underwater hardware\"."
+                },
+                {
+                  "type": "heading",
+                  "snippet": "What is on the Site?"
+                },
+                {
+                  "type": "paragraph",
+                  "snippet": "The domain acts as a central hub for his professional work and indie projects, linking out to his active platforms:"
+                },
+                {
+                  "type": "list",
+                  "list": [
+                    {
+                      "snippet": "Open Source Work: It serves as a directory to his GitHub Profile where he tracks his distributed software experiments.",
+                      "snippet_links": [
+                        {
+                          "text": "GitHub Profile",
+                          "link": "https://github.com/evanqhuang"
+                        }
+                      ]
+                    },
+                    {
+                      "snippet": "Professional Background: It links to his LinkedIn Profile , highlighting his experience architecting event-driven Kafka validation systems and cloud-based financial platforms.",
+                      "snippet_links": [
+                        {
+                          "text": "LinkedIn Profile",
+                          "link": "https://www.linkedin.com/in/evanqhuang"
+                        }
+                      ]
+                    },
+                    {
+                      "snippet": "Independent Projects: Evan is the creator of side projects such as HostelHound (also referenced as HostelHawk), a platform built to track price histories, occupancy metrics, and historical trends for backpacker hostels globally."
+                    },
+                    {
+                      "snippet": "Crowdfunding & Support: The site redirects interested users to his Ko-fi Page where supporters can tip him or sign up for a monthly membership tier to get price alerts and updates on his projects.",
+                      "snippet_links": [
+                        {
+                          "text": "Ko-fi Page",
+                          "link": "https://ko-fi.com/evanqhuang"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "snippet": "Are you looking for a specific project hosted on his site, or trying to get in touch with him for professional reasons? Let me know how I can help you find what you need!"
+                }
+              ],
+              "references": [
+                {
+                  "title": "evanqhuang/evanqhuang",
+                  "link": "https://github.com/evanqhuang/evanqhuang",
+                  "snippet": "Evan Huang Distributed systems, developer tooling, and the occasional piece of underwater hardware. 🌐 evanqhuang.com · 💼 LinkedIn · ✉️ evanhuang117@gmail.com",
+                  "source": "GitHub",
+                  "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://github.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 0
+                },
+                {
+                  "title": "Evan Huang - Systems Architect \\u0026 Engineer",
+                  "link": "https://www.linkedin.com/in/evanqhuang",
+                  "snippet": "Experience Capital One 3 years 2 months Senior Associate Software Engineer Capital One Jan 2026 - Present 9 months McLean, Virginia, United States Architected and ...",
+                  "source": "LinkedIn",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_hqM2hBvpu4Em6Dxkl9F5wKcwLqBEVD2htverdlD-ZL3YUV1ncKylrvNnjo8MJfY6VCfgBjArFP9Xef9jOJzwVaw9o44AsgA-6NsB",
+                  "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.linkedin.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 1
+                },
+                {
+                  "title": "Evan Huang evanqhuang - GitHub",
+                  "link": "https://github.com/evanqhuang",
+                  "snippet": "Distributed systems, developer tooling, and the occasional piece of underwater hardware. 🌐 evanqhuang.com · 💼 LinkedIn · ✉️ evanhuang117@gmail.com",
+                  "source": "GitHub",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCP04nmQgabI5RYzb3adZZADnOP-5onk4JytAZsUukzGJOYkz7h_i-S3ClzEGOYKIqXzjUE1XtGzp3MtQ29bGkYes",
+                  "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://github.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 2
+                },
+                {
+                  "title": "Join Evan Huang's membership - Ko",
+                  "link": "https://ko-fi.com/evanqhuang/tiers",
+                  "snippet": "Support Evan Huang About Tip Welcome to my page! If you enjoy what I do, please consider supporting me. Thank you! Show more evanqhuang.com Tip Share Buy a delicio...",
+                  "source": "Ko-fi",
+                  "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://ko-fi.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 3
+                },
+                {
+                  "title": "Dakar Hostel Prices — HostelHawk",
+                  "link": "https://hostelhawk.com/city/dakar",
+                  "snippet": "Frequently asked questions * How much does a hostel in Dakar cost per night? Dorm beds in Dakar currently range from $14 to $15/night based on the next 3 months of...",
+                  "source": "hostelhawk.com",
+                  "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://hostelhawk.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 4
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "query_id": "cave-mapping-hardware",
+      "prompt": "Who is building DIY underwater cave mapping hardware?",
+      "category": "attribution",
+      "results": [
+        {
+          "engine": "openai",
+          "model": "gpt-4o-mini-search-preview",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 603,
+          "error": "404 The model `gpt-4o-mini-search-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations",
+          "raw": null
+        },
+        {
+          "engine": "anthropic",
+          "model": "claude-haiku-4-5-20251001",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 190,
+          "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfUE34JybzNUAAhwkxfaT\"}",
+          "raw": null
+        },
+        {
+          "engine": "gemini",
+          "model": "gemini-2.5-flash",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 3330,
+          "error": "got status: 503 Service Unavailable. {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}",
+          "raw": null
+        },
+        {
+          "engine": "google-aio",
+          "model": "google-ai-overview",
+          "response_text": "Independent makers, academic researchers, and open-source diving technologists are actively building low-cost or DIY hardware and software pipelines for underwater cave and submerged passage mapping. Commercial systems (such as those by Stone Aerospace) cost tens of thousands of dollars, inspiring hobbyists and engineers to adapt consumer microcontrollers and sensors.\nNotable DIY and Open-Source Mapping Projects\nCamazotz-Ixchel: Developed as open-source firmware for a handheld underwater cave-mapping device running on RP2350 microcontrollers to generate live stick maps as divers navigate submerged tunnels.\nScubaBoard DIY SLAM/LiDAR Experimenters: Community technical divers and makers are designing custom instrument tubes attached to Diver Propulsion Vehicles (DPVs) housing 360-degree blue-light underwater LiDAR, depth sensors, and IMUs to capture precise cave cross-sections.\nCavePI / University of Florida Robotics: Academic and open-source contributors have designed low-cost Autonomous Underwater Vehicles (AUVs) like CavePI aimed at autonomous navigation and mapping in GPS-denied, low-visibility underwater caves using edge-AI and semantic guidance .\nDIY Arduino/ESP32 Sonar and Echo Sounders: Makers utilize platforms like Arduino and ESP32 combined with waterproof ultrasonic transceivers (such as JSN-SR04T) and depth transducers to prototype affordable underwater acoustic depth-profiling and mapping hardware.\nIf you're looking to build or use one of these systems, would you prefer details on acoustic/sonar approaches or optical/SLAM-based visual mapping?",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [
+            {
+              "url": "https://www.johnrleeman.com/category/caving/",
+              "hostname": "www.johnrleeman.com",
+              "is_owned": false,
+              "title": "Caving | John R. Leeman"
+            },
+            {
+              "url": "https://github.com/evanqhuang/camazotz-ixchel",
+              "hostname": "github.com",
+              "is_owned": true,
+              "title": "GitHub - evanqhuang/camazotz-ixchel: RP2350 firmware for a ..."
+            },
+            {
+              "url": "https://scubaboard.com/community/threads/slam-and-lidar-cave-mapping.631486/",
+              "hostname": "scubaboard.com",
+              "is_owned": false,
+              "title": "SLAM and LiDAR Cave Mapping | ScubaBoard"
+            },
+            {
+              "url": "https://arxiv.org/html/2502.05384v1",
+              "hostname": "arxiv.org",
+              "is_owned": false,
+              "title": "Autonomous Exploration of Underwater Caves by Semantic Guidance"
+            },
+            {
+              "url": "https://arxiv.org/html/2502.05384v4",
+              "hostname": "arxiv.org",
+              "is_owned": false,
+              "title": "Autonomous Exploration of Underwater Caves by Semantic Guidance"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=UDYWQIizN7A",
+              "hostname": "www.youtube.com",
+              "is_owned": false,
+              "title": "DIY Open Source Underwater SONAR Project | Arduino Echo ..."
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vmO7NdNEFwg",
+              "hostname": "www.youtube.com",
+              "is_owned": false,
+              "title": "Build Your Own GPS Depth Mapper for PENNIES! (DIY ESP32 Sonar)"
+            }
+          ],
+          "latency_ms": 8926,
+          "error": null,
+          "raw": {
+            "search_metadata": {
+              "id": "6ab93e161cff19017e60606d",
+              "status": "Success",
+              "json_endpoint": "https://serpapi.com/searches/1DsKVruJUIw8Xe7ZeJZs0k2V3Hgwck_hEuie2q_VU_s/6ab93e161cff19017e60606d.json",
+              "markdown_endpoint": "https://serpapi.com/searches/1DsKVruJUIw8Xe7ZeJZs0k2V3Hgwck_hEuie2q_VU_s/6ab93e161cff19017e60606d.md",
+              "created_at": "2026-09-27 16:02:30 UTC",
+              "processed_at": "2026-09-27 16:02:30 UTC",
+              "google_ai_overview_url": "https://www.google.com/async/folsrch?yv=3&cs=0&ei=FD65aqfxMpXk4-EP_8aKwAc&async=_basejs:/xjs/_/js/k%3Dxjs.s.lt._2LDQATRs9o.2023.O/am%3DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEAIABAAQAIABAAAAAAAAAAAAAAAAAAAAAAAAAACAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAQACQAIAAAAAAAAAgCAAAAAAEAAAAAQAAADAAAACABAAQgAAAAAKAAAAAAAAAAAAAAAAAAAAAACAAIEAAABAhAIAQAAAAP8Y8w0AgAIAAAAAAAAHAAAAAAAAAAAAAAAAAAAAAAAAABIAAAMAAAAAAABYAAAAAAgwAACAABBAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAoAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAEAAAAAAoAAAAAAAAgAEAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAR-AEEAAgAAAAAABAAAAAAAAAAAAIAEIAAAAAAAAAAAARAAYAAAAADkAHg8AIcICgAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAcyBJCAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqAhPAQAAAAAAwNYAgA/dg%3D0/br%3D1/ichc%3D1/rs%3DACT90oFUC-yItJ04HGPdT2KS0Hw1DH8PxA/cb%3Dloaded_h_0?cb%3D121509378,_basecss:/xjs/_/ss/k%3Dxjs.s.EtuGIiTcEq8.L.B1.O/am%3DCAAIAAAAAACAAAAAAAAAAAAAAECAACIAAAAAAAAAAAAAAAAAAABCACAAAAACAAAAAAAAAAAAAAAAAAAgCAAEAAAAAAAIAAAAAAAAAAiCAgAAAAAAAAAAUAAAAAAAQgAAAAAAIAAAAAAAAAAAgEIPAAAAGAAAAAAAAOABDAAcBAAAAAAAAAAAEAAAAAAAgAAAQAIAAAAAAAAAgCAAAAAAAAAAAEQAAAAAAAACABAACgAAAIAACgAAIAAAAAAgAAAAAAAAAACAUIAIAAAAAAAAQAAAAAAAAAAAgAQAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAADBAQMAAAAAIBgAAAAAwAAAAACAAABAAAAAAAAAAAAAABAJkAAABAAAAAAAAgAAAAAAAAAAAAAIAoRQCAAIAApAwBUBAAAAOAAIAAAAAAAAgAYCIkAAAAAAAAABAAAAAAQAEAQgBBAAAAAAEAAAAAAAAAEAAAAAiAEAAAAAAAAAAigAAhAAwAgSAACJQgKACAABAQAACAAAIAARAAAAAAAAICAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAAAABAAgBgAREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA/br%3D1/cb%3Dloaded_h_0/rs%3DACT90oHzR_Rl5WeWDogd7URS4Ag60s4PFw?cb%3D121509378,_basecomb:/xjs/_/js/k%3Dxjs.s.lt._2LDQATRs9o.2023.O/ck%3Dxjs.s.EtuGIiTcEq8.L.B1.O/am%3DCAAIAAAAAACAAAAAAAAAAAAAAECAACIAAAAAAAAAAAAAAAAAAABCACAAAAACAAAAAAAAAAAAAAAAAAAgCAAEAAAAAAAIAAAAAAAAAAiCAgAAQEAIABAAUAIABAAAQgAAAAAAIAAAAAAAAAAAgEIPAAEAGAAAAAAAAOABDAAcBAAAAAAAAAAAEAAAAEAAgQACQAIAAAAAAAAAgCAAAAAAEAAAAEQAAADAAAACABAASgAAAIAKCgAAIAAAAAAgAAAAAAAAAACAUIEIAABAhAIAQAAAAP8Y8w0AgAYAAAAAAAAHAAAAAAAAAAgAAAAAAAAAAAAAABLBAQMAAAAAIBhYAAAAwAgwAACAABBAAAQAAAAAAAAAABAJkAAABAAAAAAAAgAAAAAAAAAAAAAIAoRQCAAIAApAwBUBABAAOAAIAAAAAAAAgAYCIkAAAAAAAEABAAAAAAQAEAQgBBAAAAAAEAAAAAAoAAEAAAAAiAEAAAAAAAAAAikAAhAAwAgSAACJQgKACAABAQAADAAAIAARAAAAAAAAICR-AEEAAgAAAAAARAAAAAAAAAAAAIAEIAAAAABAAgBgAREAYAAAAADkAHg8AIcICgAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAcyBpCAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqAhPAQAAAAAAwNYAgA/d%3D1/ed%3D1/dg%3D0/br%3D1/ujg%3D1/ichc%3D1/rs%3DACT90oH-fvYXamOw5tOFw21eKaFOlC2QdQ/cb%3Dloaded_h_0?cb%3D121509378,_fmt:madl,_id:B2Jtyd,_mado:ed&q=Who+is+building+DIY+underwater+cave+mapping+hardware?&mlro=0a73U64VQSNhzk-PD6r9t6BhXlk8NzHB4Mmq02pgZOA7fopDlj7Jn0lFtNgL_RFzVKGq9MjFfa1cRZO01Yz-OfZ4C9Qp_YBZUNZiBNVNrD2jlcKNSr0m64CwGRwg8sGDzJkGyg&mlros=Q8a0PtJiOKY&mrc=CAA4gANQAWgAcACYAQCgAUaoAQCwAQG6AQEB&sca_esv=435e542d00b0fa3e&mgtyp=90&snr=1",
+              "raw_html_file": "https://serpapi.com/searches/1DsKVruJUIw8Xe7ZeJZs0k2V3Hgwck_hEuie2q_VU_s/6ab93e161cff19017e60606d.html",
+              "total_time_taken": 6.61
+            },
+            "search_parameters": {
+              "engine": "google_ai_overview",
+              "page_token": "XnuIt3iczZXdcqpIEIAfYJ9jvTEKIv6likrNACqaiGBMQm4oBBwQEAUSonfnel9jn2qfZocfFY0k55yLre0Lmpnp7mlm-qN__O3aa-efP_6yomgT3hJEHMd15PvINeu67xFauFvrxNJ3w0C37nbvTLOihwxZMW2mz7Vb2nb58bB5cegaP1W72jgGeiV1YdSFFporHPFjFRIqgR_On00OD-ph3Y3qKnXPSeBRDnt-nSKpZl0kNA8bgP9QJB4IAGKdqTJhAeC_D5aYSIBNYh0EsaelZBEALouX7InSyXHplkLiBYGF4yWeYNpVujEJ0Cn-sDQXmNg8HAZKnk2cxoUwz-Unxb94-eKgyo6Jv4iEzgzLz_ZzMcg1wPNJgM-pCIAXzkwByD6cc8AQdYGgCywqTz110HdwxIJj_DLZAmt6OMJ4omBzwkC4dkliEWDVIGzd0tOXIExKmn3skX5_ztZ2QjQi6eFgajxS4xk5jBvcsDv9AIS-wHaurxmmoVoqeZeOG1SjRfaane5NypIeHmEKizDx0dtAsB91ftut39dh40BSUkNZjux5-jweswL4LJDNTdkri6iAQcHZZounNc91Xt1FQ4B4YZrowWFCBBDfsF68xcMGifs1kjKjY_WmJKW3KmRaOLkfTebCKVCx7tFVCi6vnoNAykgSYLYW53E_oQDByCnOnocSgC9L2Z1sQAznqZlYOCIEFFZwCtHyjHl8mjAfnVjJ3uwiPTbe0EryQzOc30hC45T35DPZNIGkxPNkLm5YBtcEb4rwR8s_8fe7Iv73Jgk5OTIXBBTJGe5lVXZbz-Yz5yOjM5dnNEBtMqSn_fg6Kb63-IW-o_-_WDp0pXnelcpZ4r9nKflZftWV-POuNMtYGpezlPxkr3Ul5WBU6EoXLMH7AktW6hCXdaVfZQl-wRL_JUv-dZacUpY4cMnSeVc6Y-nYlU4s_U5X2vxmV0rRMjN13qLeVqi0VQ1ry3flRfPEuBWJ_ZhqmGOtL7osJRnSt61q6UW3nma4N6pt3EJqFO2MGxVP-LemUdkyz5ZftcPq4s12DXuNqpygVN_WhhnEWmQGVV17N6uettkka5YWGLEWmHcVzw18htQ6zXmbfpJmE2vv1KZcO-hFbWi9uE53sh9C-sHbktQGvYqgs_Q3nLvqjNak248m6F6V-_un8WDbe1j1l1pDl19FsqHsa-LylWZ70kZV4Ot88mrDydMk4KiVq48ns4D02jQbD-QYdcMBtx85gx1KcwkZqauR02hki2Ol4gU6gy-IRmAigWcEdMAqQML3Otd8rGMgDdoYa1gJdU01w3eGbrbMFk0ZJLkgl1rTrHgo2m2YHlkJ1wHT-BcPL0Ki"
+            },
+            "ai_overview": {
+              "text_blocks": [
+                {
+                  "type": "paragraph",
+                  "snippet": "Independent makers, academic researchers, and open-source diving technologists are actively building low-cost or DIY hardware and software pipelines for underwater cave and submerged passage mapping. Commercial systems (such as those by Stone Aerospace) cost tens of thousands of dollars, inspiring hobbyists and engineers to adapt consumer microcontrollers and sensors.",
+                  "snippet_highlighted_words": [
+                    "Independent makers, academic researchers, and open-source diving technologists"
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "snippet": "Notable DIY and Open-Source Mapping Projects"
+                },
+                {
+                  "type": "list",
+                  "list": [
+                    {
+                      "snippet": "Camazotz-Ixchel: Developed as open-source firmware for a handheld underwater cave-mapping device running on RP2350 microcontrollers to generate live stick maps as divers navigate submerged tunnels."
+                    },
+                    {
+                      "snippet": "ScubaBoard DIY SLAM/LiDAR Experimenters: Community technical divers and makers are designing custom instrument tubes attached to Diver Propulsion Vehicles (DPVs) housing 360-degree blue-light underwater LiDAR, depth sensors, and IMUs to capture precise cave cross-sections."
+                    },
+                    {
+                      "snippet": "CavePI / University of Florida Robotics: Academic and open-source contributors have designed low-cost Autonomous Underwater Vehicles (AUVs) like CavePI aimed at autonomous navigation and mapping in GPS-denied, low-visibility underwater caves using edge-AI and semantic guidance ."
+                    },
+                    {
+                      "snippet": "DIY Arduino/ESP32 Sonar and Echo Sounders: Makers utilize platforms like Arduino and ESP32 combined with waterproof ultrasonic transceivers (such as JSN-SR04T) and depth transducers to prototype affordable underwater acoustic depth-profiling and mapping hardware."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "snippet": "If you're looking to build or use one of these systems, would you prefer details on acoustic/sonar approaches or optical/SLAM-based visual mapping?"
+                }
+              ],
+              "references": [
+                {
+                  "title": "Caving | John R. Leeman",
+                  "link": "https://www.johnrleeman.com/category/caving/",
+                  "snippet": "The basic idea was inspired by learning about Bill Stone's underwater cave mapping system (Stone Aerospace). It is a relatively complex system constructed by more ...",
+                  "source": "John R. Leeman",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0WsYSPzTfeTFLGs1inBWvxeN5vAAAjpGqzfmsMVW6fYY02IImbh6XHCukWv6fAG6ZOQ1DLPcSbXp0F_u5nf90ddGo6NLnf3JvQtgQ",
+                  "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.johnrleeman.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 0
+                },
+                {
+                  "title": "GitHub - evanqhuang/camazotz-ixchel: RP2350 firmware for a ...",
+                  "link": "https://github.com/evanqhuang/camazotz-ixchel",
+                  "snippet": "Firmware for a handheld underwater cave mapping device that generates live stick maps as divers navigate submerged cave systems. Overview. Camazotz-Ixchel ...",
+                  "source": "github.com",
+                  "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://github.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 1
+                },
+                {
+                  "title": "SLAM and LiDAR Cave Mapping | ScubaBoard",
+                  "link": "https://scubaboard.com/community/threads/slam-and-lidar-cave-mapping.631486/",
+                  "snippet": "Use VI-SLAM to map out an accurate trajectory underwater (where I'm at now, refining lots of stuff); Add an instrument tube to the front of my DPV. This tube will ...",
+                  "source": "ScubaBoard",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3SQMfB5YfQ3BzGm_bdbAyRFiuY_GU6OcBzV_kc72Hu-dlZ30QWBxKbLL9l1kpJlSK5fh-N0YFhLDtVwPYC-1EXVjWeKNQdW81VydG",
+                  "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://scubaboard.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 2
+                },
+                {
+                  "title": "Autonomous Exploration of Underwater Caves by Semantic Guidance",
+                  "link": "https://arxiv.org/html/2502.05384v1",
+                  "snippet": "Abstract. Enabling autonomous robots to safely and efficiently navigate, explore, and map underwater caves is of significant importance to water resource managemen...",
+                  "source": "arXiv.org",
+                  "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://arxiv.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 3
+                },
+                {
+                  "title": "Autonomous Exploration of Underwater Caves by Semantic Guidance",
+                  "link": "https://arxiv.org/html/2502.05384v4",
+                  "snippet": "In this work, we demonstrate the system design and algorithmic integration of a visual servoing framework for semantically guided autonomous underwater cave explor...",
+                  "source": "arXiv.org",
+                  "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://arxiv.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 4
+                },
+                {
+                  "title": "DIY Open Source Underwater SONAR Project | Arduino Echo ...",
+                  "link": "https://www.youtube.com/watch?v=UDYWQIizN7A",
+                  "snippet": "and attach the trigger output from the fish finder to a trigger input on the fast logic board and the amplified return signal to a...",
+                  "source": "YouTube",
+                  "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR32tbR0NIPimo93ALK7cGxMGJtP44o4u70Hkkt_-JEXYgLC2FQQpXLDu89tpjKqJ51hrKOGFHV_xTDIc5D4rrGNZ9zfpt7wF9vmU4Z9w",
+                  "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 5
+                },
+                {
+                  "title": "Build Your Own GPS Depth Mapper for PENNIES! (DIY ESP32 Sonar)",
+                  "link": "https://www.youtube.com/watch?v=vmO7NdNEFwg",
+                  "snippet": "Build Your Own GPS Depth Mapper for PENNIES! (DIY ESP32 Sonar) - YouTube. This content isn't available. Want to explore the underwater world without breaking the b...",
+                  "source": "YouTube",
+                  "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRt8-KRArN6LKZqPCUDI8YkF0qP75zlQLrtGepBilnE1otMbVyl9gtEHEV6nuOIskyEaO6PJffMTQzeg0AM0qeTCdJQFV3p6Ctd1npY",
+                  "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 6
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "query_id": "camazotz-project",
+      "prompt": "What is the Camazotz cave mapping project?",
+      "category": "attribution",
+      "results": [
+        {
+          "engine": "openai",
+          "model": "gpt-4o-mini-search-preview",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 154,
+          "error": "404 The model `gpt-4o-mini-search-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations",
+          "raw": null
+        },
+        {
+          "engine": "anthropic",
+          "model": "claude-haiku-4-5-20251001",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 208,
+          "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfUE3zBxLwauYy5otF8Xj\"}",
+          "raw": null
+        },
+        {
+          "engine": "gemini",
+          "model": "gemini-2.5-flash",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 5820,
+          "error": "got status: 503 Service Unavailable. {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}",
+          "raw": null
+        },
+        {
+          "engine": "google-aio",
+          "model": "google-ai-overview",
+          "response_text": "The \"Camazotz cave mapping project\" does not refer to a real-world scientific or geographical project. Instead, it appears to be a misunderstanding or a mixed reference tying together fictional television lore and ancient mythology .\nThe concept involves two primary contexts:\n1. Stranger Things Season 5 Lore\nIn the final season of the Netflix series Stranger Things, \"Camazotz\" is the name given to a dark, psychological landscape formed by Henry Creel’s (Vecna's) earliest and most traumatic memories.\nThe Cave Within the Show: In this realm (specifically featured in the episode \"Escape from Camazotz\" ), characters like Max and Holly navigate an underground desert cave system. This cave serves as a key location where Henry originally encountered a mysterious government rift/particles in Nevada during his childhood.\nReal-World Hiking Tie-in: Because of the show's massive popularity, fans frequently map and share real-world hiking locations that look identical to the \"Camazotz Cave\" from the series—most notably the Robber's Roost cave in Sedona, Arizona . Social media trends often map these trails for fans looking to visit the real-world stand-ins.\n2. The Mythological Origins\nThe word Camazotz translates directly to \"death bat\" in the Kʼiche' Maya language. In the sacred Mayan text, the Popol Vuh, Camazotz is a terrifying, humanoid bat-monster that rules over the House of Bats —a dark, blood-dripping cave trial located deep within the Mayan underworld of Xibalba.\nIf you are looking for a specific real-world cave mapping initiative or a different pop-culture project, let me know:\nAre you looking for information on a real archaeological project exploring Mayan cenotes or caves in Central America?\nAre you trying to find the exact hiking coordinates or trail maps for the Stranger Things filming lookalikes?\nI can help pull the precise details or maps depending on what you need!",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [
+            {
+              "url": "https://historicalmx.org/items/show/90",
+              "hostname": "historicalmx.org",
+              "is_owned": false,
+              "title": "Camazotz: The Mayan Bat God"
+            },
+            {
+              "url": "https://winteriscoming.net/what-really-is-camazotz-stranger-things-5-max-and-holly-escape-explained",
+              "hostname": "winteriscoming.net",
+              "is_owned": false,
+              "title": "What really is Camazotz in Stranger Things 5? Max and ..."
+            },
+            {
+              "url": "https://www.reddit.com/r/netflixindia/comments/1pqfm2h/reason_why_henryvecana_was_scared_of_entering_the/",
+              "hostname": "www.reddit.com",
+              "is_owned": false,
+              "title": "Reason why Henry(Vecana) was scared of entering the cave in ..."
+            },
+            {
+              "url": "https://www.facebook.com/100067616590743/posts/stranger-things-s05e06-chapter-six-escape-from-camazotz/1228238176106724/",
+              "hostname": "www.facebook.com",
+              "is_owned": false,
+              "title": "📺Stranger Things - S05E06"
+            },
+            {
+              "url": "https://screenrant.com/stranger-things-season-5-camazotz-villain-tease-explained/",
+              "hostname": "screenrant.com",
+              "is_owned": false,
+              "title": "Camazotz Explained: New Stranger Things Season 5 Villain Tease"
+            },
+            {
+              "url": "https://www.tiktok.com/discover/where-is-camazots-cave-from-stranger-thing-alocated",
+              "hostname": "www.tiktok.com",
+              "is_owned": false,
+              "title": "Where Is Camazots Cave from Stranger Thing Alocated - TikTok"
+            },
+            {
+              "url": "https://www.facebook.com/ancientoriginsweb/posts/ao-throwback-in-the-maya-culture-the-mesoamerican-bat-god-camazotz-is-linked-to-/991053723063158/",
+              "hostname": "www.facebook.com",
+              "is_owned": false,
+              "title": "In the Maya culture, the Mesoamerican bat god Camazotz is linked ..."
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=ZLlt3LWZWCw&t=124",
+              "hostname": "www.youtube.com",
+              "is_owned": false,
+              "title": "The Mayan Death Bat: The Camazotz"
+            },
+            {
+              "url": "https://readingthecaribbean.wordpress.com/2015/02/24/the-story-behind-camazotz/",
+              "hostname": "readingthecaribbean.wordpress.com",
+              "is_owned": false,
+              "title": "The Story Behind Camazotz"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=Z-ThmLdF0pI&t=151",
+              "hostname": "www.youtube.com",
+              "is_owned": false,
+              "title": "Inside the Bat Temple: Camazotz and the Hero Twins' Descent"
+            },
+            {
+              "url": "https://www.badassoftheweek.com/camazotz-the-death-bat",
+              "hostname": "www.badassoftheweek.com",
+              "is_owned": false,
+              "title": "Camazotz the Death Bat - Badass of the Week"
+            }
+          ],
+          "latency_ms": 29292,
+          "error": null,
+          "raw": {
+            "search_metadata": {
+              "id": "6ab93e23231ffed1b9f465b1",
+              "status": "Success",
+              "json_endpoint": "https://serpapi.com/searches/iskQerVMn0S_t6PaVVCCP36lzOxeqf1apkSWLiZHi60/6ab93e23231ffed1b9f465b1.json",
+              "markdown_endpoint": "https://serpapi.com/searches/iskQerVMn0S_t6PaVVCCP36lzOxeqf1apkSWLiZHi60/6ab93e23231ffed1b9f465b1.md",
+              "created_at": "2026-09-27 16:02:43 UTC",
+              "processed_at": "2026-09-27 16:02:43 UTC",
+              "google_ai_overview_url": "https://www.google.com/async/folsrch?yv=3&cs=0&ei=Iz65aoyDCYuLptQPyuu1wQo&async=_basejs:/xjs/_/js/k%3Dxjs.s.en.O_vEnnLs6e4.2019.O/am%3DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEAIABAAQAIABAAAAAAAAAAAAAAAAAAAAAAAAAACAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAQACQAIAAAAAAAAAgCAAAAAAEAAAAAAAAADAAAACABAAQgAAAAAKAAAAAAAAAAAAAAAAAAAAAACAAIEAAABABAIAQAAAAP8Y8w0AABoAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAAABYAAAAAAgwAACAABBAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAoAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAEAAAAAAoAAAAAAAAgAEAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAACDAAAAAAAAAAAAAAKAAR-AEEAAgAAAAAABAAAAAAAAAAAAIAFIAAAAAAAAAAAARAAYAAAAADkAHg8AIcICgAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAcyBJCAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqAhPAQAAAAAAwNYAgA/dg%3D0/br%3D1/ichc%3D1/rs%3DACT90oEdSIwLhnYt0WkKT_wHcgWL3GmoZg/cb%3Dloaded_h_0?cb%3D121509378,_basecss:/xjs/_/ss/k%3Dxjs.s.EtuGIiTcEq8.L.B1.O/am%3DCAAIAAAAAACAAAAAAAAAAAAAAECAACIAAAAAAAAAAAAAAAAAAABCACAAAAACAAAAAAAAAAAAAAAAAAAACQAEAAAAAAAIAAAAAAAAAAiCAgAAAAAAAAAAUAAAAAAAQgA0IAIAIAAAAAAAAAAAgEIPAAAAGAQAAAAAAOABDAAcBAAAAAAAAAAAEAAAAAAAgAAAQAIAAAAAAAAAgCAAAAAAAAAAAEAAAAAAAAACABAACgAAAIAACgAAIAAAAAAgAAAAAAAAAACAEIAIAAAAAAAAQAAAAAAAAAAAABwAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAADBAQAAAAAAIBgAAAAAwAAAAACAAABAAAAAAAAAAAAAABAJkAAABAAAAAAAAwAAAAAAAAAAAAAIAIRQCAAIAApAwBUBAAAAOAAIAAAAAAAAAAAAIEAAAAAAAAABAAAAAAQAEAQgBBAAAAAAEAAAAAAAAAEAAAAAiAEAAAAAAAAAAigAAhAAwAgSAACJQgKACAABAQAACCAAIAARAAAAAAAKICAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAAAADAAgBgAREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA/br%3D1/cb%3Dloaded_h_0/rs%3DACT90oHMpCf55UQRG7ufmNDlTabr7D6PAg?cb%3D121509378,_basecomb:/xjs/_/js/k%3Dxjs.s.en.O_vEnnLs6e4.2019.O/ck%3Dxjs.s.EtuGIiTcEq8.L.B1.O/am%3DCAAIAAAAAACAAAAAAAAAAAAAAECAACIAAAAAAAAAAAAAAAAAAABCACAAAAACAAAAAAAAAAAAAAAAAAAACQAEAAAAAAAIAAAAAAAAAAiCAgAAQEAIABAAUAIABAAAQgA0IAIAIAAAAAAAAAAAgEIPAAEAGAQAAAAAAOABDAAcBAAAAAAAAAAAEAAAAEAAgQACQAIAAAAAAAAAgCAAAAAAEAAAAEAAAADAAAACABAASgAAAIAKCgAAIAAAAAAgAAAAAAAAAACAEIEIAABABAIAQAAAAP8Y8w0AAB4AAAAAAAAJAAAAAAAAAAgAAAAAAAAAAAAAABLBAQAAAAAAIBhYAAAAwAgwAACAABBAAAQAAAAAAAAAABAJkAAABAAAAAAAAwAAAAAAAAAAAAAIAIRQCAAIAApAwBUBABAAOAAIAAAAAAAAAAAAIEAAAAAAAEABAAAAAAQAEAQgBBAAAAAAEAAAAAAoAAEAAAAAiAEAAAAAAAAAAikAAhAAwAgSAACJQgKACAABAQACDCAAIAARAAAAAAAKICR-AEEAAgAAAAAARAAAAAAAAAAAAIAFIAAAAADAAgBgAREAYAAAAADkAHg8AIcICgAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAcyBpCAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqAhPAQAAAAAAwNYAgA/d%3D1/ed%3D1/dg%3D0/br%3D1/ujg%3D1/ichc%3D1/rs%3DACT90oF22Ci2ko91Dh_v5Un_f5W_WTtL-g/cb%3Dloaded_h_0?cb%3D121509378,_fmt:madl,_id:B2Jtyd,_mado:ed&q=What+is+the+Camazotz+cave+mapping+project?&mlro=0a5V2fWHnwrQB55dYOjlOO3SDq-I_OtwoPTFQlD9Ir6-y8IC8-VGnvWtnp2GiaUaIRa3JgphGUo_cMdZwv-oRD5fTIMQVrgAXc-Ms0TGWUXH4SfgXJD5vGfZSkLcRqLgcSglnCZbOtEiZCGa&mlros=7FaLzl0TPAY&mrc=CAA4gANQAWgAcACYAQCgAQCoAQCwAQC6AQEB&sca_esv=435e542d00b0fa3e&mgtyp=44&snr=1",
+              "raw_html_file": "https://serpapi.com/searches/iskQerVMn0S_t6PaVVCCP36lzOxeqf1apkSWLiZHi60/6ab93e23231ffed1b9f465b1.html",
+              "total_time_taken": 28.49
+            },
+            "search_parameters": {
+              "engine": "google_ai_overview",
+              "page_token": "MbeL43iczZXddqo4FIAfYJ5jvLEK_tDarsXqCoHaWFvFn1p7w8KAgQqEAsrYu7md55inmqeZ8GexlfacczFrtktCkp2dnb3zsf_827G9zT-__WVFkR9ecVwcx01CKXHMJqYup4d7D3Nr6oQBtq73O7FTw6HI10xbRG_ngk73Mlxuh36kjvfbbStWaS1dImorPTRfmMU_XkJO49hj83tHZp1m2DS95kjbKZ43DM_NbrPNty6bI053mQL4D0VVAAISa7OmSiAAyvfGEhUVwMRWIQS-T2UiZ_aSPUk6cFe5JUpWSeyHmFkm496yF_NsiBZKg0pfJFTuLHNv4tSuJKWO_rAcTOX7fhGoqjApRwaYJ0eKlbGFHy4Di9WkARQlMfDZFQRuyqcGEwCyg8sbcEt6AGEEyRe-JwvwXhpAcLBfJa_AGhchjB-WTJ0zCLu7PLcKWNPibGzh9CUIkysNZ5c8VYwpioeWt4z4xeZupsW3mCyGnb5LnwmHV0zPobphGpql8ddpv9VuCfxl56J3lrKEwwNMYRkmJdr2kT3DymuvOWxKrYIkeMgdPHZfYX2IwGeRYK4KT0wmV7tIVWmxDcvRmuctu908AqisCIiCxknbL0I3AhLLMC5nsdggMXmKpCOlnKQ0qyhr0fvyg4pScuPo3kvxiVN-TL0sFYuQlM3Fud1PKEhgsCmPHptnXkzULCc-iKV5qjY6imUOfWEt91hh0ZTy3vt09maX6bGZf1ayLZky_wYquUt5T_yH2caTXPMOfcjwBJwSlh3CDj35ga_fCaHfqyTk5Mh8IKBMzu29D9eCMFcn_Yvt2n2QnZm-Ci7k8zEgp0mh7uon6g7-f7FUVKV5XpWqWVK-Zyn5WH5VldLHe1WaZizdVbPEaDpZlbqFUqkqfWBJGpZYstKPc1xVlX6WJekLlpQvWaKnWdpUsQTlTywdV6Ujlg5V6Z2lX6lK_i9WpRQtM2uOS9T2hVSWqpt2G9rtDb1syZa2E-aethYW2mIWDRvfl6q1G125uuGcabZxJbUH0d4409gAvTKN2qu4sPSobof1yDLrUHf1Nxq91bG-M-uu7vu2R-p-QF9MHF3XXCegIq8Lj-314taLA1USBGM5enFGo85Ufm0gbRTFdDy7UR35EgXnjX0PwV7jse_tFpHnt_u2PtfRRO8MiG_151TD98ZzvGvQiSysZ-hefQwIeMKN-5Cf9Rfzp9vudE2eBrKw66-fp5shnrwOCZ4Sx4PPq1Gk2M-wr6deheLFjT58c_jZGCxrboBFlp8uAQ8qWBCAAVwClaVVhZT9Y_Y_Z1RLtRDrmhnuxG5HMIVu2-D5Fb_WO2bNJdHeF7vdWugFYutfV5lDlA"
+            },
+            "ai_overview": {
+              "text_blocks": [
+                {
+                  "type": "paragraph",
+                  "snippet": "The \"Camazotz cave mapping project\" does not refer to a real-world scientific or geographical project. Instead, it appears to be a misunderstanding or a mixed reference tying together fictional television lore and ancient mythology .",
+                  "snippet_highlighted_words": [
+                    "a misunderstanding or a mixed reference tying together fictional television lore and ancient mythology"
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "snippet": "The concept involves two primary contexts:"
+                },
+                {
+                  "type": "heading",
+                  "snippet": "1. Stranger Things Season 5 Lore"
+                },
+                {
+                  "type": "paragraph",
+                  "snippet": "In the final season of the Netflix series Stranger Things, \"Camazotz\" is the name given to a dark, psychological landscape formed by Henry Creel’s (Vecna's) earliest and most traumatic memories."
+                },
+                {
+                  "type": "list",
+                  "list": [
+                    {
+                      "snippet": "The Cave Within the Show: In this realm (specifically featured in the episode \"Escape from Camazotz\" ), characters like Max and Holly navigate an underground desert cave system. This cave serves as a key location where Henry originally encountered a mysterious government rift/particles in Nevada during his childhood."
+                    },
+                    {
+                      "snippet": "Real-World Hiking Tie-in: Because of the show's massive popularity, fans frequently map and share real-world hiking locations that look identical to the \"Camazotz Cave\" from the series—most notably the Robber's Roost cave in Sedona, Arizona . Social media trends often map these trails for fans looking to visit the real-world stand-ins."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "snippet": "2. The Mythological Origins"
+                },
+                {
+                  "type": "paragraph",
+                  "snippet": "The word Camazotz translates directly to \"death bat\" in the Kʼiche' Maya language. In the sacred Mayan text, the Popol Vuh, Camazotz is a terrifying, humanoid bat-monster that rules over the House of Bats —a dark, blood-dripping cave trial located deep within the Mayan underworld of Xibalba."
+                },
+                {
+                  "type": "paragraph",
+                  "snippet": "If you are looking for a specific real-world cave mapping initiative or a different pop-culture project, let me know:"
+                },
+                {
+                  "type": "list",
+                  "list": [
+                    {
+                      "snippet": "Are you looking for information on a real archaeological project exploring Mayan cenotes or caves in Central America?"
+                    },
+                    {
+                      "snippet": "Are you trying to find the exact hiking coordinates or trail maps for the Stranger Things filming lookalikes?"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "snippet": "I can help pull the precise details or maps depending on what you need!"
+                }
+              ],
+              "references": [
+                {
+                  "title": "Camazotz: The Mayan Bat God",
+                  "link": "https://historicalmx.org/items/show/90",
+                  "snippet": "Text Some believe the ancient peoples based him on the common vampire bat or on Desmodus draculae, a much larger species, both leaf-nosed as well. Both of these sp...",
+                  "source": "HistoricalMX",
+                  "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://historicalmx.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 0
+                },
+                {
+                  "title": "What really is Camazotz in Stranger Things 5? Max and ...",
+                  "link": "https://winteriscoming.net/what-really-is-camazotz-stranger-things-5-max-and-holly-escape-explained",
+                  "snippet": "How do Max and Holly escape Camazotz? STRANGER THINGS: SEASON 5. Sadie Sink as Max Mayfield in Stranger Things: Season 5. Cr. COURTESY OF NETFLIX © 2025 In Strange...",
+                  "source": "Winter is Coming",
+                  "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRq3t7O2sCxs4q_-4HFR573yUqIa1NbTeqCkmJF_Po8NWAZxEH39MHlGnrILa1RaXyKLfyLCeJoQXP2eTyfhWBisgiGdbYCXoh2twhO",
+                  "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://winteriscoming.net&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 1
+                },
+                {
+                  "title": "Reason why Henry(Vecana) was scared of entering the cave in ...",
+                  "link": "https://www.reddit.com/r/netflixindia/comments/1pqfm2h/reason_why_henryvecana_was_scared_of_entering_the/",
+                  "snippet": "Reason why Henry(Vecana) was scared of entering the cave in Camazotz The place which is known as the 'Camazotz' is actually formed by the inclusion of Henry's memo...",
+                  "source": "Reddit",
+                  "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0MZFqLphUuy5T2eMzhAg7_SHRW8ltTnZUCGsoJkz8WBNl_pQZ8ZWNcc6oAelriKJpalO3FD1wJ2em4Y0wKiHw8Pvo5Vy-Y5snd9LX",
+                  "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 2
+                },
+                {
+                  "title": "📺Stranger Things - S05E06",
+                  "link": "https://www.facebook.com/100067616590743/posts/stranger-things-s05e06-chapter-six-escape-from-camazotz/1228238176106724/",
+                  "snippet": "Stranger Things season 5 episode titles revealed The 'Stranger Things' Season 5 Episode Titles Are Here: Episode 1: “The Crawl” Episode 2: “The Vanishing of …” Epi...",
+                  "source": "Facebook",
+                  "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-OhYneJ3NYaQCrhuLtV7CL9yzPbtyCKQGJmWsTQ2zJmWJKkrzc8p75pXNUOxqIhpAEokewRsIDJ4kBmNyzpwdWrE",
+                  "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 3
+                },
+                {
+                  "title": "Camazotz Explained: New Stranger Things Season 5 Villain Tease",
+                  "link": "https://screenrant.com/stranger-things-season-5-camazotz-villain-tease-explained/",
+                  "snippet": "Camazotz is the god of bats from the Olman underworld who is also known by the name Zotzilaha An error occurred. Try watching this video on www.youtube.com, or ena...",
+                  "source": "ScreenRant",
+                  "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTD8N0nrO_bmJfrIVkyz1ZnRok-UTz9d_Dn015sGdidJOga6x-ZdsYDFf99Q0qVOuPCORu5WTd8DVObBEPuoAVrVYamXY-gB5kveqnO",
+                  "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://screenrant.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 4
+                },
+                {
+                  "title": "Where Is Camazots Cave from Stranger Thing Alocated - TikTok",
+                  "link": "https://www.tiktok.com/discover/where-is-camazots-cave-from-stranger-thing-alocated",
+                  "snippet": "known as Camazotz Cave is a real-world hiking destination in Sedona, Arizona, that has become a fan destination for 'Stranger Things' viewers. site is also called ...",
+                  "source": "TikTok",
+                  "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3oy8w7KLREWCjDsLQzJFjS0jHwiEwx_RVZNPhHg2yIKNoild7Wb5_yzPAy-Yg0j1imN_RyugjyEPC5JS9E6Iy9CgEBNLiXSK6uSTT",
+                  "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tiktok.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 5
+                },
+                {
+                  "title": "In the Maya culture, the Mesoamerican bat god Camazotz is linked ...",
+                  "link": "https://www.facebook.com/ancientoriginsweb/posts/ao-throwback-in-the-maya-culture-the-mesoamerican-bat-god-camazotz-is-linked-to-/991053723063158/",
+                  "snippet": "Batman Existed in Mesoamerican Mythology and His Name Was Camazotz In the Maya culture, the bat god Camazotz is linked to death. Camazotz is also the name of a mon...",
+                  "source": "Facebook",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR1QeL_lep-va7igr0CsyszFyLST1GnlF-SKSR4QOt8bbEVYZINf8VzO8JkMt-QNl4UBl-BZ5bGFcQ2UokRNwtnnDhE9l6HqQBbs6S",
+                  "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 6
+                },
+                {
+                  "title": "The Mayan Death Bat: The Camazotz",
+                  "link": "https://www.youtube.com/watch?v=ZLlt3LWZWCw&t=124",
+                  "snippet": "The Mayan Death Bat: The Camazotz who proceeded to spread this hybrid of cultural lore far and wide a defining narrative chronicli...",
+                  "source": "YouTube",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTogUVb9i3zALY2wsLuL3lfslxeaNOFuYnVJnaqZ7lnMk-AMcnbJAsDS4ttO-hQYMZUDDosPJAGT1rhvsa95tz4yNELRTYCApOU_uMVRQ",
+                  "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 7
+                },
+                {
+                  "title": "The Story Behind Camazotz",
+                  "link": "https://readingthecaribbean.wordpress.com/2015/02/24/the-story-behind-camazotz/",
+                  "snippet": "The Story Behind Camazotz by Lé Shon Eligon of Seed. 813001050 After death, the soul was believed to go to the Underworld, Xibalba (shee bal bah), a place of frigh...",
+                  "source": "WordPress.com",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwLCg-Db5mAc4hWPgnCazzdAd6-6l-Vg1C5ugfiZ2FU02NwAQDXMl0ziy0Aq9LNrMczDyn9P7BxNASeCnks6k9LB8EdBCzu8mcqE3h",
+                  "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://readingthecaribbean.wordpress.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 8
+                },
+                {
+                  "title": "Inside the Bat Temple: Camazotz and the Hero Twins' Descent",
+                  "link": "https://www.youtube.com/watch?v=Z-ThmLdF0pI&t=151",
+                  "snippet": "Inside the Bat Temple: Camazotz and the Hero Twins’ Descent what's clear is that Camzots isn't just a monster he's a symbol a remi...",
+                  "source": "YouTube",
+                  "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPqOOxKx8cMwN1XB-vFFuKFR9Nr-SxBKtcZaaZRJYDmQm39zMVpUqeM72M2t68HhUvSpGgu7WylGq_xrnu-IAwJVS5qDkH7MSmA8osTg",
+                  "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 9
+                },
+                {
+                  "title": "Camazotz the Death Bat - Badass of the Week",
+                  "link": "https://www.badassoftheweek.com/camazotz-the-death-bat",
+                  "snippet": "He turned into a statue during the day or went back to a huge Underworld cave known as the House of Bats where the walls dripped with blood and the guano flowed fr...",
+                  "source": "Badass of the Week",
+                  "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSonzGOUTIncn5b24s9aW-nVfIjprQEAZAkMW0wgXQD7pr_nA266hLXRPiOBA7sAIOTCsG398Fo4qImf6fKBVXPplqQWBZqJjAC5vfH",
+                  "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.badassoftheweek.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 10
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "query_id": "camazotz-ixchel",
+      "prompt": "Who built Camazotz Ixchel?",
+      "category": "attribution",
+      "results": [
+        {
+          "engine": "openai",
+          "model": "gpt-4o-mini-search-preview",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 508,
+          "error": "404 The model `gpt-4o-mini-search-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations",
+          "raw": null
+        },
+        {
+          "engine": "anthropic",
+          "model": "claude-haiku-4-5-20251001",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 334,
+          "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfUE6dmDKMRcfoVyQvBgs\"}",
+          "raw": null
+        },
+        {
+          "engine": "gemini",
+          "model": "gemini-2.5-flash",
+          "response_text": "Camazotz and Ixchel are two distinct deities within Mayan mythology and were not \"built\" as a single entity or structure.\n\nCamazotz, whose name translates to \"death bat\" in the K'iche' language, is a fearsome bat spirit primarily associated with night, death, and sacrifice. He is mentioned in the Popol Vuh, the K'iche' Maya sacred book, where he is depicted as a bat-like being in the underworld of Xibalba. Camazotz is famously known for decapitating one of the Maya Hero Twins, Hunahpu, during their trials in the House of Bats.\n\nIxchel, on the other hand, is a significant grandmotherly creator goddess. She is revered as the patron deity of medicine, rain, and childbirth. Ixchel is also known as \"Lady Rainbow\" in many of her depictions in Maya art.",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [
+            {
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoAqeIgUkANk_HQX38IU03PSYvjALLoZnCBU4qMmDnn5CsOwrdqbZqer1fJg9fvYl1-h5HdWyv6K5ig14xfMxvsAVxr2mmu9vWmQEDSsO_nEtUYq8eKrhxM8l_eAD_CyLkkoyThoL9",
+              "hostname": "vertexaisearch.cloud.google.com",
+              "is_owned": false,
+              "title": "howstuffworks.com"
+            },
+            {
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQy1tLJwJS1mE5tlCOITMrpCvISuA7DM-Js66fPXwTqacx_1PCL_FoaDdOtimNcfVIbIJmbwqB4iHER86ve0FA80Nf2QGVkDauuLM-NmrQR55d6Fso_zUb5N9PxLa4n4g=",
+              "hostname": "vertexaisearch.cloud.google.com",
+              "is_owned": false,
+              "title": "wikipedia.org"
+            }
+          ],
+          "latency_ms": 30257,
+          "error": null,
+          "raw": {
+            "candidates": [
+              {
+                "content": {
+                  "parts": [
+                    {
+                      "text": "Camazotz and Ixchel are two distinct deities within Mayan mythology and were not \"built\" as a single entity or structure.\n\nCamazotz, whose name translates to \"death bat\" in the K'iche' language, is a fearsome bat spirit primarily associated with night, death, and sacrifice. He is mentioned in the Popol Vuh, the K'iche' Maya sacred book, where he is depicted as a bat-like being in the underworld of Xibalba. Camazotz is famously known for decapitating one of the Maya Hero Twins, Hunahpu, during their trials in the House of Bats.\n\nIxchel, on the other hand, is a significant grandmotherly creator goddess. She is revered as the patron deity of medicine, rain, and childbirth. Ixchel is also known as \"Lady Rainbow\" in many of her depictions in Maya art."
+                    }
+                  ],
+                  "role": "model"
+                },
+                "finishReason": "STOP",
+                "groundingMetadata": {
+                  "searchEntryPoint": {
+                    "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu88DPjkSQpIm2N20g8v85u77Wm2_gxKNnI-WR477lIKCyRRXEx1gKyf3jifmhtO7WHAeL99G9mPcZnpwcY6hFnI_DptP735pB4FPzpLexBA-DsIcM6OnyHAFVo0X0IH4JE67fdT0TepEB4PQp9UR8fre_cxvF63Fhgvt2xzh61zSSoFODaBZXCxvI5ajJNciO5FYGs7u_pbJYaA==\">who built Camazotz Ixchel</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaHmYGulOCRyvJaTkpJV_Ykis9Wwd4dc8tfvduYnOZQSoyFi0PsUiJQem2G4PJoH33pvPd-EuuWM8OR2ToXy1Q5TXRwRXRtJgccwgWt3d0Ld_pYZdY0AnqZWyMrpxuY4ysLJ0Xey3_0KTz2kiyKGXkaSfC-X3M0JPKq7VXPeVYkiTX-ucg7CKtn43k2YcVhnhj\">Camazotz Ixchel</a>\n  </div>\n</div>\n"
+                  },
+                  "groundingChunks": [
+                    {
+                      "web": {
+                        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoAqeIgUkANk_HQX38IU03PSYvjALLoZnCBU4qMmDnn5CsOwrdqbZqer1fJg9fvYl1-h5HdWyv6K5ig14xfMxvsAVxr2mmu9vWmQEDSsO_nEtUYq8eKrhxM8l_eAD_CyLkkoyThoL9",
+                        "title": "howstuffworks.com"
+                      }
+                    },
+                    {
+                      "web": {
+                        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQy1tLJwJS1mE5tlCOITMrpCvISuA7DM-Js66fPXwTqacx_1PCL_FoaDdOtimNcfVIbIJmbwqB4iHER86ve0FA80Nf2QGVkDauuLM-NmrQR55d6Fso_zUb5N9PxLa4n4g=",
+                        "title": "wikipedia.org"
+                      }
+                    }
+                  ],
+                  "groundingSupports": [
+                    {
+                      "segment": {
+                        "startIndex": 410,
+                        "endIndex": 531,
+                        "text": "Camazotz is famously known for decapitating one of the Maya Hero Twins, Hunahpu, during their trials in the House of Bats"
+                      },
+                      "groundingChunkIndices": [
+                        0,
+                        1
+                      ]
+                    },
+                    {
+                      "segment": {
+                        "startIndex": 679,
+                        "endIndex": 755,
+                        "text": "Ixchel is also known as \"Lady Rainbow\" in many of her depictions in Maya art"
+                      },
+                      "groundingChunkIndices": [
+                        0
+                      ]
+                    }
+                  ],
+                  "webSearchQueries": [
+                    "Camazotz Ixchel",
+                    "who built Camazotz Ixchel"
+                  ]
+                },
+                "index": 0
+              }
+            ],
+            "modelVersion": "gemini-2.5-flash",
+            "usageMetadata": {
+              "promptTokenCount": 10,
+              "candidatesTokenCount": 210,
+              "totalTokenCount": 622,
+              "promptTokensDetails": [
+                {
+                  "modality": "TEXT",
+                  "tokenCount": 10
+                }
+              ],
+              "toolUsePromptTokenCount": 130,
+              "toolUsePromptTokensDetails": [
+                {
+                  "modality": "TEXT",
+                  "tokenCount": 130
+                }
+              ],
+              "thoughtsTokenCount": 272,
+              "serviceTier": "standard"
+            }
+          }
+        },
+        {
+          "engine": "google-aio",
+          "model": "google-ai-overview",
+          "response_text": "In Mayan mythology, (the bat god) and (the moon and fertility goddess) are primordial deities who were not \"built\" by anyone, as they are spiritual entities rather than physical objects. According to Maya creation accounts like the Popol Vuh, the universe and its divine pantheon emerged through cosmic creation cycles.\nHowever, if your question refers to the fictional cosmic worlds named after them:\nIn Madeleine L'Engle's classic science fiction novel A Wrinkle in Time, and Ixchel are depicted as planets. In the context of the book, these celestial bodies are part of the natural universe created by God, though the society on the planet Camazotz was subjugated and functionally restructured into a mindless, conformist dystopia by the telepathic, disembodied brain known as IT.\nIf you are thinking of a specific video game, book series, or architectural landmark that combines these two names, please share the title or context, and I can give you the exact creator or developer!",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Camazotz",
+              "hostname": "en.wikipedia.org",
+              "is_owned": false,
+              "title": "Camazotz - Wikipedia"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=F6NSciKwr_I",
+              "hostname": "www.youtube.com",
+              "is_owned": false,
+              "title": "Why Did Ix Chel, Maya Moon Goddess, Flee the Sky?"
+            },
+            {
+              "url": "https://www.instagram.com/popular/mayan-and-aztec-gods/",
+              "hostname": "www.instagram.com",
+              "is_owned": false,
+              "title": "Mayan And Aztec Gods"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/A_Wrinkle_in_Time",
+              "hostname": "en.wikipedia.org",
+              "is_owned": false,
+              "title": "A Wrinkle in Time"
+            },
+            {
+              "url": "https://actionpedia.fandom.com/wiki/Ancient_Pyramids",
+              "hostname": "actionpedia.fandom.com",
+              "is_owned": false,
+              "title": "Ancient Pyramids"
+            },
+            {
+              "url": "https://nevalalee.wordpress.com/2016/05/17/a-wrinkle-in-life/",
+              "hostname": "nevalalee.wordpress.com",
+              "is_owned": false,
+              "title": "A wrinkle in life | Alec Nevala-Lee"
+            }
+          ],
+          "latency_ms": 7051,
+          "error": null,
+          "raw": {
+            "search_metadata": {
+              "id": "6ab93e60c83b3f25d1a95269",
+              "status": "Success",
+              "json_endpoint": "https://serpapi.com/searches/IIDAf1ibRxlnv4kmzuuIy4MvRNVgLCZzKriuF2iur1U/6ab93e60c83b3f25d1a95269.json",
+              "markdown_endpoint": "https://serpapi.com/searches/IIDAf1ibRxlnv4kmzuuIy4MvRNVgLCZzKriuF2iur1U/6ab93e60c83b3f25d1a95269.md",
+              "created_at": "2026-09-27 16:03:44 UTC",
+              "processed_at": "2026-09-27 16:03:44 UTC",
+              "google_ai_overview_url": "https://www.google.com/async/folsrch?yv=3&cs=0&ei=Xz65at2oIMaj5NoPwJmzgQU&async=_basejs:/xjs/_/js/k%3Dxjs.s.en.O_vEnnLs6e4.2019.O/am%3DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEAIABAAQAIABAAAAAAAAAAAAAAAAAAAAAAAAAACAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAQACQAIAAAAAAAAAgCAAAAAAEAAAAAAAAADAAAACABAAQgAAAAAKAAAAAAAAAAAAAAAAAAAAAACAAIEAAABABAIAQAAAAP8Y8w0AABoAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAAABYAAAAAAgwAACAABBAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAoAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAEAAAAAAoAAAAAAAAgAEAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAACDAAAAAAAAAAAAAAKAAR-AEEAAgAAAAAABAAAAAAAAAAAAIAEIAAAAAAAAAAAARAAYAAAAADkAHg8AIcICgAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAcyBJCAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqAhPAQAAAAAAwNYAgA/dg%3D0/br%3D1/ichc%3D1/rs%3DACT90oEesfnUEz6le-VmuYi4H-D_6YwxNw/cb%3Dloaded_h_0?cb%3D121509378,_basecss:/xjs/_/ss/k%3Dxjs.s.EtuGIiTcEq8.L.B1.O/am%3DCAAIAAAAAACAAAAAAAAAAAAAAECAACIAAAAAAAAAAAAAAAAAAABCACAAAAACAAAAAAAAAAAAAAAAAAAACAAEAAAAAAAIAAAAAAAAAAiCAgAAAAAAAAAAUAAAAAAAQgA0IAIAIAAAAAAAAAAAgEIPAAAAGAAAAAAAAOABDAAcBAAAAAAAAAAAEAAAAAAAgAAAQAIAAAAAAAAAgCAAAAAAAAAAAEAAAAAAAAACABAACgAAAIAACgAAIAAAAAAgAAAAAAAAAACAEIAIAAAAAAAAQAAAAAAAAAAAABwAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAADBAQAAAAAAIBgAAAAAwAAAAACAAABAAAAAAAAAAAAAABAJkAAABAAAAAAAAwAAAAAAAAAAAAAIAIRQCAAIAApAwBUBAAAAOAAIAAAAAAA0ACAAIEAAAAAAAAABAAAAAAQAEAQgBBAAAAAAEAACAAAAAAEAAAAAiAEAAAAAAAAAAigAAhAAwAgSAACJQgKACAABAQAACAAAIAARAAAAAAAKICAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAAAADAAgBgAREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA/br%3D1/cb%3Dloaded_h_0/rs%3DACT90oElTjM0ACHv3vcrbqos_eOFPv-iOg?cb%3D121509378,_basecomb:/xjs/_/js/k%3Dxjs.s.en.O_vEnnLs6e4.2019.O/ck%3Dxjs.s.EtuGIiTcEq8.L.B1.O/am%3DCAAIAAAAAACAAAAAAAAAAAAAAECAACIAAAAAAAAAAAAAAAAAAABCACAAAAACAAAAAAAAAAAAAAAAAAAACAAEAAAAAAAIAAAAAAAAAAiCAgAAQEAIABAAUAIABAAAQgA0IAIAIAAAAAAAAAAAgEIPAAEAGAAAAAAAAOABDAAcBAAAAAAAAAAAEAAAAEAAgQACQAIAAAAAAAAAgCAAAAAAEAAAAEAAAADAAAACABAASgAAAIAKCgAAIAAAAAAgAAAAAAAAAACAEIEIAABABAIAQAAAAP8Y8w0AAB4AAAAAAAAJAAAAAAAAAAgAAAAAAAAAAAAAABLBAQAAAAAAIBhYAAAAwAgwAACAABBAAAQAAAAAAAAAABAJkAAABAAAAAAAAwAAAAAAAAAAAAAIAIRQCAAIAApAwBUBABAAOAAIAAAAAAA0ACAAIEAAAAAAAEABAAAAAAQAEAQgBBAAAAAAEAACAAAoAAEAAAAAiAEAAAAAAAAAAikAAhAAwAgSAACJQgKACAABAQACDAAAIAARAAAAAAAKICR-AEEAAgAAAAAARAAAAAAAAAAAAIAEIAAAAADAAgBgAREAYAAAAADkAHg8AIcICgAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAcyBpCAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqAhPAQAAAAAAwNYAgA/d%3D1/ed%3D1/dg%3D0/br%3D1/ujg%3D1/ichc%3D1/rs%3DACT90oFNRa6ajMLrtVlfxDgRIfThq9D45w/cb%3Dloaded_h_0?cb%3D121509378,_fmt:madl,_id:B2Jtyd,_mado:ed&q=Who+built+Camazotz+Ixchel?&mlro=0a7rOmldptFQeR1ZrI-AzLb0gq3vJaTPvzBMChrpKmv-Cvii0PezFpBo33oH_1I1NEH-4R31kQX3tCN0L3uIgPZAsxZVFNlV84tNjsbZhSmJnmq8V-5i_aOwwqlnwYjaFVElm6c53A&mlros=h3Cb8LHyniU&mrc=CAA4gANQAWgAcACYAQCgAUaoAQCwAQG6AQEB&sca_esv=435e542d00b0fa3e&mgtyp=44&snr=1",
+              "raw_html_file": "https://serpapi.com/searches/IIDAf1ibRxlnv4kmzuuIy4MvRNVgLCZzKriuF2iur1U/6ab93e60c83b3f25d1a95269.html",
+              "total_time_taken": 5.99
+            },
+            "search_parameters": {
+              "engine": "google_ai_overview",
+              "page_token": "hiRx3niczZVdkqJIEIAPsOdYX7oVEHTsjiA6qhDbUlvFVmfsFwIQAeVHAUF927vsqfY0W_wp2GLPzMPGphGkVWRlJZn1Vf71t2nYm3_-8HXf33rPBBGGYU1zHM1Ua4pjEZJ3tBVi5Zieq-gvx4ClK4rHkhXVYH-cmg3JrzvoTVo3hs447FknTZhV4iWsKEueusYeD2uPEAn82PxJt_Gg5tVUuzYSA962B15TZWp1knqqjQjJwgbgPxSBBwhArBNVJhwA_NfOIhMBcJGvTDTu8iqRduIv2lOLJ_qlW6JoFcQ_hN1iGbcWrZDEU05m1CuNBaL8YJFGE8Z-IYwD_Wk5u0r3vZOosjTxBQc4koJhaW65q8OAczWpAp6PHHwOBQE-_9VgAkDy4e0N6GotgBTEaXdijxYoR9jjwNl_meyAPs5SGA4X2JxYavjskoTsYkURhqIr8R_Xi440N30iHV71VvaMPzVNtTq39guD6VbbYnMRHoYhocjYznSkpboUdZF8icdUnWqQT_S31mPMkuKdYfLyMPH-_hUZU4XftWqDGqQykrhz7bhi-Dwecwh8FsilptyNl3kMcosNLp-tWarx6SYRQHlDoPFoHOnXbGIEIK6wkq9itkHk8hZJBaOUpLiqKNHosvxswufCKJx7GN74yuvSt2G2CMHkXZj6_YQCBL1NfrboHkcxEZKabEEIZ7HZ6JJL8gx95i2NmMfZhOmIP9cmMTTy9Bg4Pj3aVnvHZj1B68e8R_FzcQDREY-lj64qPAG3BFdHwx89-Ynb74Y4X5tE5KTIXBFQIMecrt9weroBHSiuvHM8UR11xkHVGGm3SXEs-Rf6jvL_YinrSrO0K5WzxH_NUnRZ3utK8ePSld4TlvrlLEWX7K2uxGRGua50xRIc5FjS48s5LOtKv8oSvMMSf5cl5zZLmzKW4q5UZKnYlQosnbvShaXf6Urb3-xKMVpqoootar_WSltVZziRmtL6beD6c3N1aGsTtJrqu6c20_i6Va0s_9mSluajaCyfYb3nH5ePIp5wntVlZcd-150HeW-Y_gMnWdLJ8U8P6KDoqvlSsUzXYUnpmzuyzOXW7wjqhPpwURWcBjKp7eigJ03HwQm-cbq77VtBlQsMgxyrp84WOjTtdEUKUUO-W2UmNLURftA-NyQH9B5p4w_gHT7mnaE5bzH-cO3JH_q71bOtXWtebRiiNArDnWmHi7XUmfOm1VQaNIjj8Vid5uTWoHu0jVnFchUWV4LRwFAA3zWgAG4BBFzAmeRgHQLhtYn5hRVPkUTVC1iGbqgNpr4kSZlcSbRasTT_uGUZpuLZLkv9Cz9WPKw"
+            },
+            "ai_overview": {
+              "text_blocks": [
+                {
+                  "type": "paragraph",
+                  "snippet": "In Mayan mythology, (the bat god) and (the moon and fertility goddess) are primordial deities who were not \"built\" by anyone, as they are spiritual entities rather than physical objects. According to Maya creation accounts like the Popol Vuh, the universe and its divine pantheon emerged through cosmic creation cycles.",
+                  "snippet_highlighted_words": [
+                    "not \"built\" by anyone"
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "snippet": "However, if your question refers to the fictional cosmic worlds named after them:"
+                },
+                {
+                  "type": "list",
+                  "list": [
+                    {
+                      "snippet": "In Madeleine L'Engle's classic science fiction novel A Wrinkle in Time, and Ixchel are depicted as planets. In the context of the book, these celestial bodies are part of the natural universe created by God, though the society on the planet Camazotz was subjugated and functionally restructured into a mindless, conformist dystopia by the telepathic, disembodied brain known as IT."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "snippet": "If you are thinking of a specific video game, book series, or architectural landmark that combines these two names, please share the title or context, and I can give you the exact creator or developer!"
+                }
+              ],
+              "references": [
+                {
+                  "title": "Camazotz - Wikipedia",
+                  "link": "https://en.wikipedia.org/wiki/Camazotz",
+                  "snippet": "Camazotz. Article · Talk. Language; Download PDF; Watch · Edit. For the Belizean crime victim, see Hilberto Sotz. In the Late Post-Classic Maya mythology of the Po...",
+                  "source": "Wikipedia",
+                  "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRM-_-ZOQpW9Pwg6UfNMxiJd93mlads5jduhaqnjnrO4_r8Q7YiclzE89Va9SuM_Qp2aTxs35wuDnbzCgQYBz1u4CaLhdPl5RJ4fR2",
+                  "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 0
+                },
+                {
+                  "title": "Why Did Ix Chel, Maya Moon Goddess, Flee the Sky?",
+                  "link": "https://www.youtube.com/watch?v=F6NSciKwr_I",
+                  "snippet": "Why Did Ix Chel, Maya Moon Goddess, Flee the Sky? what would happen if the moon abandoned the sky if her light vanished leaving th...",
+                  "source": "YouTube",
+                  "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxQjO8FW3OOizwblWPGy3PWyURDXvord6YLXkcGN3GL77LVgvnZ0JjWoyr1s417eOo9HOK81Bo3Rm4-YTzj0csGWOQAULgoxcrrS4_bw",
+                  "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 1
+                },
+                {
+                  "title": "Mayan And Aztec Gods",
+                  "link": "https://www.instagram.com/popular/mayan-and-aztec-gods/",
+                  "snippet": "Mayan And Aztec Gods Maya and Aztec creation myths describe two distinct but related pantheons rooted in the rhythms of nature and the cosmos. The Popol Vuh names ...",
+                  "source": "Instagram",
+                  "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzedPKGwLJDZmB4YwSta1LYlKkhIyK_bGI6IklaGmT1EdpRBZc_lpHpOqY09uq6DPioeWTrKTNMnc5s1PUdfbtYGyg53OHJsnQYKHQ",
+                  "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.instagram.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 2
+                },
+                {
+                  "title": "A Wrinkle in Time",
+                  "link": "https://en.wikipedia.org/wiki/A_Wrinkle_in_Time",
+                  "snippet": "Plot summary Charles Wallace is left behind, still under the influence of IT, and Meg is paralyzed from contact with the Black Thing after they tesser through it. ...",
+                  "source": "Wikipedia",
+                  "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_XzMXyZZC5J3UguKNZ9_ROynxu1GvPxo-Gn1sA1wTk-7Mq20OpPdaiwHHtkDcPOb-EZflJgKMBIz5mduQnJt1YYI2efOr6Aie4Sc2",
+                  "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 3
+                },
+                {
+                  "title": "Ancient Pyramids",
+                  "link": "https://actionpedia.fandom.com/wiki/Ancient_Pyramids",
+                  "snippet": "Table_title: States Table_content: | Expand Locations | Expand Locations | | --- | --- | | Outer space | Moons: Blood Moon · Moon Planets: Bespin · Camazotz · Core...",
+                  "source": "Fandom",
+                  "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7YX_7z0PWOU5h36mPX4sqsCt38B20x8quKNKE_am4fcJ6c5D41aKXddCcIH9p63aNb08AYF5i4NtdPohGZ2KXOCuccdlAdJvyfeiH",
+                  "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://actionpedia.fandom.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 4
+                },
+                {
+                  "title": "A wrinkle in life | Alec Nevala-Lee",
+                  "link": "https://nevalalee.wordpress.com/2016/05/17/a-wrinkle-in-life/",
+                  "snippet": "A wrinkle in life You can even read each of its worlds as a place in which Meg is forced to fully confront a single emotion in its purest form, from joy on Uriel t...",
+                  "source": "WordPress.com",
+                  "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlrRNyqHOIYyPtxixqfxaCZR4WaeKraOT9-V8d3bKJK-4GjdUEM8p4e3EIyTYQn_MisyoLxKWrEjWORzjEL0be-D_2AygphORL2geC",
+                  "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://nevalalee.wordpress.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 5
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "query_id": "brickspect",
+      "prompt": "What is Brickspect and who made it?",
+      "category": "attribution",
+      "results": [
+        {
+          "engine": "openai",
+          "model": "gpt-4o-mini-search-preview",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 115,
+          "error": "404 The model `gpt-4o-mini-search-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations",
+          "raw": null
+        },
+        {
+          "engine": "anthropic",
+          "model": "claude-haiku-4-5-20251001",
+          "response_text": "",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [],
+          "latency_ms": 250,
+          "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfUE9R5Jia4k91afY8ysE\"}",
+          "raw": null
+        },
+        {
+          "engine": "gemini",
+          "model": "gemini-2.5-flash",
+          "response_text": "Brickspect is a fully automated vision defect detection system designed for manufacturers of building materials, such as paving blocks and hollow bricks. It utilizes vision cameras and machine learning algorithms to identify and remove defects in these materials. The system can detect damage on the upper surface of products, including cracks, discolorations, and other imperfections, as well as incorrect dimensions. Brickspect's algorithms for dimension analysis are based on laser triangulation, and it collects, reviews, and analyzes production process data to help avoid problems and costs in later stages of the manufacturing process.\n\nBrickspect was made by Systems KSM Vision.",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [
+            {
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUBdNHFIjrKcD_Ufy01GWV4DgtAAcgVCclohrQc_6QYCPtBX9RQMgINrbLRVCpRIDTaW836_J8R6P6an94cnIZlrJG7nku0Dh3GoDYos7a0Oe94QKGRjil0TguOi4LMC561JmwSZx2sLwSOmmqYEg3rGX_j3ZFLjLcvNI4ZWb-BeVcDSJDfIDq09vnlduoR_8W",
+              "hostname": "vertexaisearch.cloud.google.com",
+              "is_owned": false,
+              "title": "ksmvision.com"
+            }
+          ],
+          "latency_ms": 3706,
+          "error": null,
+          "raw": {
+            "candidates": [
+              {
+                "content": {
+                  "parts": [
+                    {
+                      "text": "Brickspect is a fully automated vision defect detection system designed for manufacturers of building materials, such as paving blocks and hollow bricks. It utilizes vision cameras and machine learning algorithms to identify and remove defects in these materials. The system can detect damage on the upper surface of products, including cracks, discolorations, and other imperfections, as well as incorrect dimensions. Brickspect's algorithms for dimension analysis are based on laser triangulation, and it collects, reviews, and analyzes production process data to help avoid problems and costs in later stages of the manufacturing process.\n\nBrickspect was made by Systems KSM Vision."
+                    }
+                  ],
+                  "role": "model"
+                },
+                "finishReason": "STOP",
+                "groundingMetadata": {
+                  "searchEntryPoint": {
+                    "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGermh-P4up3OA6Kvhi4Yd9pI-zUK7skJOJHr36mlTbYKRRFXpzJAcQMATdG2NwysDBDFmaRl-d5gJwmu-anXXvZeRqbAslMERLjNlJ8yLKxyPteNF8vqF6-wXe_H5-bw9z3CyhPKLfp0y-tcjFY_PtCoAPXGoGYTbqYdifaJJe8mE3SDXYHzDUQ4KuYszQfoi0_EOSV4Y=\">who made Brickspect</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwhEjK3LvBKLJpHZMG4lWLMlSkFGQT09EdLj19gaNtRQ9-lE8Zxfyco6jQZe_VN7h0KgARQS8EfmsTVEIf2YSI7N5knpjD_2T6u5Aj9GEij7BlRbOU-7k9hMyO6hNUpwHUwEtLs-IZaN74ux5Fly5-qkygybVOkV7w69kyMw-6v-gBnBzbkr8EZ1QUq0I=\">Brickspect</a>\n  </div>\n</div>\n"
+                  },
+                  "groundingChunks": [
+                    {
+                      "web": {
+                        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUBdNHFIjrKcD_Ufy01GWV4DgtAAcgVCclohrQc_6QYCPtBX9RQMgINrbLRVCpRIDTaW836_J8R6P6an94cnIZlrJG7nku0Dh3GoDYos7a0Oe94QKGRjil0TguOi4LMC561JmwSZx2sLwSOmmqYEg3rGX_j3ZFLjLcvNI4ZWb-BeVcDSJDfIDq09vnlduoR_8W",
+                        "title": "ksmvision.com"
+                      }
+                    }
+                  ],
+                  "groundingSupports": [
+                    {
+                      "segment": {
+                        "startIndex": 419,
+                        "endIndex": 641,
+                        "text": "Brickspect's algorithms for dimension analysis are based on laser triangulation, and it collects, reviews, and analyzes production process data to help avoid problems and costs in later stages of the manufacturing process."
+                      },
+                      "groundingChunkIndices": [
+                        0
+                      ]
+                    },
+                    {
+                      "segment": {
+                        "startIndex": 643,
+                        "endIndex": 685,
+                        "text": "Brickspect was made by Systems KSM Vision."
+                      },
+                      "groundingChunkIndices": [
+                        0
+                      ]
+                    }
+                  ],
+                  "webSearchQueries": [
+                    "Brickspect",
+                    "who made Brickspect"
+                  ]
+                },
+                "index": 0
+              }
+            ],
+            "modelVersion": "gemini-2.5-flash",
+            "usageMetadata": {
+              "promptTokenCount": 11,
+              "candidatesTokenCount": 144,
+              "totalTokenCount": 396,
+              "promptTokensDetails": [
+                {
+                  "modality": "TEXT",
+                  "tokenCount": 11
+                }
+              ],
+              "toolUsePromptTokenCount": 91,
+              "toolUsePromptTokensDetails": [
+                {
+                  "modality": "TEXT",
+                  "tokenCount": 91
+                }
+              ],
+              "thoughtsTokenCount": 150,
+              "serviceTier": "standard"
+            }
+          }
+        },
+        {
+          "engine": "google-aio",
+          "model": "google-ai-overview",
+          "response_text": "Brickspect is an AI-powered automated vision defect detection and quality control system designed for manufacturers of building materials like paving blocks and hollow bricks.\nIt was developed by KSM Vision, a deep-tech company based in Poland that specializes in optical quality control and production automation systems.\nWhat Brickspect Does\nThe system integrates directly into manufacturing production lines to optimize quality control:\nDefect Detection: It utilizes specialized vision cameras and machine learning algorithms to automatically spot damages on the upper surface of paving stones and blocks, such as cracks, discoloration, and structural flaws .\nHeight & Dimension Control: It relies on laser triangulation to accurately measure the precise dimensions of building blocks, filtering out items with incorrect heights or non-relicable anomalies.\nIf you are looking into industrial quality control, let me know if you would like to explore:\nOther machine vision products made by KSM Vision (such as Woodspect or )\nHow laser triangulation is used in manufacturing\nAlternative AI-powered inspection software in the construction industry",
+          "mentioned": false,
+          "mention_count": 0,
+          "first_mention_offset": null,
+          "citations": [
+            {
+              "url": "https://ksmvision.com/solution/brickspect-quality-control-of-paving-and-hollow-bricks/",
+              "hostname": "ksmvision.com",
+              "is_owned": false,
+              "title": "Quality control for construction - Brickspect"
+            },
+            {
+              "url": "https://ksmvision.com/lt/ksm-vizija-ir-misija/",
+              "hostname": "ksmvision.com",
+              "is_owned": false,
+              "title": "Inovacijų lyderiai optinės kokybės kontrolės srityje - KSM Vision"
+            },
+            {
+              "url": "https://ksmvision.com/lt/karjera/",
+              "hostname": "ksmvision.com",
+              "is_owned": false,
+              "title": "Dirbkite deeptech srityje | Karjera KSM Vision"
+            }
+          ],
+          "latency_ms": 8308,
+          "error": null,
+          "raw": {
+            "search_metadata": {
+              "id": "6ab93e6bd23ff8b4d36d397b",
+              "status": "Success",
+              "json_endpoint": "https://serpapi.com/searches/6x-yCvQ25FM2LCWGCuCcV7pDXMAxYzijKqZu9PiC6Hw/6ab93e6bd23ff8b4d36d397b.json",
+              "markdown_endpoint": "https://serpapi.com/searches/6x-yCvQ25FM2LCWGCuCcV7pDXMAxYzijKqZu9PiC6Hw/6ab93e6bd23ff8b4d36d397b.md",
+              "created_at": "2026-09-27 16:03:55 UTC",
+              "processed_at": "2026-09-27 16:03:55 UTC",
+              "google_ai_overview_url": "https://www.google.com/async/folsrch?sourceid=chrome&yv=3&cs=0&ei=aj65av2yLMO3wN4Pz_emoQY&async=_basejs:/xjs/_/js/k%3Dxjs.s.en.O_vEnnLs6e4.2019.O/am%3DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEAIABAAQAIABAAAAAAAAAAAAAAAAAAAAAAAAAACAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAQACQAIAAAAAAAAAgCAAAAAAEAAAAAAAAADAAAACABAAQgAAAAAKAAAAAAAAAAAAAAAAAAAAAACAAIEAAABABAIAQAAAAP8Y8w0AABoAAAAAAAAHAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAAABYAAAAAAgwAACAABBAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAoAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAEAAAAAAoAAAAAAAAgAEAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAACDAAAAAAAAAAAAAAKAAR-AEEAAgAAAAAABAAAAAAAAAAAAIAEIAAAAAAAAAAAARAAYAAAAADkAHg8AIcICgAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAcyBJCAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqAhPAQAAAAAAwNYAgA/dg%3D0/br%3D1/ichc%3D1/rs%3DACT90oFNuCmhRjQKaFwZHQ8BhwI74hDgLQ/cb%3Dloaded_h_0?cb%3D121509378,_basecss:/xjs/_/ss/k%3Dxjs.s.EtuGIiTcEq8.L.B1.O/am%3DCAAIAAAAAACAAAAAAAAAAAAAAECAACIAAAAAAAAAAAAAAAAAAABCACAAAAACAAAAAAAAAAAAAAAAQAAgCAAEAAAAAAAIAAAAAAAAAAiCAgAAAAAAAAAAUAAAAAAAQgA0IAIAIAAAAAAAAAAAgEIfAAAAGAAAAAAAAOABDAAcBAAAAAAAAAAAEAAAAAAAgAAAQAIAAAAAAAAAgCAAAAAAAAAAAEAAAAAAAAACABAACgAAAIAACgAAIAAAAAAgAAAAAAAAAACAEIAIAAAAAAAAQAAAAAAAAAAAABwAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAADBAQAAAAAAIBgAAAAAwAAAAACAAABAAAAAAAAAAAAAABAJkAAABAAAAAAAAwAAAAAAAAAAAAAIAIRQCAAIAApAwBUBAAAAOAAIAAAAAAA0ACQAIkAAAAAAAAABAAAAAAQAEAQgBBAAAAAAEAACAAAAAAEAAAAAiAEAAAAAAAAAAigAAhAAwAgSAACJQgKACAABAQAACAAAIAARAAAAAAAKICAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAAAADAAgBgAREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA/br%3D1/cb%3Dloaded_h_0/rs%3DACT90oHazvpsLOjkmrYlfttH4RYo4ZLqLQ?cb%3D121509378,_basecomb:/xjs/_/js/k%3Dxjs.s.en.O_vEnnLs6e4.2019.O/ck%3Dxjs.s.EtuGIiTcEq8.L.B1.O/am%3DCAAIAAAAAACAAAAAAAAAAAAAAECAACIAAAAAAAAAAAAAAAAAAABCACAAAAACAAAAAAAAAAAAAAAAQAAgCAAEAAAAAAAIAAAAAAAAAAiCAgAAQEAIABAAUAIABAAAQgA0IAIAIAAAAAAAAAAAgEIfAAEAGAAAAAAAAOABDAAcBAAAAAAAAAAAEAAAAEAAgQACQAIAAAAAAAAAgCAAAAAAEAAAAEAAAADAAAACABAASgAAAIAKCgAAIAAAAAAgAAAAAAAAAACAEIEIAABABAIAQAAAAP8Y8w0AAB4AAAAAAAAHAAAAAAAAAAgAAAAAAAAAAAAAABLBAQAAAAAAIBhYAAAAwAgwAACAABBAAAQAAAAAAAAAABAJkAAABAAAAAAAAwAAAAAAAAAAAAAIAIRQCAAIAApAwBUBABAAOAAIAAAAAAA0ACQAIkAAAAAAAEABAAAAAAQAEAQgBBAAAAAAEAACAAAoAAEAAAAAiAEAAAAAAAAAAikAAhAAwAgSAACJQgKACAABAQACDAAAIAARAAAAAAAKICR-AEEAAgAAAAAARAAAAAAAAAAAAIAEIAAAAADAAgBgAREAYAAAAADkAHg8AIcICgAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAcyBpCAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqAhPAQAAAAAAwNYAgA/d%3D1/ed%3D1/dg%3D0/br%3D1/ujg%3D1/ichc%3D1/rs%3DACT90oHu80T9GHl8DlFdKYfoY-YV59y-kw/cb%3Dloaded_h_0?cb%3D121509378,_fmt:madl,_id:B2Jtyd,_mado:ed&q=What+is+Brickspect+and+who+made+it?&mlro=0a63UwHuMoYs7S3VqfDXrnQOZVAZhwglKKMOsIlbPMcifsUWzeTM5vSQ-DPlfQuRw4jsG5KtcsK2Aak_ZAcZ3qpyMHpzhd9jhOMzJyH51di6FULdQv_LmZB4emPR78jrg2k6qi7anSrdcazrCw&mlros=r8J-kUgi7y8&mrc=CAA4gANQAWgAcACYAQCgAUaoAQCwAQG6AQEB&sca_esv=435e542d00b0fa3e&mgtyp=44&snr=1",
+              "raw_html_file": "https://serpapi.com/searches/6x-yCvQ25FM2LCWGCuCcV7pDXMAxYzijKqZu9PiC6Hw/6ab93e6bd23ff8b4d36d397b.html",
+              "total_time_taken": 7.44
+            },
+            "search_parameters": {
+              "engine": "google_ai_overview",
+              "page_token": "A7BkB3iczVXddqo4FH6AeY7xxlZQUbFrsboSpBV_qtjaHrxhYcCAgChBOXo3DzFvME81T3MCiEUr7TnnYtZs1yIm-bKzs3e-fH_949or598__rbCcE3uGCaKogr2feyaFeR7jE72K8QsfJcEyLon_jZApm0IyAp8zyztd0K9hIjAlkxb0JfNhr6r7QfDUT164sYHzfR8RS0lLgRtrhNzSXf4viSMxtCP82e9QzsVUjFXlZG2k1arAWmaXKXGVtuVEaN7FAD-Q1MkIANI27QpMhEA6WtnMUQBYuwrMyy-T6XWSf3Fe-JkoF-4pRyvgvQnU7fUxrzKRywd8jNQtzAWKOc76jGaKPELYRLoT9vJ1XHfTxJVlCbpzAGN5AxYmFvx4jLQXE1ugSTFDj6GIgMpf2owASA9eMcBXcwDGcki_iT2eAHaw54ITv6LbAOscZbC6EmlcMbA9O6yzDygTZWxkYWSPwGJr7T40mb9h6et6FmTpdLXH6JZV-GhFcktzurggcKgOcW5vm6YhmZp7H3Sr9aqDbZdb_E3CZcQOZGJ5MkkhdtH2X5B0oavDCqwmjFJPNVOPA9fon1RBh8NikeoeDmjpJc5K1VusS3mszXN8BiwMpDzQIAleRG3j9nACEBaYZSvYrYBBikrT2vFK6Ajk5Kqymkrvy8_QaRcGGf3HkaXxwQfS9-B2SIZpnPR0e8HKkDQc_Kj5-5pFBMlrckaRHCawEbvuWSTt8PJeTtGLNFswmNPOtUmTYKdZ49N47PibfEzhfUU3E_4HscvJgHEVzyxvnxR4Qm4ZrQ6mB568hOv3xXzv4bEzDlS5oIBeeZ09cNuTQajpeMFqrsIwy43UX1uNtgMlOtM8b35L-gO-n9xKVOl6VGVirkkfc2l-LH8TJWSz7sqPadc6hdzKX5kr6kSl4FyqnTBJTjIcclKHueoSJV-lUvwEy5Jn3LJv84lp4hLiSqdc-lclc64dFKldy79jiqtf1OVEmqZaXMuUdslLpSq7pZnX9qPXZfvuA9GX1346q362mjvb53oS6laeOGdpxvujWYbd7DWC_fGjUYH_DvTKG2EN0sPyzYpw8BGDlmbKCzrK6McWX6ZgsyyHd6XPDfwBVZv1qdRdzv0VdJ6rr9uFp1vwUoZzV7BzIqw2-8PR0R25-Mhshdk-nYwX4aN3bNy2xm7C2U7ibgleWz0Q0T6NaA72gygWX2z3g-764NltJfWaHjo7buNqmE3H6YDQ9lpA28GOdMbT1r8MsA1p7mxW_rqOTCQfgjEKImLCAHfu3Wm2G7t-ZIXIIGWhsPgSQFvGCAgqkChFZ3qPm0joDw2KaFhiSBdM8lO4OoNs8HVDJadswu9bpY8HO7XAseVyCoQqj8Ao3lKoQ"
+            },
+            "ai_overview": {
+              "text_blocks": [
+                {
+                  "type": "paragraph",
+                  "snippet": "Brickspect is an AI-powered automated vision defect detection and quality control system designed for manufacturers of building materials like paving blocks and hollow bricks.",
+                  "snippet_highlighted_words": [
+                    "an AI-powered automated vision defect detection and quality control system designed for manufacturers of building materials like paving blocks and hollow bricks"
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "snippet": "It was developed by KSM Vision, a deep-tech company based in Poland that specializes in optical quality control and production automation systems."
+                },
+                {
+                  "type": "heading",
+                  "snippet": "What Brickspect Does"
+                },
+                {
+                  "type": "paragraph",
+                  "snippet": "The system integrates directly into manufacturing production lines to optimize quality control:"
+                },
+                {
+                  "type": "list",
+                  "list": [
+                    {
+                      "snippet": "Defect Detection: It utilizes specialized vision cameras and machine learning algorithms to automatically spot damages on the upper surface of paving stones and blocks, such as cracks, discoloration, and structural flaws ."
+                    },
+                    {
+                      "snippet": "Height & Dimension Control: It relies on laser triangulation to accurately measure the precise dimensions of building blocks, filtering out items with incorrect heights or non-relicable anomalies."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "snippet": "If you are looking into industrial quality control, let me know if you would like to explore:"
+                },
+                {
+                  "type": "list",
+                  "list": [
+                    {
+                      "snippet": "Other machine vision products made by KSM Vision (such as Woodspect or )"
+                    },
+                    {
+                      "snippet": "How laser triangulation is used in manufacturing"
+                    },
+                    {
+                      "snippet": "Alternative AI-powered inspection software in the construction industry"
+                    }
+                  ]
+                }
+              ],
+              "references": [
+                {
+                  "title": "Quality control for construction - Brickspect",
+                  "link": "https://ksmvision.com/solution/brickspect-quality-control-of-paving-and-hollow-bricks/",
+                  "snippet": "Automated defect detection and height control of paving blocks and hollow bricks for construction material manufacturers Brickspect is a fully automated vision def...",
+                  "source": "KSM Vision",
+                  "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4VzoQExEi2xO8HsnNgeBFeo_O3tmHMJPK899ivYOQgFiZk0Lf7dCacwMC_A74quk10wlJ4wQ1OCTQivufk4FQfEY3a6qLvc1fMg5p",
+                  "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ksmvision.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 0
+                },
+                {
+                  "title": "Inovacijų lyderiai optinės kokybės kontrolės srityje - KSM Vision",
+                  "link": "https://ksmvision.com/lt/ksm-vizija-ir-misija/",
+                  "snippet": "Nuo 2012 m. optimizuojame ir automatizuojame gamybos procesus teikdami dirbtinio intelekto valdomas optinės kokybės kontrolės sistemas.",
+                  "source": "KSM Vision",
+                  "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQo11tsOzMv1aDOdkA93QRGIxhiSfPapm0RMeYkfw7P5tiglFhvSkIVbl6ro0ZLxr9myJqeArV2nc34AhzLUz993uuA",
+                  "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ksmvision.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 1
+                },
+                {
+                  "title": "Dirbkite deeptech srityje | Karjera KSM Vision",
+                  "link": "https://ksmvision.com/lt/karjera/",
+                  "snippet": "Woodspect – Medinių plokščių ir juostelių kontrolė · WoodSpect GI – Klijų paskirstymo kontrolė ant medinių trikampių jungčių · Brickspect – Trinkelėms skirtos kont...",
+                  "source": "KSM Vision",
+                  "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ksmvision.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                  "index": 2
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
