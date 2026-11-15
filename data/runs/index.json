@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T17:22:03.239Z",
+  "last_updated": "2026-11-15T18:09:14.328Z",
   "summary": {
     "share_of_model": 0.15625,
     "share_of_model_by_engine": {
@@ -299,6 +299,16 @@
         "gemini": 0.375,
         "google-aio": 0.25
       }
+    },
+    {
+      "run_id": "2026-11-15T18:09:14.328Z",
+      "share_of_model": 0.15625,
+      "by_engine": {
+        "openai": 0,
+        "anthropic": 0,
+        "gemini": 0.375,
+        "google-aio": 0.25
+      }
     }
   ],
   "queries": {
@@ -472,6 +482,10 @@
         {
           "run_id": "2026-11-08T17:22:03.239Z",
           "engines_mentioning": []
+        },
+        {
+          "run_id": "2026-11-15T18:09:14.328Z",
+          "engines_mentioning": []
         }
       ]
     },
@@ -641,6 +655,12 @@
         },
         {
           "run_id": "2026-11-08T17:22:03.239Z",
+          "engines_mentioning": [
+            "gemini"
+          ]
+        },
+        {
+          "run_id": "2026-11-15T18:09:14.328Z",
           "engines_mentioning": [
             "gemini"
           ]
@@ -873,6 +893,13 @@
         },
         {
           "run_id": "2026-11-08T17:22:03.239Z",
+          "engines_mentioning": [
+            "gemini",
+            "google-aio"
+          ]
+        },
+        {
+          "run_id": "2026-11-15T18:09:14.328Z",
           "engines_mentioning": [
             "gemini",
             "google-aio"
@@ -1114,6 +1141,13 @@
             "gemini",
             "google-aio"
           ]
+        },
+        {
+          "run_id": "2026-11-15T18:09:14.328Z",
+          "engines_mentioning": [
+            "gemini",
+            "google-aio"
+          ]
         }
       ]
     },
@@ -1235,6 +1269,10 @@
         {
           "run_id": "2026-11-08T17:22:03.239Z",
           "engines_mentioning": []
+        },
+        {
+          "run_id": "2026-11-15T18:09:14.328Z",
+          "engines_mentioning": []
         }
       ]
     },
@@ -1355,6 +1393,10 @@
         },
         {
           "run_id": "2026-11-08T17:22:03.239Z",
+          "engines_mentioning": []
+        },
+        {
+          "run_id": "2026-11-15T18:09:14.328Z",
           "engines_mentioning": []
         }
       ]
@@ -1486,6 +1528,10 @@
         {
           "run_id": "2026-11-08T17:22:03.239Z",
           "engines_mentioning": []
+        },
+        {
+          "run_id": "2026-11-15T18:09:14.328Z",
+          "engines_mentioning": []
         }
       ]
     },
@@ -1606,6 +1652,10 @@
         },
         {
           "run_id": "2026-11-08T17:22:03.239Z",
+          "engines_mentioning": []
+        },
+        {
+          "run_id": "2026-11-15T18:09:14.328Z",
           "engines_mentioning": []
         }
       ]
@@ -8033,6 +8083,294 @@
       "is_owned": false
     },
     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVW-QnrERiecOuwpk6JjtddUoQGzHhpa7OBs6DAgm7zsMFad1sgA_sSqYBzGDSkI5EOOmnJdQqDhh99_UEzI9VLUWWQvKAq0QLGfj9EmFJCh-I69mCyHvM9CCGWftSUoibdauom9IZxASnw1oW9Huou6zAkTKzcc9gyA6rXHmEkHmHJjrUpNV7CM-8RsgQ5LyoPX6krNeebIjD": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO0UUo6J6_EeUKDG69Hmw0mdcXHr1T6zw_GpwEQAcADu4iyXi8dXJZbDAT0qS06toPK0LrlY6RdEKd6vod4KckPKGZrhgf2UICAs4dfn8JgSc=": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo6a_nZ6o_xAMw6Fa2IJHOI-At3CwkM6QZuJvJE2P9hjDfZUpnyDmnftO0YkjPRrV4GxoBYqTeeHt9gMJkkkaoRbzsMsb55sSmCTNuiSkfsls3s87VdAFX": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2mJg7vgU_d0Vyj5iIY9dKzMkA7BvZViLdb3QhDqcLViqb4HDN1dKVUUH2QBVKBmmOkptmn-KzjgtCVuJVn0x4B70S1WA81zdwoS7LV_bdLijD6xEnb5nns-7EOAw2uc_HjnP1kw==": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAuCiXOlYB5CbYcfXz-EZq2ylJEO0sWGkWuGb9t53BL5Uy3q4msyjdeVxCNIuV7K7pdmPrHPAnGGUlD8xLOn-0slM2rA9-ALJ8ORgrD6P2HNXM77u3iZLb": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfX2KoW8YYedKRSwyreRVzhQR5vZk5BaBC9Ghc3VIgdfhMYFcHahsSHC7IAyhfA77M1nbMVhBe0gT2uk8qBEMJCQt6UEb5GE7pWIL3z7OwBUj6OMZUSWIkRghq6_bC-eMDE_ctcTyEadcuIVfKImzDOLUxhtzixbecRWFitsdiAglfh_MNFcaApN0Jjmd6dtKYnJxFpwQ5tjCB38nIlw==": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESbQHEIkXXZ701OfY__MUr40KToVA5Pq7csXlkzgG0WvcCKrHcTIUQNmvPVSD_lmNM3942meYsSY7HXqktbfM-QhwOdeudOsukK_kSYwt3xxv8hKBg8d0Dgq2FCDlCVXsDjdIJvuAKwnCWm_fAbNw": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESYwHEIkXXiGTsUIxDAeEQ64qDQsFlshECx04PgIciuxzZEg66LIQ0c82nZSKVs4Q8T-jmWQcJB2c3qReHyN-hpl4wOvnIAGYvxQ-tnGHmAQRsAt9NYCK8k3JdZk7-5B49le1U7A": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESbQHEIkXXqg-58mJCC1xFxQZzD0iPF4Vfsplr5hFdMMghagFsOFZmXtAm8mOl5Ceb5fNjBY_Cm-3S_GkZkoO7CO6-AbtECFkqWugjFHo1zEQDV1RaAJtI6rVRitWy8vuPZKT2wkF-upNQa4fEBqg": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESZAHEIkXX2T6yC1ZOAYTIuacsHZgbTvyT1RKrDJP9TjAtdfV6-GnXxeyKHSFKtnrJq7HXAIF-XeSjcolefzAuiQOb3MTeZ5bOXvNuL2gf_sWYerqOFU1YMadyF-0JRdeVllGA_4o": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESVwHEIkXXsV05Bhql9U7V-tzQF_c1WNCalmU8wlVVZLNggWkntLVvcvqMs3s9kXDRp9-aHdkTh9YdNjTEWB_HGtQfkVM2_mWguy6p_oA0_084JBuJgPKScQ": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESXQHEIkXXlC1no9lxkeXGe5VagjIcYlpC8UW2M15XLVMxTgfsuk-zuMtbxdANtgaAmNZtf3QrsWFKGkVPIsHk5dWHJ3V26DcOj_55vhd4YhqOrZXzm1TDHDYQ0Tt85Q": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESVAHEIkXXyE_yHJiA0eys_K-9B5UF0Hx152QDgBb70ygzyQk36rJ0q5HtX7XDJsuNaoJ5rEAlFblm1iHWO-twojIn7dtgBa3D0eZGPG1mEC_yiDFn9g": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESbgHEIkXX1DOgHSm8_OSHuI39jEipxNgUPiVgxe5y47V5VZzTn1OaeqjCkbbKsC5ICP4LruRBFmmDOyq82PCE49QPXNPR7tKE6VpJR_tYr6gf3azFkLU_CvowfrUmVKCYzoZIFaLp9S0c4-FlMv2-": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESbgHEIkXXm5HqPy9yB8ZJsLCFUboaRPLNzR1QjgXbAt9uJbQSG7DGnUP__LEKF1ySQwt_PJlYgx_o6Q8c1hpcj38M9cVF1hlCONozM6Xsh3SDOohS5KQ07m6VBPIE7Gze2GgiVBIleVnWalpN8Sdc": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdoHx483ROSeBfuajjhDoAi13u7gGDoNBBe55B-lbbUrLeBK1O__UkYOsVBnaq_H7Zw1QzGF4oejI3x1G306l2F6xCI4tU4qkn1mxi_CSvpNCOGj4St98MtNg49WYxl47FNklYT_iLmFJpd38UKgiR3ZjEgFSwdmc1ppnZpWfQF-Yef4Yo5OLQRjWIZKKluvBC21vEcMtJCcwPQ7cAPw==": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-VhlYlubGAayUHzujiepenwsc1soSq9bGoLZIG7RIosygc5z73Giwf9vi1LufjfiHEqC2yC9bHPNPBm5N4jDmfCAP4uhRUSWmxroPsuRpWwA=": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrt3hICbzkmpU-PsZl-2mvMX-m6ECovTUnsewpPsbwgoorkbiTTn-hU9wcJn2QQ2Z2wQkBinEsc7qX1LLHvTw3uuDGC3X9n46Ud5p7NGMpPr13qjlt6ok=": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6cgwRKGiE5tf5APPJgcVZ2kzhIkm_Jvzz1O2q5E7Dkv1C9M7QMLsP1gFQfq1BSAbOwOW2e_UAJi1_TYQA8OIW5S-NGAcLNpxZNexHWHbbhs6ugV0h": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFyGA0o7F5xp4r8ArDtBDn-V3S7j0uAqROamXBMZ_wP5VS_i5UdbKcQIY8wA_matkIRdZWApViUzlIqdDNCi9SPQEvdaFyeiw1JGN1ggpdONOCGI8ABBMz7xt415KFu2W3MjWfR9gRDYEN9ICZ47enYYyZaLLC9sv9PXwjv2kd98h1zFEYDHh-BAmuphggc692CeScK8pU2uLfAuZWlQHek13i": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG4Gy8jet1qy3K74BRnwli3MBvFQV_R9V0HvgxGMFiy_gsXXJ3_a4CJUesQ50oNOQVzbX4h_1L-xGEivoks7fYCl1UutAZMM1k9CnMxQxPMG9KmxOs_A24Qyf0DRW0Yay7W8LIPEPvk-8y99LwsaNjs-zO7hPG0Tlu2mjciq9X5c2RoPfwwNWMy1-AuKvxA7AF": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEynL4fm5zx99n2RU-OArTvpSHPIbhYOYLRNTdP1LQDWi8iPHXVjoBnwpz_-0femPgus48rvufo1EjjCnYfTCjJcIptzg-jaXi-ZAr0taEmQAp9EnK_pmMkZiFNMnqxAhodh-mFwO09r_KH9QA=": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoeBLb2Iqfj43U9i1qPqFHuSd2lHBg6R7XmWpRZNFXxvwcVbmOiI_5LsEFgH2CcmSeydimxU7Bz3Q-61mIVZfTQI03EQsX_7e2MnR95LWMHgGvUdL4cVDBmM9Umt6siHZkkQ==": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9taAZq0v2Y3tqLoAdsmyOjfY9Q03Eqxls4XpA8CvEppsm255xhAqmuwGUYDgwNesT5Kxr69SIQHmbW8V5Wov0eh5K4UUrjAQgMFH7oHaGWI9QMTiPSn-JuY01xdOP": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7XMXWjvW143jomQMkSw0HXQWec82xtNbuVIdwPIIx1YQtqP1MfiSJSvpYKqD7J7H90Cy8ZTuEDrfRXKt_VdTQ0QGnucbe_cj9Y2o9Z2ClG6lTofrtO6YS--Wiqz2t": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnM_y0lDxV5v_JpZWaEITlm_91LrzKOcug5BPI0AcGY5YOq_aSlQfYECn2Nxn4lyP4tKWGPHN-mOHj4z-67AgrocjnOgrXrv97NhkHO7GGv-tsoGq6UX2UQ6cM14JhqA==": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKC48TfqFVxdufvm2ZS1dp2KTnMW52UtJ_1dhPTZaCz_NFM7GgGse3XnU6J0Y3MMoYpemJChQdkZTcqrqcPQmrcfGo6RHikrSMPntLPqoIVg7j4nRZxDQ3uaQGWTBOwBNIBgSZDZQa4fYomHaEJ4evjUNUZv9wT2etSdG2n-NNpazidh4_wg==": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKnGsPQG_LPAvn44zItuZJQqymmBB-n8xy0sPdUXDhk0UnIL15eLuyCINvC7Oz_twlPyRuzaRvg8-V6xVoQDnVgSMjcTL7_rDguzVs6KKt09g2UuN4JgwGKocJJ54U": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoEDO96Usw57RxjX7-P2k3XDtyCah7fHxSFl7mCCMhIx1N2h3_nwnZaQl6ByXPNjsryI09jiJ-1fAZj2juIN8V0JDwR_ts6OQkf7vJh2RGvmj-hYi73Yn-NpQm1UzbTRbFR4oHQrqs": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESZQHEIkXXiimHHuxPE8sGnIofS0sz9CSYWIv413KalWO4qxrN9NzVDsAc3YOVa1aAbJJtLPwl6HM1oq5dvDgdos00oVPzl4byh6As_yY5lnIHMDJyO33_N1wjMa0lhQqrtY5zUT0r": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESYwHEIkXXte1eYMf8xhd3HdhE3fcpm9vrWlANFg1gkuIECQSF9cLQov-lVa3bSK6lXgwIdX9slh602StTviFGIGeIAZbBLavZp9dzMB6WW_g2zsrCOuSVn89ivA7Jz0qocQUDVA": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESbAHEIkXXO6ZOngll_KtPrK5Menh_-c97uDW_swptq1dOwzvivYb54d_AsZoEIhobroaBxf57qje3e0Bw7603QZXuIEmWMz-z9WkzCTTu6uvuYsLy899uG-NHA_EkA68DST4cTEj7FRXh91v4OA": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESawHEIkXXL51bL6IZx7fC1v3lEQ9UeYEEsw735_n2VUNBMYZesIRqP8D9S_k_DvKx5lEo5gFrxSocXFCVRzom9kwmsfsDmkXma5oParMNkl6Crq9hEw13vSlkIY6QL4aWL-uAexx7VCJUU5Jd": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0pNGSaNaWTRRlgPf4kmnbwYaRrLvD5_M1vgxIzD-Qw2nBBzLQtAltqYwVZQX9RmXAMtaUrYBC5aOodNKMQqBs3aOuWtqZmNf9UpY9vg3dcmgh5Sk06YWD": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp6BykPabA2mNV6Zm8yLmieFfvuVOznsTN6uTQ6D1FsIw1CEFfSuzLAvNyJS8GeM5onnMbbstnmGx3Gx0lJpS6a5rkJkawSBiFvFAPBjkkz0eO": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWj6yXIfYin1FW4wGFJQ6aMYNQXDAKTISVPH_O2bM26BiKVCjecZCZQB9qbW4TbMLwKNNTKAJ-5VZLalZe47CowgXSb2VL-YO3IoWEjF6hKzCYTmGbNlrVgxcHrHo3clWaMV55dylkSehk": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKpejuKiRjXqZGIAfmPUDTeyAdeEsEfb07Fc2n3UVn47N_acOh7a4tWfrlJZ9Hhgnh1rqiruQllC2CzBTNk1DKAl0NIeBT6D93qXtrgBlyiKwmk9rUWSwLZp5X4J7Mr436MZoGEw==": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESYwHEIkXXWLYrQNq_ndDzuVrrWFTKE4xhgIrWcM9XUC7qfFiZOKZdt8P9JYwssbRnXVvmNdyG_eR02RXurvH6-eVo4efOMjfgSM-ejEALRFQjbp9-d1T_CphlmcLQut4XeqvRZw": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESawHEIkXX_GVfzPpvcdSlkQ1zitau3vZFLpK1jamEqVXb2_HCu22PLeqv2tqBTUsFcXv4Twh33G9_VRAu_HKqgQ7w3X72Nqgk4p8PbfO2Xc-BHMT1vnFGRKMg9vWwwfqr9SsC_SHSQCJE63dW": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESZwHEIkXX53PzvjUt3qMNFbepPpqrBH58uj6vx81x0OXyzV1a3c8S_kyWOTE7gijWQbiZqRQmkqgdEDbjyEuyO15B55FNIl67MdUI3WmKROa0fHd2RZleAHL6_R6IlouwLZa9O8gB12U": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAEScAHEIkXX3Df7UGoFdUMFBu3LnYqOMr_Kt4vYS_fBYH_e-37mh1QfiBdPPQliJQPdzGZ36rvDEk4ARl8YrTcAXc_bmiqxYgqE9AGgvuAgzs9dAu9kLexTdoRD1JIpuOhtQXaorB-lxDQ4wjHHpsVpYzA": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCBbsu2Xzk-ch-Wt25fRyQaJB0xZGnB6eq5ZOxRWgbHQxsRgkYmp-0yyUgq7N8FZELiQl0lwtvAqQxdY40SPSX-YTTSv8S34n3qf7Aaue_j652KVD2a5_Kyp8Uk_lc_6nK9h2ds48zm3wrlK1B4-Li4dGLn8U9R3DQI2oE15Ynd5Ct28a4JBG6FUmX": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwnDfbXuGic35CbdHUBAD3zYrh44WRsrgjYBNNfHr3XeIXoJ5SnVHOtFvXxBRygcLIQdg8ykvxzHIKpISvh5K0UKii3ALH7GFg6lKKgXSAEh9acSNMnKXlDX5gEied3x8SxE-kdw==": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzLWbilgJkXG8ASJzo7fpYtC1LsM0s7iGjXxrXSbCA7c1Y5HcC8i50qzelgTDvwi7Vtb3YKrPZc-sYMAbpUxl6n7efV_d0QtuoHdTEOZSuWfcimUwN-GnZaOQ7CW-CnbYfG9St6Q==": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkWvPincom-tzXBP2Sf4UNpNt-s8hggREZSPjIKi8gapFFK_tcoZJCvvvdWC0SnM0TwRrklkijJ3T6GzKvNp5MMtrjCS2OEcNmlx_BpQmoJY6kUXzWH_D350bipw0NKnx32lwKVsajgmmL8GEbmd5iKQ==": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESZQHEIkXXVCY_0CB5tTmBQqbyLWb45TGbTMe1Mnyk2wHg0lzENZlPRl-7PH-AO9NUhr8g-_OZe41qVsSTWp0xvopHSyawVP1-fBmZ_BkjKX-Q2K3tKKx5eNAjf_17u0oOEuk8KzKw": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESaAHEIkXXn3dA3wRls0w_vWnYhvoXA9SguW9HfrICn3V_mdmKBezcc8e1Pcl273M6x7IYRNQ_IwxmskShQlSPR7aKCbJ98XFSA3NjIq3XofexMpdC-WuoaG4hqcOLRXtEzK0ENVx-_wSr": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESXQHEIkXX0ej4q5jqAgoSi17hT3ugnLJm21_VH8sTbv0C2IGFa2nbQHIDsPWXKulMN_IYKlVnqFNuJdzVKLtNUiCgac_pjpFpqfeDUVjM8spmbZLOGJ8ZpwlGOfMkGg": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESYwHEIkXXB1b4d97rfqLJQTrCyGP7YNIxSL0xWWFYjlgR_L8KHLStpmTTbwomCJK4Z8tXiXO1ehr9Y8OMe4JKGz7vbEKmfd_Ed60wk91iWPZln5EFl8Nzs-KA_OuFjfy5Qse8qg": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESgAEBxCJF1wV2lrZ7kzzcTdcg0wXfuZayKqp-3jNOApxfXBS_K4lvOqykMZjx6-GBnV2ZWOvGA8Mk553XCxQKfONxWYxeNXPPkgGccG57x8JXNGNnvdr--iU7I7GQzSJcBXHcNYryqaDIs_xy5ZgLPzx3jPdMJ885yP3stQpPrqfJfw": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMU77s-5WlHu-O8wAsfXSD6fLEmS54_iwcPXws2s_1lHTphNuhCW24eUcThoQWnuCbcRowNAP9IvkeA9d3UCefr4jokTEjg-MQdJF02wftJ5i3Fs7qCXYJ59r2EFaGvEU06hamRl97LDwlpKs1gYT8PAQ=": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESdAHEIkXXRnKFWc0F0NzPI3rxAvyWH6XyCQ3YAEzyGmom5mRRbPDbl4WuGxXueeTHRTgDfL2nMy_3d-Vhfbaznzkq-7zkal6Wmk_LjEWiHzCcncnhu_5W-eho9xIvn0OrlSf4q2RJ5RFXzGiIz63ZnLaASWpL": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESXgHEIkXXGit0FBa2059vmisVbFgTGQ2avZFwknHpdr_dG1TBGg7B-c0mgyvLL8w-IUOUc90r6mjonZomyoKBWNFG4g6JYJcYX9obMQJX1bVKqV4CIT1_49hcOXKcwWA": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESbAHEIkXXcB9yCYlqSQU43mw4z2w9WdHr83ZXYO4eNP4E8Ee2XrbDo05NumgAdLRdDB7SEdFFioreOF54H_IcO8ve1ZFkbXOznYWnG_w9WXFLswJVN7lER9x-apNF84vZsNzHjlHkWObyuMlr-A": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESaAHEIkXXc_eCtdoZe2F9c1loOJzKd5Lrz9PGPwGXp0qry6y_zRLb7Eh8wnyDy9RbyyhWvKanUBjmZ3Hfd0E-fVTwrvjP8BjKyyPwvTuoiRq6K2CQvbvcrliP6omyqTplZFpTaPCsKxkS": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAfiEI0h_-aKUlwOYi7WOwdg1LXdPHUwPajtHDpaP_Nh1wq6OjdJOMB0dmeLPbxw18GpfpyI8dGazPGpNJ6B5P79fH-Rhx0mQpSnryZ1MAqLeNGqpzl3EOqV2JZEswZyCbAZQ=": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJYpLH3oHv3TTDJONbyZkd-kag2p0z9cyY8_JCbQHbJFZrteUIO9xf2YiSUxsKOmqb3nZU3ORb5VPaEldko6Q2S5vnzfwlvzXv72XnESm5Ur_y-D6hl4WFnf2KLqOZ-1Am": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-Mq9eq6ZRHOIkcR39iGUdW0GBsvTCcYxn82s2ZBK4hIUDBCVlEb348jUFj6jJFpeWS3OEeg8esEnGfZPtfUP5iuS8xU_12i72eAch_-OSVZR02zEChWYxcNCmQqADcNW5fI0Mcyl7-Q==": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5iKAPTQzwXC2sSDyaUxaLx88lrQF8FnEFz2VNyBoXnhQuJiL5uj94uLt-RjyxlYAyhiQruGHWQuCIKUNyDBh1AXjFZIBfejIDsNVNMNsDqPwu3BQAaKTE-gUuv0G9rRj1": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-d4TcCEHDjUxkRo4V5QOdIuVCierrfxFRtxkLoMgreb8fFp9npxHQGOh6PuPww87kHUw2dOizVeg_Ud5tS1i83sw9bQdOvR9u_CObFB0bHCiWk9WTQtKuLUDo8HkCR5Y-Kp60YICEkgIUeseZ9fKmBXpuFo5lRB-20D80vaXfk6jTThycgS0NgYY=": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1YAauq-ZTYqBGiZ7SaL62qVxK6c26eHq6Zv14xTyzGLI156vI8Lbm2oLOHsJ6VV6bsnmNIPGa_O6-E5SVqa25U4xFMAwY33cIjrmwcje3XaCkBIQwAQFXHqyE6P16_S0jpsmKU-3pyB1Y": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESYAHEIkXXVM-pPZfsQ9C2G0vY1GMm8sqRB5qV2RRGPVEzWg6pgVBv8SMEnFQpEUm5KMGfZmgqOiedz2UOdfflkFdP3_9KxXGIGzQI1g_GF7iDMQefn_6IsSRvnzDpL2NfVg": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESjQEBxCJF17BjHT4ztXDRJO1l4qGwjmUyweFnt-87dLja_1u1C3GC9DRTz_LaVM1INBbJh1rJ54KDtZYxfI-FZlPirR9D6hOKWrch-ADujzgmnmZL6GQYiazo3XfLV3tDOw0rsdr6qbidSp7IYBPjZXALLLfu_IiAaaN0KcVu6QV2zT6qRe_Th4iF9SuQIRg": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESZQHEIkXXy-DLo2HOx1trqdBmkmqQERfLow2c0TrqWy3UT31GRqS78arth62ITi4VJqAzGGEjsL57nTUVMaqFaXO2Z3ggg_wcaBuFrN4LoJM7WkNUNFmw4BQ9kN9p8YU85hsan2LH": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESiQEBxCJF17HAmnyrcygO4ax2VXAl0KM5lm8DoJVpSGUjL9y_VX9_39O9Mw-oeoXtsUTVbjunrmomjnh2ifDZlg65CewyqqkVXhz2sw79xz0obkjfYqXH-ZSClX9EjNHb4NwfcPm8hIKu8QbJuOMGT-sWVsBmvzWsd6lo0AoAJbk6TnuNgP-UfdV0iQ": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAEShQEBxCJF1wbKlw0Ll2_HNfkY5MzWhWkyUvNk_JjOApotEMTn85Hy6H4LfBnrWIVWqjgs5sK0sTeJri-tPcKfRjk9_DNuT2CRHCptaXSpaKS5laDs2xBSitTR6Nu8-L5CiChQjjBZcAjTRPPTTlDZsXSvV_PT96fswfbsmPBKfz6FomhP59lK": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESfwHEIkXXyJoviKeAbKP8WZ6kotQjIizXWky7d6idmRsFrDk3GITBNHbuFdYdkA7ygKaVu3UNrEeXIA1rnH7PSKw1-Fz4_qv9nya9NvRNQpOrrnQQG_RNrHTBAuqcsL4y_KcJS1ZJLk6XuVebrRGJI0Y-3qiyNfqoQR3ADpPDzY4": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESYgHEIkXXCUJRAYXrj1t9ZDH2OnhJjL20Lr7Ob-IvrwUmGlzUCsAqnsyYETX6El0DmKG1xZUBrKgbAAkfiZMWTsBS-rCAIUF-TclCDfsvWfqMWiGOGNQyW5w8Udfq3aFAfCHK": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESkAEBxCJF19JvE5wV0VAz8irxL7x8_mX3AH1VXeLLhAA0s9uVzdgMawMY-NeIoaUy2lNs3Pp80qBrAKDS_emvEgYwe6-B0PeSVEfjXbU9PXAfPGhaqQnKAYGtgf1XEXr6Rb3QmLir8jouyewK3x3JmgqZAVVUACPHoRb780qlvezRjFQOf6tHFW5YKCSzUgjkZ9I": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYDbhjkfT5fHAllluTUKlEQmHy5AI74fHaz_7_zVw7-aN_8bgMfeSOKyAJyrVm-KbcYg7qBkPQQS8sh69oJiQo0TrMeRNVsV-EZ-gRaa325qRf_m5Acd8ojXfwRyZkvpmYXoTX4blAMIFAB4hQZi9CwOClXz8qnQvRpxEZr0xPuiZyYykV3ASoPhPLlrRRpEjE": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP7yOTq-LaVK2pL3uBSg9F55r7M7KjpeYXeZXftB1uR6LoXBHg5qapBS2WTUxg-fHL-_08otC-4phzzBXQhWyLyNkSPoCbDD3Sd1YXtxN7casJ": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESVAHEIkXXG0t2miK59DCN23GKJlvDimn1qp6S6RVsg0ZiYArtNt4FaT3zMfBLXfSjMRXGyrCHXeZavO2-lCgmcinxk_BNb2LrLdosuCJRSFf_FQFMjA": {
+      "count": 1,
+      "is_owned": false
+    },
+    "https://www.google.com/goto?url=CAESkwEBxCJF1-e0wJNqEgG-37n0RvZurPpyQQ6xCW3JPboHezrfud7A9eXLF3vXH0KpTfrFJlSAxfaYiQxnAJ6PBwHb2CmeqnZE03OS2Jl4pGv-eCVi6e2NcEguPTfpi0ehWjorJaA5MWbl-aj6VnseYwWYoTSfTh65KGIhARxc13EHJ6tcgRiQ8ePurLau0O0T9vRER4Q": {
       "count": 1,
       "is_owned": false
     }
